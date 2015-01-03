@@ -1,4 +1,5 @@
 <?php
+require_once 'functions.php';
 $page = isset($_GET['page']) ? $_GET['page'] : '';
 // all available pages
 $pages = array('about-us');
@@ -32,15 +33,10 @@ if (!empty($page)) {
     } else {
         echo 'Page not found. Return to <a href="/">Home</a>';
     }
-}
-
-// include partial files
-function include_partial($fileName, $vars = array())
-{
-    // initialize vars
-    foreach ($vars as $varName => $varValue) {
-        ${$varName} = $varValue;
-    }
-    // require partial
-    require 'partial/' . $fileName;
+} else {
+    // default home page
+    // header
+    include_partial('_header.php', array('title' => 'home', 'head' => ''));
+    // footer
+    include_partial('_footer.php');
 }
