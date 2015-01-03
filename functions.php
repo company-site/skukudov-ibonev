@@ -1,6 +1,10 @@
 <?php
 
-// include partial files
+/**
+ * include partial files
+ * @param string $fileName
+ * @param array $vars
+ */
 function include_partial($fileName, $vars = array())
 {
     // initialize vars
