@@ -12,6 +12,10 @@
     <link href="web/css/cover.css" rel="stylesheet">
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <!-- angular -->
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular.min.js"></script>
+    <!-- JQ -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <title><?php echo $title; ?></title>
     <?php echo $head; ?>
 </head>
