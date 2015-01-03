@@ -3,7 +3,7 @@ require_once 'functions.php';
 $page = parse_url($_SERVER['REQUEST_URI']);
 $page = ($page['path'] != '/index.php') ? str_replace('/', '', $page['path']) : '';
 // all available pages
-$pages = array('about-us');
+$pages = array('about-us', 'dynamic-page');
 // have a selected page
 if (!empty($page)) {
     // page is in the available pages

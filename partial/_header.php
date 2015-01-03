@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
     <!-- Optional theme -->
@@ -15,7 +16,6 @@
     <!-- angular -->
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular.min.js"></script>
     <!-- JQ -->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <title><?php echo $title; ?></title>
     <?php echo $head; ?>
 </head>
@@ -34,11 +34,14 @@
             <a class="navbar-brand" href="/">Logo</a>
         </div>
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
                 <li <?php echo (strpos($_SERVER['REQUEST_URI'], 'about-us') === false) ? '' : ' class="active"'; ?>><a href="/about-us">About us</a></li>
             </ul>
-        </div><!-- /.navbar-collapse -->
+            <ul class="nav navbar-nav">
+                <li <?php echo (strpos($_SERVER['REQUEST_URI'], 'dynamic-page') === false) ? '' : ' class="active"'; ?>><a href="/dynamic-page">Dynamic page</a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
 </nav>
