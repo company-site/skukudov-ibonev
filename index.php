@@ -1,6 +1,7 @@
 <?php
 require_once 'functions.php';
-$page = isset($_GET['page']) ? $_GET['page'] : '';
+$page = parse_url($_SERVER['REQUEST_URI']);
+$page = ($page['path'] != '/index.php') ? str_replace('/', '', $page['path']) : '';
 // all available pages
 $pages = array('about-us');
 // have a selected page
