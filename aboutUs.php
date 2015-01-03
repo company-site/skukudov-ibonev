@@ -1,5 +1,5 @@
 <?php
-include_partial('_header.php', array('title' => 'about us'));
+$title = 'about us';
 ?>
 <div class="container">
     <div class="row">
