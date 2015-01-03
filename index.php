@@ -1,4 +1,5 @@
 <?php
+include_partial('_header.php');
 $page = isset($_GET['page']) ? $_GET['page'] : '';
 // all available pages
 $pages = array('about-us');
