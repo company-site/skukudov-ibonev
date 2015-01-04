@@ -38,9 +38,26 @@ DynamicPage = function () {
 
     dynamic.appendElements = function () {
         $(".dynamic-content").removeClass("hidden");
-        var category = '<li role="presentation" class="' + dynamic.category + '"><a href="javascript:void(0)">' + dynamic.category + '</a></li>';
-        $(".dynamic-content .nav-tabs").append(category);
-        console.log(dynamic.category, dynamic.title, dynamic.content);
+        $(".articles").append('<div class="article-block ' + dynamic.category + '"><h2>' + dynamic.title + '</h2><p class="lead">' + dynamic.content + '</p>');
+        var category = '<li role="presentation"><a href="javascript:void(0);" id="' + dynamic.category + '" class="filter">' + dynamic.category + '</a></li>';
+        // category doesn't exist
+        if (!$("a#" + dynamic.category).length > 0) {
+            $(".dynamic-content .nav-tabs").append(category);
+            dynamic.filter($("a#" + dynamic.category));
+        }
+    };
+
+    dynamic.filter = function (element) {
+        element.click(function () {
+            $("li[role='presentation']").removeClass("active");
+            element.parent().addClass("active");
+            $(".article-block").hide();
+            if (element.attr("id") == "all") {
+                $(".article-block").show();
+            } else {
+                $(".article-block." + element.attr("id")).show();
+            }
+        });
     };
 
     dynamic.cleanElements = function () {
@@ -55,6 +72,7 @@ DynamicPage = function () {
 
     dynamic.init = function () {
         this.buttonClick();
+        this.filter($("a#all"));
     };
 
     return dynamic;
