@@ -6,15 +6,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- JQ -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="../vendor/js/bootstrap-switch.js"></script>
+    <script src="../vendor/js/jquery.easing.min.js"></script>
+    <script src="../vendor/js/grayscale.js"></script>
+    <!-- Custom Fonts -->
+    <link href="../vendor/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
-    <!-- Optional theme -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
     <link rel="stylesheet" href="../vendor/css/bootstrap-switch.css">
-    <script src="../vendor/js/bootstrap-switch.js"></script>
     <!-- custom css -->
     <link rel="stylesheet" href="../css/styles.css">
-    <link rel="stylesheet" href="../css/simple-sidebar.css">
+    <link rel="stylesheet" href="../vendor/css/grayscale.css">
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
     <!-- angular -->
@@ -26,30 +31,6 @@
     <title ng-bind="title"><?php // echo $title; ?></title>
     <?php // echo $head; ?>
 </head>
-<body>
-    <nav class="navbar navbar-inverse">
-        <div class="container-fluid">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="/">Logo</a>
-            </div>
-
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" ng-controller="Navigation as vm">
-                <ul class="nav navbar-nav">
-                    <li <?php echo (strpos($_SERVER['REQUEST_URI'], 'about-us') === false) ? '' : ' class="active"'; ?> ng-class="{active: vm.isActive('/about-us')}"><a href="/about-us">About us</a></li>
-                </ul>
-                <ul class="nav navbar-nav">
-                    <li <?php echo (strpos($_SERVER['REQUEST_URI'], 'technologies') === false) ? '' : ' class="active"'; ?> ng-class="{active: vm.isActive('/technologies')}"><a href="/technologies">Technologies</a></li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div><!-- /.container-fluid -->
-    </nav>
-    
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+    <div ng-include="'/app/navigation/navigation.html'"></div>
     <div ng-view=""></div>

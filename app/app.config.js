@@ -10,9 +10,9 @@
     function routeConfig($routeProvider, $locationProvider) {
         $routeProvider
             .when('/',{ templateUrl: 'app/home/home.html', title: 'Home'})
-            .when('/about-us',{ templateUrl: 'app/about/about.html', title: 'About'})
+            .when('/about',{ templateUrl: 'app/about/about.html', title: 'About'})
             .when('/technologies',{ templateUrl: 'app/demonstrations/demonstrations.html', title: 'Technologies'})
-//            .when('/dynamic-page',{ templateUrl: 'app/demonstrations/demonstrations.hmtl', title: 'Demos'})
+            .when('/dynamic-page',{ templateUrl: 'app/dynamic-page/dynamic-page.html', title: 'Dynamic page'})
             .otherwise({ redirectTo: '/' });
             
         $locationProvider.html5Mode(true).hashPrefix('!');

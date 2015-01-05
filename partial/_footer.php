@@ -13,8 +13,18 @@
     <script src="../app/about/about.js"></script>
     <!-- demonstrations -->
     <script src="../app/demonstrations/demonstrations.js"></script>
-    <!-- demonstrations -->
+    <!-- navigation -->
     <script src="../app/navigation/navigation.js"></script>
+    <!-- dynamic page -->
+    <script src="../app/dynamic-page/dynamic-page.js"></script>
+    
+    <!-- Footer -->
+    <footer>
+        <div class="container text-center">
+            <p>Copyright &copy; ISComp 2014</p>
+        </div>
+    </footer>
+
 
 </body>
 </html>
