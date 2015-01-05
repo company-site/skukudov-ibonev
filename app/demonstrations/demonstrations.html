@@ -1,0 +1,50 @@
+<div style="margin-top: -20px;" id="wrapper" ng-controller="Demonstrations as vm">
+    <div class="row">
+        <div class="col-lg-3">
+            <div id="sidebar-wrapper">
+                <ul class="sidebar-nav">
+                    <li>
+                        <a href="#">One page app</a>
+                    </li>
+                    <li>
+                        <a href="#">Responsive design</a>
+                    </li>
+                    <li>
+                        <a href="#">Dynamic page</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-lg-9">
+            <h2>{{vm.welcomeText}}</h2>
+            <div class="table-responsive" style="width: 80%">
+                <table class="table">
+                    <tr>
+                        <th>Technology</th>
+                        <th>State</th>
+                    </tr>
+                    <tr>
+                        <td>One page app</td>
+                        <td><input type="checkbox" name="one-page" data-size="normal"/></td>
+                    </tr>
+                    <tr>
+                        <td>Responsive design</td>
+                        <td><input type="checkbox" name="resp-page" data-size="normal"/></td>
+                    </tr>
+                    <tr>
+                        <td>Dynamic page</td>
+                        <td><input type="checkbox" name="dynamic-page" data-size="normal"/></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('input[name="one-page"]').bootstrapSwitch('state', true, true);
+        $('input[name="resp-page"]').bootstrapSwitch('state', true, true);
+        $('input[name="dynamic-page"]').bootstrapSwitch('state', true, true);
+    });
+</script>
