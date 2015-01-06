@@ -7,6 +7,15 @@ and open the template in the editor.
     Created on : 2015-1-5, 4:20:08
     Author     : iliyan
 */
+body {
+/*    background: url(../vendor/img/intro-bg.jpg) no-repeat bottom center scroll !important;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;*/
+}
+
 .pt-100 {
     padding-top: 100px; 
 }

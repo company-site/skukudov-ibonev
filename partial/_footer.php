@@ -17,6 +17,8 @@
     <script src="../app/navigation/navigation.js"></script>
     <!-- dynamic page -->
     <script src="../app/dynamic-page/dynamic-page.js"></script>
+    <!-- contact page -->
+    <script src="../app/contact/contact.js"></script>
     
     <!-- Footer -->
     <footer>

@@ -6,22 +6,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- JQ -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-    <script src="../vendor/js/bootstrap-switch.js"></script>
     <script src="../vendor/js/jquery.easing.min.js"></script>
+    
+    <!-- Bootstrap -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <!-- Optional theme -->
+    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">-->
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    
+    <!-- Bootstrap switch css and js -->
+    <link rel="stylesheet" href="../vendor/css/bootstrap-switch.css">
+    <script src="../vendor/js/bootstrap-switch.js"></script>
+    
+    <!-- custom css and js -->
+    <link rel="stylesheet" href="../css/styles.css">
+    <script src="../js/dynamicPage.js"></script>
+    
+    <!-- Grayscale Theme css and js -->
+    <link rel="stylesheet" href="../vendor/css/grayscale.css">
     <script src="../vendor/js/grayscale.js"></script>
-    <!-- Custom Fonts -->
+    <!-- Grayscale Custom Fonts -->
     <link href="../vendor/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../vendor/css/bootstrap-switch.css">
-    <!-- custom css -->
-    <link rel="stylesheet" href="../css/styles.css">
-    <link rel="stylesheet" href="../vendor/css/grayscale.css">
-    <!-- Latest compiled and minified JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    
     <!-- angular -->
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular-route.js"></script>
