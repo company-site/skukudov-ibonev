@@ -23,6 +23,8 @@
     <!-- custom css and js -->
     <link rel="stylesheet" href="../css/styles.css">
     <script src="../js/dynamicPage.js"></script>
+    <link href="/vendor/toastr/toastr.css" rel="stylesheet"/>
+    <script src="/vendor/toastr/toastr.js"></script>
     
     <!-- Grayscale Theme css and js -->
     <link rel="stylesheet" href="../vendor/css/grayscale.css">

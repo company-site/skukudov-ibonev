@@ -41,6 +41,7 @@ $head = array('<script src="js/dynamicPage.js"></script>');
 <script type="text/javascript">
     $(document).ready(function () {
         var dynamicPage = DynamicPage();
+        dynamicPage.appendHistory();
         dynamicPage.init();
     });
 </script>

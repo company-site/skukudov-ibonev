@@ -4,7 +4,9 @@ DynamicPage = function () {
         title: "",
         content: "",
         formDivClass: "form-group",
-        buttonId: "continue"
+        buttonId: "continue",
+        toastr: toastr,
+        articles: {}
     };
 
     dynamic.buttonClick = function () {
@@ -13,9 +15,11 @@ DynamicPage = function () {
             if (input.val()) {
                 if (input.attr("id") == "category") {
                     dynamic.category = input.val();
+                    dynamic.toastr.success('Your category has been stored. Please enter a title for your article');
                 }
                 if (input.attr("id") == "title") {
                     dynamic.title = input.val();
+                    dynamic.toastr.success('Almost there. Your title has been stored. Please enter a content for your article');
                 }
                 if (input.attr("id") == "content") {
                     dynamic.content = input.val();
@@ -24,6 +28,7 @@ DynamicPage = function () {
                 // category, title, content are not empty
                 if (dynamic.category != "" && dynamic.title != "" && dynamic.content != "") {
                     dynamic.appendElements();
+                    dynamic.storeArticle();
                     dynamic.cleanElements();
                 }
             }
@@ -70,7 +75,36 @@ DynamicPage = function () {
         });
     };
 
+    dynamic.storeArticle = function () {
+        var stores = {};
+        if (dynamic.articles.hasOwnProperty(dynamic.category)) {
+            stores.titles = dynamic.articles[dynamic.category].title;
+            stores.content = dynamic.articles[dynamic.category].content;
+        }
+        dynamic.articles[dynamic.category] = {
+            title: [dynamic.title],
+            content: [dynamic.content]
+        };
+        if (!$.isEmptyObject(stores)) {
+            $.each(stores, function (index, element) {
+                if (index == "titles") {
+                    dynamic.articles[dynamic.category].title.push(element[0]);
+                } else {
+                    dynamic.articles[dynamic.category].content.push(element[0]);
+                }
+            });
+        }
+        // store in local cache
+        localStorage.setItem('articles',JSON.stringify(dynamic.articles));
+    };
+
+    dynamic.appendHistory = function () {
+        var articles = JSON.parse(localStorage.getItem('articles'));
+        console.log(articles);
+    };
+
     dynamic.init = function () {
+        dynamic.toastr.options.closeButton = true;
         this.buttonClick();
         this.filter($("a#all"));
     };
