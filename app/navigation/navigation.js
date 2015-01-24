@@ -15,5 +15,6 @@
         vm.isActive = function(route) {
             return route === $location.path();
         }
+        
     }
 })();

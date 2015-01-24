@@ -6,7 +6,7 @@
 
     <!-- core module -->
     <script src="../app/core/core.module.js"></script>
-
+    
     <!-- home -->
     <script src="../app/home/home.js"></script>
     <!-- about -->
@@ -19,6 +19,9 @@
     <script src="../app/dynamic-page/dynamic-page.js"></script>
     <!-- contact page -->
     <script src="../app/contact/contact.js"></script>
+    
+    <!-- factories -->
+    <script src="../app/core/factories/session.factory.js"></script>
     
     <!-- Footer -->
     <footer>

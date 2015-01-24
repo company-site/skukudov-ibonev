@@ -20,3 +20,7 @@ body {
     padding-top: 100px; 
 }
 
+.disable-responsiveness.container {
+    width: 970px !important;
+}
+
