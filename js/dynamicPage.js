@@ -6,7 +6,7 @@ DynamicPage = function () {
         formDivClass: "form-group",
         buttonId: "continue",
         toastr: toastr,
-        articles: {}
+        articles: []
     };
 
     dynamic.buttonClick = function () {
@@ -27,6 +27,7 @@ DynamicPage = function () {
                 dynamic.toggleElements();
                 // category, title, content are not empty
                 if (dynamic.category != "" && dynamic.title != "" && dynamic.content != "") {
+                    dynamic.cleanValues();
                     dynamic.appendElements();
                     dynamic.storeArticle();
                     dynamic.cleanElements();
@@ -41,6 +42,12 @@ DynamicPage = function () {
         visibleDiv.addClass("hidden");
     };
 
+    dynamic.cleanValues = function () {
+        dynamic.category = $.trim(dynamic.category);
+        dynamic.title = $.trim(dynamic.title);
+        dynamic.content = $.trim(dynamic.content);
+    };
+
     dynamic.appendElements = function () {
         $(".dynamic-content").removeClass("hidden");
         $(".articles").append('<div class="article-block ' + dynamic.category + '"><h2>' + dynamic.title + '</h2><p class="lead">' + dynamic.content + '</p>');
@@ -49,6 +56,8 @@ DynamicPage = function () {
         if (!$("a#" + dynamic.category).length > 0) {
             $(".dynamic-content .nav-tabs").append(category);
             dynamic.filter($("a#" + dynamic.category));
+            // forse filtering
+            $("a#" + dynamic.category).click();
         }
     };
 
@@ -76,31 +85,28 @@ DynamicPage = function () {
     };
 
     dynamic.storeArticle = function () {
-        var stores = {};
-        if (dynamic.articles.hasOwnProperty(dynamic.category)) {
-            stores.titles = dynamic.articles[dynamic.category].title;
-            stores.content = dynamic.articles[dynamic.category].content;
-        }
-        dynamic.articles[dynamic.category] = {
-            title: [dynamic.title],
-            content: [dynamic.content]
-        };
-        if (!$.isEmptyObject(stores)) {
-            $.each(stores, function (index, element) {
-                if (index == "titles") {
-                    dynamic.articles[dynamic.category].title.push(element[0]);
-                } else {
-                    dynamic.articles[dynamic.category].content.push(element[0]);
-                }
-            });
-        }
+        dynamic.articles.push({
+            category: dynamic.category,
+            title: dynamic.title,
+            content: dynamic.content
+        });
         // store in local cache
-        localStorage.setItem('articles',JSON.stringify(dynamic.articles));
+        localStorage.setItem('articles', JSON.stringify(dynamic.articles));
     };
 
     dynamic.appendHistory = function () {
         var articles = JSON.parse(localStorage.getItem('articles'));
-        console.log(articles);
+        // we have history
+        if (!$.isEmptyObject(articles)) {
+            $.each(articles, function (i, el) {
+                dynamic.category = el.category;
+                dynamic.title = el.title;
+                dynamic.content = el.content;
+                dynamic.appendElements();
+                dynamic.storeArticle();
+                dynamic.cleanElements();
+            });
+        }
     };
 
     dynamic.init = function () {
