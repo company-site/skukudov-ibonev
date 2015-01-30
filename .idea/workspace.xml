@@ -2,9 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa5f2845-56de-412c-be05-8036d871ab28" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/_header.php" afterPath="$PROJECT_DIR$/partial/_header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/dynamicPage.js" afterPath="$PROJECT_DIR$/js/dynamicPage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dynamicPage.php" afterPath="$PROJECT_DIR$/dynamicPage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/toastr-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.1.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.2.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.3.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.1.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.2.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.3.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.1.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.2.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.5.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.1.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.2.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.1.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.0-rc1.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.1.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.2.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.3.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/.jscsrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/tests/unit/qunit-helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/tests/qunit/qunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/tests/qunit/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/release checklist.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/tests/toastr-tests.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/tests/unit/toastr-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.0.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.1.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.2.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.3.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.0.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.1.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.2.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.1.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.2.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.5.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.0.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.1.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.2.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.0.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.1.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.0-rc1.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.1.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.2.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.3.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/toastr.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/build/toastr.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/toastr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/content/scripts/toastr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/toastr.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/build/toastr.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/content/scripts/toastr.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/build/toastr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/content/scripts/toastr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/toastr.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/tests/unit/x.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="skukudov-ibonev.iws" />
@@ -40,21 +112,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.71875" vertical-offset="634" max-vertical-offset="1587">
-              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.54761904" vertical-offset="483" max-vertical-offset="1587">
+              <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dynamicPage.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dynamicPage.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dynamicPage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6586271" vertical-offset="634" max-vertical-offset="1196">
-              <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="1196">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -63,7 +135,7 @@
       <file leaf-file-name="dynamicPage.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/dynamicPage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.727273" vertical-offset="1992" max-vertical-offset="2714">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1992" max-vertical-offset="2714">
               <caret line="102" column="28" selection-start-line="102" selection-start-column="28" selection-end-line="102" selection-end-column="28" />
               <folding />
             </state>
@@ -208,142 +280,6 @@
       <recent name="$PROJECT_DIR$/partial" />
     </key>
   </component>
-  <component name="RestoreUpdateTree">
-    <UpdateInfo date="Moments ago" ActionInfo="_Update">
-      <UpdatedFiles>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated from server" />
-          <option name="myStatusName" value="Changed on server" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CHANGED_ON_SERVER" />
-          <FILE-GROUP>
-            <option name="myUpdateName" value="Updated" />
-            <option name="myStatusName" value="Changed" />
-            <option name="mySupportsDeletion" value="false" />
-            <option name="myCanBeAbsent" value="false" />
-            <option name="myId" value="UPDATED" />
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/about/about.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/app.config.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/demonstrations/demonstrations.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/home/home.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/css/styles.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/partial/_footer.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/partial/_header.php</PATH>
-          </FILE-GROUP>
-          <FILE-GROUP>
-            <option name="myUpdateName" value="Created" />
-            <option name="myStatusName" value="Created" />
-            <option name="mySupportsDeletion" value="false" />
-            <option name="myCanBeAbsent" value="false" />
-            <option name="myId" value="CREATED" />
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/contact/contact.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/contact/contact.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/dynamic-page/dynamic-page.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/dynamic-page/dynamic-page.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/navigation/navigation.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/css/font-awesome.min.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/css/grayscale.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/fonts/FontAwesome.otf</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.eot</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.svg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.ttf</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.woff</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/img/downloads-bg.jpg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/img/intro-bg.jpg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/img/map-marker.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/js/grayscale.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/js/jquery.easing.min.js</PATH>
-          </FILE-GROUP>
-          <FILE-GROUP>
-            <option name="myUpdateName" value="Deleted" />
-            <option name="myStatusName" value="Deleted" />
-            <option name="mySupportsDeletion" value="false" />
-            <option name="myCanBeAbsent" value="true" />
-            <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/css/simple-sidebar.css</PATH>
-          </FILE-GROUP>
-          <FILE-GROUP>
-            <option name="myUpdateName" value="Restored" />
-            <option name="myStatusName" value="Will be restored" />
-            <option name="mySupportsDeletion" value="false" />
-            <option name="myCanBeAbsent" value="false" />
-            <option name="myId" value="RESTORED" />
-          </FILE-GROUP>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Modified" />
-          <option name="myStatusName" value="Modified" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MODIFIED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Skipped" />
-          <option name="myStatusName" value="Skipped" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="SKIPPED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Merged with conflicts" />
-          <option name="myStatusName" value="Will be merged with conflicts" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MERGED_WITH_CONFLICTS" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Merged with tree conflicts" />
-          <option name="myStatusName" value="Merged with tree conflicts" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Merged with property conflicts" />
-          <option name="myStatusName" value="Will be merged with property conflicts" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Merged" />
-          <option name="myStatusName" value="Will be merged" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MERGED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Not in repository" />
-          <option name="myStatusName" value="Not in repository" />
-          <option name="mySupportsDeletion" value="true" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UNKNOWN" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Locally added" />
-          <option name="myStatusName" value="Locally added" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="LOCALLY_ADDED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Locally removed" />
-          <option name="myStatusName" value="Locally removed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="LOCALLY_REMOVED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Switched" />
-          <option name="myStatusName" value="Switched" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="SWITCHED" />
-        </FILE-GROUP>
-      </UpdatedFiles>
-    </UpdateInfo>
-  </component>
   <component name="RunManager" selected="PHP Web Application.Company">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
@@ -458,20 +394,26 @@
       <option name="project" value="LOCAL" />
       <updated>1420370879414</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="toastr">
+      <created>1421617632564</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1421617632564</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27773345" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27693537" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -506,13 +448,78 @@
     <MESSAGE value="skeleton" />
     <MESSAGE value="dynamic" />
     <MESSAGE value="dynamic articles" />
-    <option name="LAST_COMMIT_MESSAGE" value="dynamic articles" />
+    <MESSAGE value="toastr" />
+    <option name="LAST_COMMIT_MESSAGE" value="toastr" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="161" max-vertical-offset="299">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1587">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamicPage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="1196">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/dynamicPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1992" max-vertical-offset="2714">
+          <caret line="102" column="28" selection-start-line="102" selection-start-column="28" selection-end-line="102" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="161" max-vertical-offset="299">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="634" max-vertical-offset="1587">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamicPage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1196">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/dynamicPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1992" max-vertical-offset="2714">
+          <caret line="102" column="28" selection-start-line="102" selection-start-column="28" selection-end-line="102" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="161" max-vertical-offset="299">
@@ -533,7 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="197" max-vertical-offset="1380">
           <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -557,7 +563,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="565" max-vertical-offset="1196">
           <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -589,7 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="565" max-vertical-offset="1196">
           <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -621,7 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="69" max-vertical-offset="1219">
           <caret line="19" column="20" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -699,6 +702,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/partial/_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48794064" vertical-offset="335" max-vertical-offset="1219">
+          <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/dynamicPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1992" max-vertical-offset="2714">
+          <caret line="102" column="28" selection-start-line="102" selection-start-column="28" selection-end-line="102" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="161" max-vertical-offset="299">
@@ -707,34 +725,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partial/_header.php">
+    <entry file="file://$PROJECT_DIR$/dynamicPage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48794064" vertical-offset="335" max-vertical-offset="1219">
-          <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="1196">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5" vertical-offset="0" max-vertical-offset="15525">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.71875" vertical-offset="634" max-vertical-offset="1587">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/dynamicPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.727273" vertical-offset="1992" max-vertical-offset="2714">
-          <caret line="102" column="28" selection-start-line="102" selection-start-column="28" selection-end-line="102" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamicPage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6586271" vertical-offset="634" max-vertical-offset="1196">
-          <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.54761904" vertical-offset="483" max-vertical-offset="1587">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
           <folding />
         </state>
       </provider>
