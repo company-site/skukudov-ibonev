@@ -56,7 +56,7 @@ DynamicPage = function () {
         if (!$("a#" + dynamic.category).length > 0) {
             $(".dynamic-content .nav-tabs").append(category);
             dynamic.filter($("a#" + dynamic.category));
-            // forse filtering
+            // force filtering by the new category
             $("a#" + dynamic.category).click();
         }
     };
