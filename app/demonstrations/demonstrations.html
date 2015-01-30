@@ -6,17 +6,17 @@
                 <p class="list-group-item active">
                     Use the ON/OFF buttons to enable or disable given technology
                 </p>
-                <p class="list-group-item">One page app <input type="checkbox" name="one-page" data-size="normal"/></p>
-                <p class="list-group-item">Responsive design <input type="checkbox" name="resp-page" data-size="normal"/></p>
+                <div class="list-group-item">
+                    <label>Responsive Design</label>
+                    <label class="btn btn-primary" ng-class="{'btn-success': vm.responsiveDesignState == true}" ng-click="vm.responsiveDesign(true)" ng-model="vm.responsiveDesignState" btn-radio="'true'">On</label>
+                    <label class="btn btn-primary" ng-class="{'btn-success': vm.responsiveDesignState == false}" ng-click="vm.responsiveDesign(false)" ng-model="vm.responsiveDesignState" btn-radio="'false'">Off</label>
+                </div>
+                <div class="list-group-item">
+                    <label>OnePage App</label>
+                    <label class="btn btn-primary" ng-class="{'btn-success': vm.onePageAppState == true}" ng-click="vm.onePageApp(true)" ng-model="vm.onePageAppState" btn-radio="'true'">On</label>
+                    <label class="btn btn-primary" ng-class="{'btn-success': vm.onePageAppState == false}" ng-click="vm.onePageApp(false)" ng-model="vm.onePageAppState" btn-radio="'false'">Off</label>
+                </div>
             </div>
         </div>
     </div>
 </div>
-
-<script type="text/javascript">
-    $(document).ready(function(){
-        $('input[name="one-page"]').bootstrapSwitch('state', true, true);
-        $('input[name="resp-page"]').bootstrapSwitch('state', true, true);
-        $('input[name="dynamic-page"]').bootstrapSwitch('state', true, true);
-    });
-</script>

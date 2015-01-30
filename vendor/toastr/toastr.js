@@ -1,7 +1,7 @@
 /*
  * Toastr
  * Copyright 2012-2014 
- * Authors: John Papa, Hans Fjällemark, and Tim Ferrell.
+ * Authors: John Papa, Hans FjГ¤llemark, and Tim Ferrell.
  * All Rights Reserved.
  * Use, reproduction, distribution, and modification of this code is subject to the terms and
  * conditions of the MIT license, available at http://www.opensource.org/licenses/mit-license.php
@@ -179,7 +179,7 @@
                     titleClass: 'toast-title',
                     messageClass: 'toast-message',
                     target: 'body',
-                    closeHtml: '<button type="button">&times;</button>',
+                    closeHtml: '<button>&times;</button>',
                     newestOnTop: true,
                     preventDuplicates: false,
                     progressBar: false
@@ -195,17 +195,17 @@
                 var options = getOptions(),
                     iconClass = map.iconClass || options.iconClass;
 
-                if (typeof (map.optionsOverride) !== 'undefined') {
-                    options = $.extend(options, map.optionsOverride);
-                    iconClass = map.optionsOverride.iconClass || iconClass;
-                }
-                
                 if (options.preventDuplicates) {
                     if (map.message === previousToast) {
                         return;
                     } else {
                         previousToast = map.message;
                     }
+                }
+
+                if (typeof (map.optionsOverride) !== 'undefined') {
+                    options = $.extend(options, map.optionsOverride);
+                    iconClass = map.optionsOverride.iconClass || iconClass;
                 }
 
                 toastId++;
@@ -359,7 +359,6 @@
                 $toastElement = null;
                 if ($container.children().length === 0) {
                     $container.remove();
-                    previousToast = undefined;
                 }
             }
             //#endregion
