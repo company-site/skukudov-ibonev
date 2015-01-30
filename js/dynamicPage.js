@@ -38,7 +38,7 @@ DynamicPage = function () {
 
     dynamic.toggleElements = function () {
         var visibleDiv = $("." + this.formDivClass + ":not(.hidden)");
-        $("." + this.formDivClass + ":not(.hidden)").next().removeClass("hidden");
+        visibleDiv.next().removeClass("hidden");
         visibleDiv.addClass("hidden");
     };
 
