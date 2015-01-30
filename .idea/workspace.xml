@@ -2,81 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa5f2845-56de-412c-be05-8036d871ab28" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/toastr-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.0.nupkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.1.nupkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.2.nupkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.3.nupkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.0.nupkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.1.nupkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.2.nupkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.3.nupkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.1.nupkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.2.nupkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.nupkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.5.nupkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.0.nupkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.1.nupkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.2.nupkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.0.nupkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.1.nupkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.0-rc1.nupkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.1.nupkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.2.nupkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.3.nupkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/.jscsrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/tests/unit/qunit-helper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/tests/qunit/qunit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/tests/qunit/qunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/release checklist.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/tests/toastr-tests.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/tests/unit/toastr-tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.0.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.1.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.2.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.3.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.0.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.1.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.2.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.1.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.2.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.5.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.0.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.1.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.2.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.0.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.1.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.0-rc1.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.1.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.2.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.3.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/toastr.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/build/toastr.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/toastr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/content/scripts/toastr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/toastr.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/build/toastr.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/content/scripts/toastr.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/build/toastr.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/content/scripts/toastr.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/toastr.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/toastr/tests/unit/x.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="skukudov-ibonev.iws" />
@@ -190,7 +115,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -201,71 +126,7 @@
       <autoscrollFromSource />
       <sortByType />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skukudov-ibonev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skukudov-ibonev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skukudov-ibonev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skukudov-ibonev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skukudov-ibonev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skukudov-ibonev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skukudov-ibonev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skukudov-ibonev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skukudov-ibonev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -400,13 +261,20 @@
       <option name="project" value="LOCAL" />
       <updated>1421617632564</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="toastr">
+      <created>1422648173554</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1422648173554</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -422,7 +290,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
