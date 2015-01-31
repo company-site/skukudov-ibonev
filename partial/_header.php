@@ -16,10 +16,7 @@
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
     
-    <!-- Bootstrap switch css and js -->
-    <link rel="stylesheet" href="../vendor/css/bootstrap-switch.css">
-    <script src="../vendor/js/bootstrap-switch.js"></script>
-    
+
     <!-- custom css and js -->
     <link rel="stylesheet" href="../css/styles.css">
     <script src="../js/dynamicPage.js"></script>
@@ -39,6 +36,17 @@
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular-route.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular-sanitize.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular-animate.js"></script>
+    <!-- jquery sidebar start -->
+    <script type="text/javascript" src="http://code.jquery.com/ui/1.8.13/jquery-ui.min.js"></script>
+    <link href="../vendor/jquery.sidebar/css/dark-glass/sidebar.css" rel="stylesheet" type="text/css">
+    <script src="../vendor/jquery.sidebar/src/jquery.sidebar.js"></script>
+    <!-- jquery sidebar end -->
+
+    <!-- button switcher start -->
+    <link href="../vendor/button.switcher/normalize.css" rel="stylesheet" type="text/css">
+    <script src="../vendor/button.switcher/prefixfree.min.js"></script>
+    <!-- button switcher end -->
+
     <base href="/" />
     <title ng-bind="title"><?php // echo $title; ?></title>
     <?php // echo $head; ?>
@@ -46,3 +54,28 @@
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
     <div ng-include="'/app/navigation/navigation.html'"></div>
     <div ng-view=""></div>
+
+    <ul id="sidebar">
+        <li><small>Responsive Design</small><a href="#" class="toggle toggle-on"></a></li>
+        <br/>
+        <li><small>One Page Application</small><a href="#" class="toggle toggle-on"></a></li>
+    </ul>
+<script type="text/javascript">
+    $("ul#sidebar").sidebar({
+//        position:"right"
+    });
+
+    $('.toggle').click(function(e) {
+        var toggle = this;
+
+        e.preventDefault();
+
+        $(toggle).toggleClass('toggle-on')
+            .toggleClass('toggle-off')
+            .addClass('toggle-moving');
+
+        setTimeout(function() {
+            $(toggle).removeClass('toggle-moving');
+        }, 200)
+    });
+</script>
