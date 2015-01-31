@@ -10,30 +10,39 @@ DynamicPage = function () {
     };
 
     dynamic.buttonClick = function () {
-        $("#" + this.buttonId).click(function () {
-            var input = $("." + dynamic.formDivClass + ":not(.hidden) :input");
-            if (input.val()) {
-                if (input.attr("id") == "category") {
-                    dynamic.category = input.val();
-                    dynamic.toastr.success('Your category has been stored. Please enter a title for your article');
-                }
-                if (input.attr("id") == "title") {
-                    dynamic.title = input.val();
-                    dynamic.toastr.success('Almost there. Your title has been stored. Please enter a content for your article');
-                }
-                if (input.attr("id") == "content") {
-                    dynamic.content = input.val();
-                }
-                dynamic.toggleElements();
-                // category, title, content are not empty
-                if (dynamic.category != "" && dynamic.title != "" && dynamic.content != "") {
-                    dynamic.cleanValues();
-                    dynamic.appendElements();
-                    dynamic.storeArticle();
-                    dynamic.cleanElements();
-                }
+        $("." + dynamic.formDivClass).keypress(function(e) {
+            if (e.which == 13) {
+                dynamic.process();
             }
         });
+        $("#" + this.buttonId).click(function () {
+            dynamic.process();
+        });
+    };
+
+    dynamic.process = function () {
+        var input = $("." + dynamic.formDivClass + ":not(.hidden) :input");
+        if (input.val()) {
+            if (input.attr("id") == "category") {
+                dynamic.category = input.val();
+                dynamic.toastr.success('Your category has been stored. Please enter a title for your article');
+            }
+            if (input.attr("id") == "title") {
+                dynamic.title = input.val();
+                dynamic.toastr.success('Almost there. Your title has been stored. Please enter a content for your article');
+            }
+            if (input.attr("id") == "content") {
+                dynamic.content = input.val();
+            }
+            dynamic.toggleElements();
+            // category, title, content are not empty
+            if (dynamic.category != "" && dynamic.title != "" && dynamic.content != "") {
+                dynamic.cleanValues();
+                dynamic.appendElements();
+                dynamic.storeArticle();
+                dynamic.cleanElements();
+            }
+        }
     };
 
     dynamic.toggleElements = function () {
@@ -91,11 +100,11 @@ DynamicPage = function () {
             content: dynamic.content
         });
         // store in local cache
-        localStorage.setItem('articles', JSON.stringify(dynamic.articles));
+        sessionStorage.setItem('articles', JSON.stringify(dynamic.articles));
     };
 
     dynamic.appendHistory = function () {
-        var articles = JSON.parse(localStorage.getItem('articles'));
+        var articles = JSON.parse(sessionStorage.getItem('articles'));
         // we have history
         if (!$.isEmptyObject(articles)) {
             $.each(articles, function (i, el) {
