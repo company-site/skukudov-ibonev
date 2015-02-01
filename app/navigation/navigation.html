@@ -42,42 +42,44 @@
     <li><small>One Page Application</small><a href="#" id="onePage" class="toggle toggle-on"></a></li>
 </ul>
 <script type="text/javascript">
-    $("ul#sidebar").sidebar({
-//        position:"right"
-    });
-    
-    if (sessionStorage.getItem('responsiveDesign') == 'true') {
-        $('#responsiveDesign').addClass('toggle-on');
-    } else {
-         $('#responsiveDesign').removeClass('toggle-on');
-         $('#responsiveDesign').addClass('toggle-off');
-    }
-    
-    if (sessionStorage.getItem('onePage') == 'true') {
-        $('#onePage').addClass('toggle-on');
-    } else {
-         $('#onePage').removeClass('toggle-on');
-         $('#onePage').addClass('toggle-off');
-    }
+    $(window).load(function() {
+        $("ul#sidebar").sidebar({
+    //        position:"right"
+        });
 
-    $('.toggle').click(function(e) {
-        var toggle = this;
-        
-        e.preventDefault();
-        
-        $(toggle).toggleClass('toggle-on')
-            .toggleClass('toggle-off')
-            .addClass('toggle-moving');
-    
-        if ($(toggle).hasClass('toggle-on')) {
-            sessionStorage.setItem($(toggle).attr('id'), 'true');
-            $('.container').css('')
+        if (sessionStorage.getItem('responsiveDesign') == 'true') {
+            $('#responsiveDesign').addClass('toggle-on');
         } else {
-             sessionStorage.setItem($(toggle).attr('id'), 'false');
+             $('#responsiveDesign').removeClass('toggle-on');
+             $('#responsiveDesign').addClass('toggle-off');
+             $('.container').css('width', '970px !important');
         }
-        
-        setTimeout(function() {
-            $(toggle).removeClass('toggle-moving');
-        }, 200)
+
+        if (sessionStorage.getItem('onePage') == 'true') {
+            $('#onePage').addClass('toggle-on');
+        } else {
+             $('#onePage').removeClass('toggle-on');
+             $('#onePage').addClass('toggle-off');
+        }
+
+        $('.toggle').click(function(e) {
+            var toggle = this;
+
+            e.preventDefault();
+
+            $(toggle).toggleClass('toggle-on')
+                .toggleClass('toggle-off')
+                .addClass('toggle-moving');
+
+            if ($(toggle).hasClass('toggle-on')) {
+                sessionStorage.setItem($(toggle).attr('id'), 'true');
+            } else {
+                 sessionStorage.setItem($(toggle).attr('id'), 'false');
+            }
+
+            setTimeout(function() {
+                $(toggle).removeClass('toggle-moving');
+            }, 200)
+        });
     });
 </script>
