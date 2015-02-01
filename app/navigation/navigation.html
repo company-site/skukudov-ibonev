@@ -59,22 +59,23 @@
 </nav>
 
 <ul id="sidebar">
-    <li><small>Responsive Design</small><a href="#" id="responsiveDesign" ng-class="{'toggle-on': vm.isResponsive =='true'}" class="toggle"></a></li>
+    <li><small>Responsive Design</small><a href="#" id="responsiveDesign" ng-click="vm.toggle()" ng-class="{'toggle-on': vm.isResponsive =='true'}" class="toggle"></a></li>
     <br/>
-    <li><small>One Page Application</small><a href="#" id="onePage" ng-class="{'toggle-on': vm.onePage =='true'}" class="toggle"></a></li>
+    <li><small>One Page Application</small><a href="#" id="onePage" ng-click="vm.toggle()" ng-class="{'toggle-on': vm.onePage =='true'}" class="toggle"></a></li>
 </ul>
 <script type="text/javascript">
-    $(window).load(function() {
+//    $(window).load(function() {
         $("ul#sidebar").sidebar({
     //        position:"right"
         });
 
         if (sessionStorage.getItem('responsiveDesign') == 'true') {
             $('#responsiveDesign').addClass('toggle-on');
+             $('.container').removeClass('disable-responsiveness');
         } else {
              $('#responsiveDesign').removeClass('toggle-on');
              $('#responsiveDesign').addClass('toggle-off');
-             $('.container').css('width', '970px !important');
+             $('.container').addClass('disable-responsiveness');
         }
 
         if (sessionStorage.getItem('onePage') == 'true') {
@@ -101,7 +102,8 @@
 
             setTimeout(function() {
                 $(toggle).removeClass('toggle-moving');
+                window.location.reload();
             }, 200)
         });
-    });
+//    });
 </script>
