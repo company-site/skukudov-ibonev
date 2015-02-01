@@ -12,24 +12,46 @@
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar-right navbar-main-collapse" ng-controller="Navigation as vm">
-            <ul class="nav navbar-nav">
-                <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-                <li class="hidden">
-                    <a href="/"></a>
-                </li>
-                <li ng-class="{active: vm.isActive('/about-us')}">
-                    <a class="page-scroll" href="/about">About</a>
-                </li>
-<!--                <li ng-class="{active: vm.isActive('/technologies')}">
-                    <a class="page-scroll" href="/technologies">Technologies</a>
-                </li>-->
-                <li ng-class="{active: vm.isActive('/dynamic-page')}">
-                    <a class="page-scroll" href="/dynamic-page">Dynamic page</a>
-                </li>
-                <li ng-class="{active: vm.isActive('/contact-us')}">
-                    <a class="page-scroll" href="/contact-us">Contact</a>
-                </li>
-            </ul>
+            <div ng-if="vm.isOnepage == 'true'">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a href="/"></a>
+                    </li>
+                    <li ng-class="{active: vm.isActive('/about-us')}">
+                        <a class="page-scroll" href="/about">About</a>
+                    </li>
+    <!--                <li ng-class="{active: vm.isActive('/technologies')}">
+                        <a class="page-scroll" href="/technologies">Technologies</a>
+                    </li>-->
+                    <li ng-class="{active: vm.isActive('/dynamic-page')}">
+                        <a class="page-scroll" href="/dynamic-page">Dynamic page</a>
+                    </li>
+                    <li ng-class="{active: vm.isActive('/contact-us')}">
+                        <a class="page-scroll" href="/contact-us">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <div ng-if="vm.isOnepage != 'true'">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a href="/"></a>
+                    </li>
+                    <li ng-class="{active: vm.isActive('/about-us')}">
+                        <a class="page-scroll" ng-click="vm.changePage('/about')" href="/about">About</a>
+                    </li>
+    <!--                <li ng-class="{active: vm.isActive('/technologies')}">
+                        <a class="page-scroll" href="/technologies">Technologies</a>
+                    </li>-->
+                    <li ng-class="{active: vm.isActive('/dynamic-page')}">
+                        <a class="page-scroll" ng-click="vm.changePage('/dynamic-page')" href="/dynamic-page">Dynamic page</a>
+                    </li>
+                    <li ng-class="{active: vm.isActive('/contact-us')}">
+                        <a class="page-scroll" ng-click="vm.changePage('/contact-us')" href="/contact-us">Contact</a>
+                    </li>
+                </ul>
+            </div>
         </div>
         <!-- /.navbar-collapse -->
     </div>
@@ -37,9 +59,9 @@
 </nav>
 
 <ul id="sidebar">
-    <li><small>Responsive Design</small><a href="#" id="responsiveDesign" class="toggle"></a></li>
+    <li><small>Responsive Design</small><a href="#" id="responsiveDesign" ng-class="{'toggle-on': vm.isResponsive =='true'}" class="toggle"></a></li>
     <br/>
-    <li><small>One Page Application</small><a href="#" id="onePage" class="toggle toggle-on"></a></li>
+    <li><small>One Page Application</small><a href="#" id="onePage" ng-class="{'toggle-on': vm.onePage =='true'}" class="toggle"></a></li>
 </ul>
 <script type="text/javascript">
     $(window).load(function() {
