@@ -13,11 +13,11 @@
         return service;
         
         function setValue(name, value){
-            $window.sessionStorage[name] = JSON.stringify(value);
+            sessionStorage.setItem(name, JSON.stringify(value));
         }
         
         function getValue(name){
-            return JSON.parse($window.sessionStorage[name]);
+            return JSON.parse(sessionStorage.getItem(name));
         }
     }
 })();

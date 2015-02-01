@@ -52,30 +52,6 @@
     <?php // echo $head; ?>
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-    <div ng-include="'/app/navigation/navigation.html'"></div>
-    <div ng-view=""></div>
-
-    <ul id="sidebar">
-        <li><small>Responsive Design</small><a href="#" class="toggle toggle-on"></a></li>
-        <br/>
-        <li><small>One Page Application</small><a href="#" class="toggle toggle-on"></a></li>
-    </ul>
-<script type="text/javascript">
-    $("ul#sidebar").sidebar({
-//        position:"right"
-    });
-
-    $('.toggle').click(function(e) {
-        var toggle = this;
-
-        e.preventDefault();
-
-        $(toggle).toggleClass('toggle-on')
-            .toggleClass('toggle-off')
-            .addClass('toggle-moving');
-
-        setTimeout(function() {
-            $(toggle).removeClass('toggle-moving');
-        }, 200)
-    });
-</script>
+    <div class="conatiner">
+        <div ng-include="'/app/navigation/navigation.html'"></div>
+        <div ng-view=""></div>

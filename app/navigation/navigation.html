@@ -35,3 +35,41 @@
     </div>
     <!-- /.container -->
 </nav>
+
+<ul id="sidebar">
+    <li><small>Responsive Design</small><a href="#" id="responsiveDesign" class="toggle"></a></li>
+    <br/>
+    <li><small>One Page Application</small><a href="#" id="onePage" class="toggle toggle-on"></a></li>
+</ul>
+<script type="text/javascript">
+    $("ul#sidebar").sidebar({
+//        position:"right"
+    });
+    
+    if (sessionStorage.getItem('responsiveDesign') == 'true') {
+        $('#responsiveDesign').addClass('toggle-on');
+    } else {
+         $('#responsiveDesign').removeClass('toggle-on');
+         $('#responsiveDesign').addClass('toggle-off');
+    }
+
+    $('.toggle').click(function(e) {
+        var toggle = this;
+        
+        e.preventDefault();
+        
+        $(toggle).toggleClass('toggle-on')
+            .toggleClass('toggle-off')
+            .addClass('toggle-moving');
+    
+        if ($(toggle).hasClass('toggle-on')) {
+            sessionStorage.setItem($(toggle).attr('id'), 'true');
+        } else {
+             sessionStorage.setItem($(toggle).attr('id'), 'false');
+        }
+        
+        setTimeout(function() {
+            $(toggle).removeClass('toggle-moving');
+        }, 200)
+    });
+</script>
