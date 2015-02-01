@@ -71,6 +71,7 @@
     
         if ($(toggle).hasClass('toggle-on')) {
             sessionStorage.setItem($(toggle).attr('id'), 'true');
+            $('.container').css('')
         } else {
              sessionStorage.setItem($(toggle).attr('id'), 'false');
         }
