@@ -20,9 +20,9 @@
                 <li ng-class="{active: vm.isActive('/about-us')}">
                     <a class="page-scroll" href="/about">About</a>
                 </li>
-                <li ng-class="{active: vm.isActive('/technologies')}">
+<!--                <li ng-class="{active: vm.isActive('/technologies')}">
                     <a class="page-scroll" href="/technologies">Technologies</a>
-                </li>
+                </li>-->
                 <li ng-class="{active: vm.isActive('/dynamic-page')}">
                     <a class="page-scroll" href="/dynamic-page">Dynamic page</a>
                 </li>
@@ -51,6 +51,13 @@
     } else {
          $('#responsiveDesign').removeClass('toggle-on');
          $('#responsiveDesign').addClass('toggle-off');
+    }
+    
+    if (sessionStorage.getItem('onePage') == 'true') {
+        $('#onePage').addClass('toggle-on');
+    } else {
+         $('#onePage').removeClass('toggle-on');
+         $('#onePage').addClass('toggle-off');
     }
 
     $('.toggle').click(function(e) {
