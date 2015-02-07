@@ -8,13 +8,8 @@ and open the template in the editor.
     Author     : iliyan
 */
 body {
-/*    background: url(../vendor/img/intro-bg.jpg) no-repeat bottom center scroll !important;
-    background-color: #000;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;*/
-    min-height: 600px !important;
+    min-height: 800px !important;
+    background: #34454C;
 }
 
 .pt-100 {
@@ -23,5 +18,13 @@ body {
 
 .disable-responsiveness.container {
     width: 970px !important;
+}
+
+footer {
+    padding: 10px 0;
+}
+
+.container > .navbar-header, .nav.navbar-nav {
+    text-shadow: 3px 1px #34454C !important;
 }
 
