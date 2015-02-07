@@ -21,7 +21,13 @@ body {
 }
 
 .intro {
-    min-height: 400px;
+    min-height: 300px;
+}
+
+@media (max-width: 767px) {
+    .intro {
+        min-height: 200px;
+    }
 }
 
 .navbar-custom .nav li:hover {
