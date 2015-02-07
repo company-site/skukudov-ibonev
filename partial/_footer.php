@@ -31,7 +31,7 @@
             <p>Check how the website looks on different devices</p>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-            Phones:
+            <p>Phones:</p>
             <ul>
                 <li><a href="#" onclick="window.open(this, '_blank', 'height=480, width=320')"><span
                             class="glyphicon glyphicon-phone" aria-hidden="true"></span> 320x480 (Portrait)</a></li>
@@ -44,7 +44,7 @@
             </ul>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-            Tablets :
+            <p>Tablets :</p>
             <ul>
                 <li><a href="#" onclick="window.open(this, '_blank', 'height=800, width=600')"><span
                             class="glyphicon fa fa-tablet" aria-hidden="true"></span> 600x800 (Portrait)</a></li>
@@ -57,7 +57,7 @@
             </ul>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-            Monitors :
+            <p>Monitors :</p>
             <ul>
                 <li><a href="#" onclick="window.open(this, '_blank', 'height=1280, width=800')"><span
                             class="glyphicon fa fa-desktop" aria-hidden="true"></span> 800x1280 (Portrait)</a></li>
