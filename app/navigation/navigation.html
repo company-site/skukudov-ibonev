@@ -73,55 +73,53 @@
     </ul>
 </div>
 <script type="text/javascript">
-    $(window).load(function () {
-        // $screen-xs-max
+    // $screen-xs-max
+    if ($(window).width() > 767) {
+        $("ul#sidebar").sidebar({open: "click"});
+    }
+
+    $(window).resize(function () {
         if ($(window).width() > 767) {
-            $("ul#sidebar").sidebar({open: "click"});
-        }
-
-        $(window).resize(function () {
-            if ($(window).width() > 767) {
-                $(".sidebar-container.left,.sidebar-container.top,.sidebar-container.right,.sidebar-container.bottom").show();
-            } else {
-                $(".sidebar-container.left,.sidebar-container.top,.sidebar-container.right,.sidebar-container.bottom").hide();
-            }
-        });
-
-        if (sessionStorage.getItem('responsiveDesign') == 'true') {
-            $('#responsiveDesign').addClass('toggle-on');
-            $('#non-responsive-css').remove();
+            $(".sidebar-container.left,.sidebar-container.top,.sidebar-container.right,.sidebar-container.bottom").show();
         } else {
-            $('#responsiveDesign').removeClass('toggle-on');
-            $('#responsiveDesign').addClass('toggle-off');
-            $('head').append('<link id="non-responsive" rel="stylesheet" href="css/non-responsive.css" type="text/css" />');
+            $(".sidebar-container.left,.sidebar-container.top,.sidebar-container.right,.sidebar-container.bottom").hide();
         }
+    });
 
-        if (sessionStorage.getItem('onePage') == 'true') {
-            $('#onePage').addClass('toggle-on');
+    if (sessionStorage.getItem('responsiveDesign') == 'true') {
+        $('#responsiveDesign').addClass('toggle-on');
+        $('#non-responsive-css').remove();
+    } else {
+        $('#responsiveDesign').removeClass('toggle-on');
+        $('#responsiveDesign').addClass('toggle-off');
+        $('head').append('<link id="non-responsive" rel="stylesheet" href="css/non-responsive.css" type="text/css" />');
+    }
+
+    if (sessionStorage.getItem('onePage') == 'true') {
+        $('#onePage').addClass('toggle-on');
+    } else {
+        $('#onePage').removeClass('toggle-on');
+        $('#onePage').addClass('toggle-off');
+    }
+
+    $('.toggle').click(function (e) {
+        var toggle = this;
+
+        e.preventDefault();
+
+        $(toggle).toggleClass('toggle-on')
+                .toggleClass('toggle-off')
+                .addClass('toggle-moving');
+
+        if ($(toggle).hasClass('toggle-on')) {
+            sessionStorage.setItem($(toggle).attr('id'), 'true');
         } else {
-            $('#onePage').removeClass('toggle-on');
-            $('#onePage').addClass('toggle-off');
+            sessionStorage.setItem($(toggle).attr('id'), 'false');
         }
 
-        $('.toggle').click(function (e) {
-            var toggle = this;
-
-            e.preventDefault();
-
-            $(toggle).toggleClass('toggle-on')
-                    .toggleClass('toggle-off')
-                    .addClass('toggle-moving');
-
-            if ($(toggle).hasClass('toggle-on')) {
-                sessionStorage.setItem($(toggle).attr('id'), 'true');
-            } else {
-                sessionStorage.setItem($(toggle).attr('id'), 'false');
-            }
-
-            setTimeout(function () {
-                $(toggle).removeClass('toggle-moving');
-                window.location.reload();
-            }, 200)
-        });
+        setTimeout(function () {
+            $(toggle).removeClass('toggle-moving');
+            window.location.reload();
+        }, 200)
     });
 </script>

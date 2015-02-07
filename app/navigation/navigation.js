@@ -15,6 +15,7 @@
         vm.isResponsive = SessionService.getValue('responsiveDesign');
         /* enable responsiveness and one page by default if not set*/
         if (vm.isOnepage == null && vm.isResponsive == null) {
+            window.location.href = $location.path();
             SessionService.setValue('onePage', true);
             SessionService.setValue('responsiveDesign', true); 
         }
