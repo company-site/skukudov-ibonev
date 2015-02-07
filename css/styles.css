@@ -16,9 +16,12 @@ and open the template in the editor.
 }
 
 body {
-    min-height: 800px !important;
     background: rgb(237, 238, 240);
     font-family: 'Droid Serif', Georgia, serif !important;
+}
+
+.intro {
+    min-height: 400px;
 }
 
 .navbar-custom .nav li:hover {
@@ -66,3 +69,6 @@ footer a:visited,a:hover {
     left: 1px;
 }
 
+a:hover {
+    color: #219ab3;
+}

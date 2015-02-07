@@ -6,9 +6,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/about.html" afterPath="$PROJECT_DIR$/app/about/about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/contact/contact.html" afterPath="$PROJECT_DIR$/app/contact/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/dynamic-page/dynamic-page.html" afterPath="$PROJECT_DIR$/app/dynamic-page/dynamic-page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/css/grayscale.css" afterPath="$PROJECT_DIR$/vendor/css/grayscale.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/navigation/navigation.html" afterPath="$PROJECT_DIR$/app/navigation/navigation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/sidebar.css" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/sidebar.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -35,24 +32,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_header.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partial/_header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.59090906" vertical-offset="966" max-vertical-offset="1518">
-              <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+            <state vertical-scroll-proportion="-2.476923" vertical-offset="966" max-vertical-offset="1495">
+              <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.5454545" vertical-offset="533" max-vertical-offset="1702">
-              <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-              <folding>
-                <element signature="e#983#2330#1" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -60,9 +45,21 @@
       <file leaf-file-name="grayscale.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vendor/css/grayscale.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.4242425" vertical-offset="2926" max-vertical-offset="8487">
-              <caret line="135" column="8" selection-start-line="135" selection-start-column="8" selection-end-line="135" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="2926" max-vertical-offset="8487">
+              <caret line="141" column="26" selection-start-line="141" selection-start-column="26" selection-end-line="141" selection-end-column="26" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8289963" vertical-offset="1210" max-vertical-offset="1840">
+              <caret line="72" column="19" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
+              <folding>
+                <element signature="e#984#2331#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/app/about/about.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-1.4375" vertical-offset="0" max-vertical-offset="437">
-              <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -80,18 +77,8 @@
       <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/contact/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="506">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demonstrations.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/demonstrations/demonstrations.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.71875" vertical-offset="0" max-vertical-offset="644">
-              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            <state vertical-scroll-proportion="-0.7076923" vertical-offset="0" max-vertical-offset="506">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -100,18 +87,8 @@
       <file leaf-file-name="dynamic-page.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/dynamic-page/dynamic-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.71875" vertical-offset="0" max-vertical-offset="1196">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sidebar.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/sidebar.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.515152" vertical-offset="2347" max-vertical-offset="2898">
-              <caret line="120" column="1" selection-start-line="120" selection-start-column="1" selection-end-line="120" selection-end-column="1" />
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1196">
+              <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -161,12 +138,12 @@
         <option value="$PROJECT_DIR$/partial/_footer.php" />
         <option value="$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/sidebar.css" />
         <option value="$PROJECT_DIR$/app/navigation/navigation.html" />
-        <option value="$PROJECT_DIR$/vendor/css/grayscale.css" />
+        <option value="$PROJECT_DIR$/app/dynamic-page/dynamic-page.html" />
         <option value="$PROJECT_DIR$/app/about/about.html" />
         <option value="$PROJECT_DIR$/app/contact/contact.html" />
-        <option value="$PROJECT_DIR$/app/dynamic-page/dynamic-page.html" />
-        <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/partial/_header.php" />
+        <option value="$PROJECT_DIR$/vendor/css/grayscale.css" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
       </list>
     </option>
   </component>
@@ -786,7 +763,13 @@
       <option name="project" value="LOCAL" />
       <updated>1423345817116</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="styles">
+      <created>1423347880014</created>
+      <option name="number" value="00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1423347880014</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -838,7 +821,8 @@
     <MESSAGE value="dynamic page with local history" />
     <MESSAGE value="sidebar" />
     <MESSAGE value="resizers" />
-    <option name="LAST_COMMIT_MESSAGE" value="resizers" />
+    <MESSAGE value="styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="styles" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1135,14 +1119,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partial/_footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.625" vertical-offset="345" max-vertical-offset="1955">
-          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/sidebar.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.515152" vertical-offset="2347" max-vertical-offset="2898">
@@ -1159,10 +1135,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/css/grayscale.css">
+    <entry file="file://$PROJECT_DIR$/app/dynamic-page/dynamic-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.4242425" vertical-offset="2926" max-vertical-offset="8487">
-          <caret line="135" column="8" selection-start-line="135" selection-start-column="8" selection-end-line="135" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1196">
+          <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -1175,45 +1151,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/dynamic-page/dynamic-page.html">
+    <entry file="file://$PROJECT_DIR$/app/about/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.71875" vertical-offset="0" max-vertical-offset="1196">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        <state vertical-scroll-proportion="-1.4375" vertical-offset="0" max-vertical-offset="437">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/partial/_footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.5454545" vertical-offset="533" max-vertical-offset="1702">
-          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-          <folding>
-            <element signature="e#983#2330#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/about/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4375" vertical-offset="0" max-vertical-offset="437">
-          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+        <state vertical-scroll-proportion="-8.625" vertical-offset="345" max-vertical-offset="1955">
+          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/contact/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="506">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.7076923" vertical-offset="0" max-vertical-offset="506">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/partial/_header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.59090906" vertical-offset="966" max-vertical-offset="1518">
-          <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+        <state vertical-scroll-proportion="-2.476923" vertical-offset="966" max-vertical-offset="1495">
+          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/css/grayscale.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2926" max-vertical-offset="8487">
+          <caret line="141" column="26" selection-start-line="141" selection-start-column="26" selection-end-line="141" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8289963" vertical-offset="1210" max-vertical-offset="1840">
+          <caret line="72" column="19" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
+          <folding>
+            <element signature="e#984#2331#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
