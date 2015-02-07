@@ -57,16 +57,31 @@
     </div>
     <!-- /.container -->
 </nav>
-
-<ul id="sidebar">
-    <li><small>Responsive Design</small><a href="#" id="responsiveDesign" ng-click="vm.toggle()" ng-class="{'toggle-on': vm.isResponsive =='true'}" class="toggle"></a></li>
-    <br/>
-    <li><small>One Page Application</small><a href="#" id="onePage" ng-click="vm.toggle()" ng-class="{'toggle-on': vm.onePage =='true'}" class="toggle"></a></li>
-</ul>
+<div class="hidden-xs">
+    <ul id="sidebar">
+        <li>
+            <small>Responsive Design</small>
+            <a href="#" id="responsiveDesign" ng-click="vm.toggle()" ng-class="{'toggle-on': vm.isResponsive =='true'}"
+               class="toggle"></a></li>
+        <br/>
+        <li>
+            <small>One Page Application</small>
+            <a href="#" id="onePage" ng-click="vm.toggle()" ng-class="{'toggle-on': vm.onePage =='true'}"
+               class="toggle"></a></li>
+    </ul>
+</div>
 <script type="text/javascript">
-    $(window).load(function() {
-        $("ul#sidebar").sidebar({
-    //        position:"right"
+        // $screen-xs-max
+        if ($(window).width() > 767) {
+            $("ul#sidebar").sidebar();
+        }
+
+        $(window).resize(function() {
+            if ($(window).width() > 767) {
+                $(".sidebar-container.left,.sidebar-container.top,.sidebar-container.right,.sidebar-container.bottom").show();
+            } else {
+                $(".sidebar-container.left,.sidebar-container.top,.sidebar-container.right,.sidebar-container.bottom").hide();
+            }
         });
 
         if (sessionStorage.getItem('responsiveDesign') == 'true') {
@@ -105,5 +120,4 @@
                 window.location.reload();
             }, 200)
         });
-    });
 </script>
