@@ -20,9 +20,12 @@ body {
     width: 970px !important;
 }
 
+footer {
+    background: #303629 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAMAAAANIilAAAAAFVBMV…GELeNDKk/wgaBLgCJAIOBJj21gMvSK5nq7yZDE+Pv2Gab0H6wgKO/4w/l9AAAAAElFTkSuQmCC) center top repeat;
+}
+
 footer, footer ul > li > a, footer p {
     padding: 10px 0;
-    color: #373737 !important;
 }
 
 .container > .navbar-header, .nav.navbar-nav {
