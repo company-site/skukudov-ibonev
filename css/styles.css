@@ -26,10 +26,6 @@ body {
     background-color: rgba(255,255,255,.3);
 }
 
-.pt-100 {
-    padding-top: 100px; 
-}
-
 .disable-responsiveness.container {
     width: 970px !important;
 }
@@ -42,7 +38,31 @@ footer, footer ul > li > a, footer p {
     padding: 10px 0;
 }
 
-.container > .navbar-header, .nav.navbar-nav {
-    text-shadow: 3px 1px #34454C !important;
+footer a {
+    color: white;
+}
+
+footer a:visited,a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+#navbar {
+    color: #555;
+    background: #fff;
+    margin: 0;
+    border-bottom: 1px solid #dce0d9;
+    padding: 1em 0 0;
+    display: block;
+}
+
+#navbar a {
+    display: inline-block;
+    text-transform: uppercase;
+    color: #5F6657;
+    font-size: 1.0625em;
+    border-bottom: 1px solid transparent;
+    position: relative;
+    left: 1px;
 }
 

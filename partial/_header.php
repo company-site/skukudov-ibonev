@@ -18,7 +18,7 @@
     
     <!-- Grayscale Theme css and js -->
     <link rel="stylesheet" href="../vendor/css/grayscale.css">
-    <script src="../vendor/js/grayscale.js"></script>
+<!--    <script src="../vendor/js/grayscale.js"></script>-->
     <!-- Grayscale Custom Fonts -->
     <link href="../vendor/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
@@ -53,6 +53,7 @@
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
     <div class="conatiner">
         <div ng-include="'/app/navigation/navigation.html'"></div>
+        <br/><br/>
             <header class="intro">
                 <div class="intro-body">
                     <div ng-view=""></div>

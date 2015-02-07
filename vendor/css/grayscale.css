@@ -106,8 +106,10 @@ a:focus {
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li a.active {
-    outline: 0;
-    background-color: rgba(255,255,255,.3);
+    /*outline: 0;*/
+    /*background-color: rgba(255,255,255,.3);*/
+    border-bottom: 1px solid #BADEE2 !important;
+    text-decoration: none;
 }
 
 @media(min-width:767px) {
@@ -135,11 +137,10 @@ a:focus {
     display: table;
     width: 100%;
     height: auto;
-    padding: 100px 0;
     color: #34454C;
     text-shadow: 1px 2px #D3D4C6;
-    background: url(../img/sail.jpg) no-repeat bottom center scroll;
-    background-color: #000;
+    /*background: url(../img/sail.jpg) no-repeat bottom center scroll;*/
+    background-color:#F0F0EC;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
