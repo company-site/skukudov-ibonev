@@ -6,12 +6,13 @@
                 <i class="fa fa-bars"></i>
             </button>
             <a class="navbar-brand page-scroll" href="/">
-                <i class="fa fa-play-circle"></i>  <span class="light">ISComp</span>
+                <i class="fa fa-play-circle"></i> <span class="light">ISComp</span>
             </a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
-        <div id="mainNav" class="collapse navbar-collapse navbar-main-collapse navbar-right" ng-controller="Navigation as vm">
+        <div id="mainNav" class="collapse navbar-collapse navbar-main-collapse navbar-right"
+             ng-controller="Navigation as vm">
             <div ng-if="vm.isOnepage == true">
                 <ul class="nav navbar-nav">
                     <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
@@ -21,9 +22,9 @@
                     <li ng-class="{active: vm.isActive('/about-us')}">
                         <a class="page-scroll" href="/about">About</a>
                     </li>
-    <!--                <li ng-class="{active: vm.isActive('/technologies')}">
-                        <a class="page-scroll" href="/technologies">Technologies</a>
-                    </li>-->
+                    <!--                <li ng-class="{active: vm.isActive('/technologies')}">
+                                        <a class="page-scroll" href="/technologies">Technologies</a>
+                                    </li>-->
                     <li ng-class="{active: vm.isActive('/dynamic-page')}">
                         <a class="page-scroll" href="/dynamic-page">Dynamic page</a>
                     </li>
@@ -41,11 +42,12 @@
                     <li ng-class="{active: vm.isActive('/about-us')}">
                         <a class="page-scroll" ng-click="vm.changePage('/about')" href="/about">About</a>
                     </li>
-    <!--                <li ng-class="{active: vm.isActive('/technologies')}">
-                        <a class="page-scroll" href="/technologies">Technologies</a>
-                    </li>-->
+                    <!--                <li ng-class="{active: vm.isActive('/technologies')}">
+                                        <a class="page-scroll" href="/technologies">Technologies</a>
+                                    </li>-->
                     <li ng-class="{active: vm.isActive('/dynamic-page')}">
-                        <a class="page-scroll" ng-click="vm.changePage('/dynamic-page')" href="/dynamic-page">Dynamic page</a>
+                        <a class="page-scroll" ng-click="vm.changePage('/dynamic-page')" href="/dynamic-page">Dynamic
+                            page</a>
                     </li>
                     <li ng-class="{active: vm.isActive('/contact-us')}">
                         <a class="page-scroll" ng-click="vm.changePage('/contact-us')" href="/contact-us">Contact</a>
@@ -71,12 +73,13 @@
     </ul>
 </div>
 <script type="text/javascript">
+    $(window).load(function () {
         // $screen-xs-max
         if ($(window).width() > 767) {
-            $("ul#sidebar").sidebar({open:"click"});
+            $("ul#sidebar").sidebar({open: "click"});
         }
 
-        $(window).resize(function() {
+        $(window).resize(function () {
             if ($(window).width() > 767) {
                 $(".sidebar-container.left,.sidebar-container.top,.sidebar-container.right,.sidebar-container.bottom").show();
             } else {
@@ -96,28 +99,29 @@
         if (sessionStorage.getItem('onePage') == 'true') {
             $('#onePage').addClass('toggle-on');
         } else {
-             $('#onePage').removeClass('toggle-on');
-             $('#onePage').addClass('toggle-off');
+            $('#onePage').removeClass('toggle-on');
+            $('#onePage').addClass('toggle-off');
         }
 
-        $('.toggle').click(function(e) {
+        $('.toggle').click(function (e) {
             var toggle = this;
 
             e.preventDefault();
 
             $(toggle).toggleClass('toggle-on')
-                .toggleClass('toggle-off')
-                .addClass('toggle-moving');
+                    .toggleClass('toggle-off')
+                    .addClass('toggle-moving');
 
             if ($(toggle).hasClass('toggle-on')) {
                 sessionStorage.setItem($(toggle).attr('id'), 'true');
             } else {
-                 sessionStorage.setItem($(toggle).attr('id'), 'false');
+                sessionStorage.setItem($(toggle).attr('id'), 'false');
             }
 
-            setTimeout(function() {
+            setTimeout(function () {
                 $(toggle).removeClass('toggle-moving');
                 window.location.reload();
             }, 200)
         });
+    });
 </script>

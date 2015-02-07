@@ -13,9 +13,8 @@
         var vm = this;      
         vm.isOnepage = SessionService.getValue('onePage');
         vm.isResponsive = SessionService.getValue('responsiveDesign');
-        
         /* enable responsiveness and one page by default if not set*/
-        if (typeof(vm.isOnepage) === 'undefined' && typeof(vm.isResponsive) === 'undefined') {
+        if (vm.isOnepage == null && vm.isResponsive == null) {
             SessionService.setValue('onePage', true);
             SessionService.setValue('responsiveDesign', true); 
         }
@@ -30,6 +29,6 @@
         vm.isActive = function(route) {
             return route === $location.path();
         }
-        
+
     }
 })();

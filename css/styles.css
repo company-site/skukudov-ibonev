@@ -20,13 +20,13 @@ body {
     font-family: 'Droid Serif', Georgia, serif !important;
 }
 
-.intro {
-    min-height: 300px;
+#main-container {
+    min-height: 420px;
 }
 
 @media (max-width: 767px) {
-    .intro {
-        min-height: 200px;
+    #main-container {
+        min-height: 0px;
     }
 }
 

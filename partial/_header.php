@@ -52,7 +52,7 @@
     <?php // echo $head; ?>
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-<div class="conatiner">
+<div id="main-container">
     <div ng-include="'/app/navigation/navigation.html'"></div>
     <br/><br/>
     <header class="intro">
