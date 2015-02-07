@@ -34,7 +34,7 @@
             Phones:
             <ul>
                 <li><a href="#" onclick="window.open(this, '_blank', 'height=480, width=320')"><span
-                            class="glyphicon glyphicon-phone" aria-hidden="true"></span> 320x480(Portrait)</a></li>
+                            class="glyphicon glyphicon-phone" aria-hidden="true"></span> 320x480 (Portrait)</a></li>
                 <li><a href="#" onclick="window.open(this, '_blank', 'height=320, width=480')"><span
                             class="glyphicon glyphicon-phone fa-rotate-270" aria-hidden="true"></span> 480x320 (Landscape)</a></li>
                 <li><a href="#" onclick="window.open(this, '_blank', 'height=568, width=320')"><span
