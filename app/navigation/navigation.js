@@ -10,9 +10,15 @@
     function Navigation($location, SessionService, $window) {
 
         /*jshint validthis: true */
-        var vm = this;
+        var vm = this;      
         vm.isOnepage = SessionService.getValue('onePage');
         vm.isResponsive = SessionService.getValue('responsiveDesign');
+        
+        /* enable responsiveness and one page by default if not set*/
+        if (typeof(vm.isOnepage) === 'undefined' && typeof(vm.isResponsive) === 'undefined') {
+            SessionService.setValue('onePage', true);
+            SessionService.setValue('responsiveDesign', true); 
+        }
         
         vm.toggle = function() {
         }
