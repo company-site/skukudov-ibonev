@@ -30,9 +30,11 @@ body {
     }
 }
 
-.navbar-custom .nav li:hover {
+ul.nav.navbar-nav > li > a:hover,
+ul.nav.navbar-nav > li > a.active,
+ul.nav.navbar-nav > li > a:active {
     outline: none;
-    background-color: rgba(255,255,255,.3);
+    background-color: #EEEEEE !important;
 }
 
 .disable-responsiveness.container {

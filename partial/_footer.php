@@ -24,6 +24,9 @@
 <!-- factories -->
 <script src="../app/core/factories/session.factory.js"></script>
 
+<!-- directives -->
+<script src="../app/core/directives.js"></script>
+
 <!-- Footer -->
 <footer>
     <div class="container">

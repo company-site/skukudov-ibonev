@@ -19,17 +19,14 @@
                     <li class="hidden">
                         <a href="/"></a>
                     </li>
-                    <li ng-class="{active: vm.isActive('/about-us')}">
-                        <a class="page-scroll" href="/about">About</a>
+                    <li>
+                        <a class="page-scroll" detect-active-tab="1" href="/about">About</a>
                     </li>
-                    <!--                <li ng-class="{active: vm.isActive('/technologies')}">
-                                        <a class="page-scroll" href="/technologies">Technologies</a>
-                                    </li>-->
-                    <li ng-class="{active: vm.isActive('/dynamic-page')}">
-                        <a class="page-scroll" href="/dynamic-page">Dynamic page</a>
+                    <li>
+                        <a class="page-scroll"  detect-active-tab="1" href="/dynamic-page">Dynamic page</a>
                     </li>
-                    <li ng-class="{active: vm.isActive('/contact-us')}">
-                        <a class="page-scroll" href="/contact-us">Contact</a>
+                    <li>
+                        <a class="page-scroll" detect-active-tab="1" href="/contact-us">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -39,18 +36,15 @@
                     <li class="hidden">
                         <a href="/"></a>
                     </li>
-                    <li ng-class="{active: vm.isActive('/about-us')}">
-                        <a class="page-scroll" ng-click="vm.changePage('/about')" href="/about">About</a>
+                    <li>
+                        <a class="page-scroll" detect-active-tab="1" ng-click="vm.changePage('/about')" href="/about">About</a>
                     </li>
-                    <!--                <li ng-class="{active: vm.isActive('/technologies')}">
-                                        <a class="page-scroll" href="/technologies">Technologies</a>
-                                    </li>-->
-                    <li ng-class="{active: vm.isActive('/dynamic-page')}">
-                        <a class="page-scroll" ng-click="vm.changePage('/dynamic-page')" href="/dynamic-page">Dynamic
+                    <li>
+                        <a class="page-scroll" detect-active-tab="1" ng-click="vm.changePage('/dynamic-page')" href="/dynamic-page">Dynamic
                             page</a>
                     </li>
-                    <li ng-class="{active: vm.isActive('/contact-us')}">
-                        <a class="page-scroll" ng-click="vm.changePage('/contact-us')" href="/contact-us">Contact</a>
+                    <li>
+                        <a class="page-scroll" detect-active-tab="1" ng-click="vm.changePage('/contact-us')" href="/contact-us">Contact</a>
                     </li>
                 </ul>
             </div>

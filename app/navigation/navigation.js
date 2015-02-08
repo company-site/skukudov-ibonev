@@ -5,9 +5,9 @@
         .module('app')
         .controller('Navigation', Navigation);
 
-    Navigation.$inject = ['$location', 'SessionService', '$window'];
+    Navigation.$inject = ['$location', 'SessionService'];
 
-    function Navigation($location, SessionService, $window) {
+    function Navigation($location, SessionService) {
 
         /*jshint validthis: true */
         var vm = this;      
@@ -20,16 +20,10 @@
             SessionService.setValue('responsiveDesign', true); 
         }
         
-        vm.toggle = function() {
-        }
+        vm.changePage = changePage;
         
-        vm.changePage = function(location) {
+        function changePage(location) {
             window.location.href = location;
         }
-        
-        vm.isActive = function(route) {
-            return route === $location.path();
-        }
-
     }
 })();
