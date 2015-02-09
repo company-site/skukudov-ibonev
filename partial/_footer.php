@@ -1,9 +1,9 @@
-</div>
-<!-- inject:js -->
-<!-- Bootstrapping -->
-<script src="../app/app.module.js"></script>
-<script src="../app/app.config.js"></script>
-<script src="../app/app.js"></script>
+    </div>
+    <!-- inject:js -->
+    <!-- Bootstrapping -->
+    <script src="../app/app.module.js"></script>
+    <script src="../app/app.config.js"></script>
+    <script src="../app/app.js"></script>
 
 <!-- core module -->
 <script src="../app/core/core.module.js"></script>
