@@ -7,7 +7,7 @@
     <!-- 320-480 Phone Modal -->
     <div class="modal fade" id="320-480" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
-            <div class="modal-content" style="width: 350px; height: 600px;">
+            <div class="modal-content" style="width: 350px; height: 570px;">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
                             aria-hidden="true">&times;</span></button>
@@ -27,17 +27,17 @@
         <img class="img-responsive fa-rotate-270" src="../images/600x800_version_phone.png" alt="phone">
     </a>
 
-    <!-- 320-480 Phone Modal -->
+    <!-- 480-320 Phone Modal -->
     <div class="modal fade" id="480-320" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
-            <div class="modal-content" style="width: 600px; height: 450px;">
+            <div class="modal-content" style="width: 510px; height: 410px;">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
                             aria-hidden="true">&times;</span></button>
                     <h4 class="modal-title" style="color: #5F6657">480x320</h4>
                 </div>
                 <div class="modal-body">
-                    <iframe src="/?hideFooter=1" width="490px" height="320px"></iframe>
+                    <iframe src="/?hideFooter=1" width="480px" height="320px"></iframe>
                 </div>
             </div>
         </div>
@@ -53,7 +53,7 @@
     <!-- 600-800 Tablet Modal -->
     <div class="modal fade" id="600-800" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
-            <div class="modal-content" style="width: 630px; height: 920px;">
+            <div class="modal-content" style="width: 630px; height: 890px;">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
                             aria-hidden="true">&times;</span></button>
@@ -76,7 +76,7 @@
     <!-- 800-600 Tablet Modal -->
     <div class="modal fade" id="800-600" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
-            <div class="modal-content" style="width: 920px; height: 730px;">
+            <div class="modal-content" style="width: 830px; height: 690px;">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
                             aria-hidden="true">&times;</span></button>
