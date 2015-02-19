@@ -80,3 +80,10 @@ footer a:visited,a:hover {
 a:hover {
     color: #219ab3;
 }
+
+.iframe-small {
+    width: 477px;
+    height: 270px;
+    border: none;
+    overflow: scroll;
+}

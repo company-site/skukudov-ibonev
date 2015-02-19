@@ -5,7 +5,7 @@
         /*
          * Angular modules
          */
-        'ngAnimate', 'ngRoute', 'ngSanitize'
+        'ngAnimate', 'ngRoute', 'ngSanitize', 'once'
     ]);
     
 })();

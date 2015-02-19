@@ -5,13 +5,18 @@
         .module('app')
         .controller('Home', Home);
 
-    Home.$inject = ['$sce'];
+    Home.$inject = ['$sce','$routeParams', '$rootScope'];
 
-    function Home($sce) {
+    function Home($sce, $routeParams, $rootScope) {
         /*jshint validthis: true */
         var vm = this;
-        vm.iframeSource = $sce.trustAsResourceHtml("https://www.youtube.com/watch?v=qI4tj1YZbiM");
-
+        $rootScope.noFooter = 'false';
+        
+        vm.iframeSource = $sce.trustAsResourceUrl("/?nofooter=true");
+        if (typeof $routeParams.nofooter != "undefined") {
+            $rootScope.noFooter = $routeParams.nofooter;
+        }
+        
         vm.welcomeText = 'Company home';
     }
 })();
