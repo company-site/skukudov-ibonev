@@ -14,6 +14,7 @@
             .when('/technologies',{ templateUrl: 'app/demonstrations/demonstrations.html', title: 'Technologies'})
             .when('/dynamic-page',{ templateUrl: 'app/dynamic-page/dynamic-page.html', title: 'Dynamic page'})
             .when('/contact-us',{ templateUrl: 'app/contact/contact.html', title: 'Contact page'})
+            .when('/services',{ templateUrl: 'app/services/services.html', title: 'Services page'})
 //            .when('/onepage',{ templateUrl: 'app/onepage/onepage.html', title: 'One page'})
             .otherwise({ redirectTo: '/' });
             
