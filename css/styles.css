@@ -7,17 +7,9 @@ and open the template in the editor.
     Created on : 2015-1-5, 4:20:08
     Author     : iliyan
 */
-@font-face {
-    font-family: 'Droid Serif';
-    font-style: normal;
-    font-weight: 400;
-    src: local('Droid Serif'), local('DroidSerif'), url(http://fonts.gstatic.com/s/droidserif/v6/0AKsP294HTD-nvJgucYTaI4P5ICox8Kq3LLUNMylGO4.woff2) format('woff2');
-    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
-}
 
 body {
-    background: rgb(237, 238, 240);
-    font-family: 'Droid Serif', Georgia, serif !important;
+    font-family: 'proxima-nova', 'Helvetica', 'Arial', sans-serif;
 }
 
 #main-container {
@@ -39,23 +31,6 @@ ul.nav.navbar-nav > li > a:active {
 
 .disable-responsiveness.container {
     width: 970px !important;
-}
-
-footer {
-    background: #303629 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAMAAAANIilAAAAAFVBMVEVPVUhSWEtUWk1QVklQVkpVW05SWEyXDDh7AAADhElEQVR42oVWCZIcMQijzTD/f3IiJJB7t1JR7fb4wNxgx/MX8a2sZ1CfzzkR30aceLJxIqripFBYOS+ILrOHYMNBVQRIsQZUtdCenDwQduI78nD6fBqVPJ7CiQbIvv/A392CXCG0BlQV2YYVhgaQSMAZQ/TDLA1PBlUq+ks8faAtzbzPWXwFfVMhh5jqN7LB4+2BsOO13VrUqtxU9/mZxy+HRVMINRMwciT4bbU3NUZ4xRMRhcnGtYineTs3Yp2ngRBCT9oUen/DXU/njQTS02d5gZ2+cGS0lcu7VVybtWRNE+gtWNx8DLFoFZ1Gw60m5PVhFgRAV2VqL7CNfZaSSqHgL6Y9PkwTJc8lPtZTEWK/MXlurHYioGQpLCBIL8i9oCjwv9HT/6Oycp3G33EwORYtpUZtrwbK+PHvZ1Cv9CwiOLj1i5sqGU2yMudkGd/qKkfaesaFR+4e5uScKgPvCK9VqJSlhUdI+lv9gOkCj6bAjtonK57pVNbA2FxEBaiJym2tC+ZP0bZwuLeDE6LddJu86u+WilFSeHuiMmZVkhrZelXnYA5L3BWfF0ApdERvaR1ZdcL+7yKTH+gswd4GMY52fFsA+LKJv2PS6YN1qp8Z7yp+Cn959bYradhx3TQyrr5Q2UxVsjU7EZzLbLffDNKAtlyzkMFVx6qydzjhOLaMg51HwEQCVhDXt4X6eP8IhWrzAthQlgNOCyIH3rasvizzhjqbCtX0M9iqm7X2FAnhBGkar/pSdFgxVHtTporedm47n+laX5QgrMm5ajbcAp0RiNG+OfpANMZX4LKrVHYtUl3Y3pyFIB5hlA62jkZHd7u6U8TxxnS1SGBrZY+ozKo3bZwTKgXfGywADJ7f2PbHDldln7KRhu+UHTU9SSmyGmqhadpomwTSCFLfDjWSoLdN634GruW0MFlPXM/vVTIRLJ8lLRW1p8ObcxGKpGPAOObAhgRBg9UUZi9TogdkOy29qhv52AhPqtmAikQpBWwr816FMZaKYHpEP1NuFbhRT4tnFewbcxLYl44RDLh7JSMRH2FlQHs7xlK3crVktV+FKp9cd5JaBLBv8g6VaAQMN9E22B7rOVp8CI8Pe5am4wXyA7GjomQAh7u48yXQmSOBcmYHGea1rwwX7E9p3GS9CZGELeNDKk/wgaBLgCJAIOBJj21gMvSK5nq7yZDE+Pv2Gab0H6wgKO/4w/l9AAAAAElFTkSuQmCC) center top repeat;
-}
-
-footer, footer ul > li > a, footer p {
-    padding: 10px 0;
-}
-
-footer a {
-    color: white;
-}
-
-footer a:visited,a:hover {
-    text-decoration: underline;
-    color: white;
 }
 
 #navbar {

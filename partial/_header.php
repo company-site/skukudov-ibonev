@@ -15,11 +15,6 @@
     <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">-->
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
-
-    <!-- Grayscale Theme css and js -->
-    <link rel="stylesheet" href="../vendor/css/grayscale.css">
-    <!--    <script src="../vendor/js/grayscale.js"></script>-->
-    <!-- Grayscale Custom Fonts -->
     <link href="../vendor/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet"
           type="text/css">
@@ -49,7 +44,7 @@
 
     <base href="/"/>
     <title ng-bind="title"><?php // echo $title; ?></title>
-    <?php // echo $head; ?>
+    <link rel="icon" type="image/png" href="../images/fav.ico">
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 <div id="main-container">
