@@ -28,15 +28,8 @@
 <script src="../app/core/directives.js"></script>
 
 <!-- Footer -->
-<?php if (!isset($_GET['hideFooter'])) : ?>
 <footer>
-    <div class="container">
-        <div class="text-center">
-            <p>Check how the website looks on different devices</p>
-        </div>
-        <?php include_partial('_mobileLinks.php'); ?>
-    </div>
+
 </footer>
-<?php endif; ?>
 </body>
 </html>
