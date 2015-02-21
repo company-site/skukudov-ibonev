@@ -55,10 +55,16 @@ ul.nav.navbar-nav > li > a:active {
 a:hover {
     color: #219ab3;
 }
+.iframe-content {
+    height: 585px;
+    background: url('/images/mobile-banner.png') top center no-repeat;
+}
 
 .iframe-small {
-    width: 477px;
-    height: 270px;
+    width: 271px;
+    height: 531px;
+    padding-top: 54px;
     border: none;
     overflow: scroll;
 }
+
