@@ -30,8 +30,10 @@
     <!-- angular bind once -->
     <script src="../vendor/js/once.js"></script>
 <!-- Footer -->
-<footer>
-
+<footer class="container footer-container">
+    <a href="https://www.facebook.com/websail.net" class="pull-right"><i class="fa fa-2x fa-facebook-square"></i></a>
+    <a href="#" class="pull-right"><i class="fa fa-2x fa-linkedin-square"></i></a>
+    <a href="#" class="pull-right"><i class="fa fa-2x fa-google-plus-square"></i></a>
 </footer>
 </body>
 </html>

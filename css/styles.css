@@ -68,3 +68,15 @@ a:hover {
     overflow: scroll;
 }
 
+.footer-container {
+    width: 100%;
+    margin-top: 15px;
+    border-top: 1px solid rgb(220, 224, 217);
+}
+
+.footer-container a {
+    margin-right: 10px;
+    padding: 5px;
+    color: #000;
+}
+
