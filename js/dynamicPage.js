@@ -31,6 +31,7 @@ DynamicPage = function () {
             dynamic.appendElements();
             dynamic.storeArticle();
             dynamic.cleanElements();
+            dynamic.toastr.success('Your article has been saved.');
         }
     };
 
