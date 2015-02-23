@@ -80,3 +80,7 @@ a:hover {
     color: #000;
 }
 
+.btn-group-horizontal .btn {
+    margin-bottom: 15px;
+}
+
