@@ -2,8 +2,12 @@
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
             <h2>{{vm.welcomeText}}</h2>
+
             <p class="lead">In this section you will see what dynamic page is.</p>
-            <p>Difference between static and dynamic page is that the content in dynamic pages comes from you. The static ones can be changed only from the programmer.</p>
+
+            <p>Difference between static and dynamic page is that the content in dynamic pages comes from you. The
+                static ones can be changed only from the programmer.</p>
+
             <p>Let's create an article: </p>
 
             <form>
@@ -19,20 +23,39 @@
                     <label for="content">Content</label>
                     <input type="text" class="form-control" id="content" placeholder="Enter content" required>
                 </div>
-                <button type="button" class="btn btn-default" id="save">save</button>
+                <button type="button" class="btn btn-default" id="save">add</button>
             </form>
+            <br/>
+            <button type="button" class="btn btn-primary btn-lg dynamic-content-trigger hidden" data-toggle="modal"
+                    data-target="#article-content">
+                Preview dynamic content
+            </button>
         </div>
     </div>
-    <br/>
 
-    <div class="row dynamic-content hidden">
-        <div class="col-lg-8 col-lg-offset-2">
-            <p>Your dynamic content</p>
-            <p>If you want articles in same category just type an existing category.</p>
-            <ul class="nav nav-tabs">
-                <li role="presentation" class="active"><a href="javascript:void(0);" id="all">All</a></li>
-            </ul>
-            <div class="articles"></div>
+    <div class="modal fade" id="article-content" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+         aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                            aria-hidden="true">&times;</span></button>
+                    <h3 class="modal-title" id="myModalLabel">Your dynamic content</h3>
+
+                    <p>If you want articles in same category just type an existing category.</p>
+                </div>
+                <div class="modal-body">
+                    <div class="row dynamic-content">
+                        <div class="col-lg-12">
+                            <ul class="nav nav-tabs">
+                                <li role="presentation" class="active"><a href="javascript:void(0);" id="all">All</a>
+                                </li>
+                            </ul>
+                            <div class="articles"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>

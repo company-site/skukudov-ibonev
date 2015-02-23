@@ -41,7 +41,7 @@ DynamicPage = function () {
     };
 
     dynamic.appendElements = function () {
-        $(".dynamic-content").removeClass("hidden");
+        $(".dynamic-content-trigger").removeClass("hidden");
         $(".articles").append('<div class="article-block ' + dynamic.category + '"><h2>' + dynamic.title + '</h2><p class="lead">' + dynamic.content + '</p>');
         var category = '<li role="presentation"><a href="javascript:void(0);" id="' + dynamic.category + '" class="filter">' + dynamic.category + '</a></li>';
         // category doesn't exist
