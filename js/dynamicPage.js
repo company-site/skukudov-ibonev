@@ -4,13 +4,14 @@ DynamicPage = function () {
         title: "",
         content: "",
         formDivClass: "form-group",
-        buttonId: "continue",
+        buttonId: "save",
         toastr: toastr,
         articles: []
     };
 
     dynamic.buttonClick = function () {
         $("." + dynamic.formDivClass).keypress(function(e) {
+            // enter key is pressed
             if (e.which == 13) {
                 dynamic.process();
             }
@@ -21,34 +22,16 @@ DynamicPage = function () {
     };
 
     dynamic.process = function () {
-        var input = $("." + dynamic.formDivClass + ":not(.hidden) :input");
-        if (input.val()) {
-            if (input.attr("id") == "category") {
-                dynamic.category = input.val();
-                dynamic.toastr.success('Your category has been stored. Please enter a title for your article');
-            }
-            if (input.attr("id") == "title") {
-                dynamic.title = input.val();
-                dynamic.toastr.success('Almost there. Your title has been stored. Please enter a content for your article');
-            }
-            if (input.attr("id") == "content") {
-                dynamic.content = input.val();
-            }
-            dynamic.toggleElements();
-            // category, title, content are not empty
-            if (dynamic.category != "" && dynamic.title != "" && dynamic.content != "") {
-                dynamic.cleanValues();
-                dynamic.appendElements();
-                dynamic.storeArticle();
-                dynamic.cleanElements();
-            }
+        dynamic.category = $("#category").val();
+        dynamic.title = $("#title").val();
+        dynamic.content = $("#content").val();
+        // category, title, content are not empty
+        if (dynamic.category != "" && dynamic.title != "" && dynamic.content != "") {
+            dynamic.cleanValues();
+            dynamic.appendElements();
+            dynamic.storeArticle();
+            dynamic.cleanElements();
         }
-    };
-
-    dynamic.toggleElements = function () {
-        var visibleDiv = $("." + this.formDivClass + ":not(.hidden)");
-        visibleDiv.next().removeClass("hidden");
-        visibleDiv.addClass("hidden");
     };
 
     dynamic.cleanValues = function () {
