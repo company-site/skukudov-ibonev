@@ -5,9 +5,9 @@
         .module('app')
         .controller('Navigation', Navigation);
 
-    Navigation.$inject = ['$location', 'SessionService'];
+    Navigation.$inject = ['$location', '$rootScope', '$routeParams', 'SessionService'];
 
-    function Navigation($location, SessionService) {
+    function Navigation($location, $rootScope, $routeParams, SessionService) {
 
         /*jshint validthis: true */
         var vm = this;      
@@ -18,6 +18,12 @@
             window.location.href = $location.path();
             SessionService.setValue('onePage', true);
             SessionService.setValue('responsiveDesign', true); 
+        }
+        
+        $rootScope.homeLink = "/";
+        if (typeof $routeParams.nofooter != "undefined") {
+            $rootScope.noFooter = $routeParams.nofooter;
+            $rootScope.homeLink = "/?nofooter=true";
         }
         
         vm.changePage = changePage;

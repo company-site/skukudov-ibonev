@@ -3,14 +3,13 @@
 
     angular
         .module('app')
-        .controller('Services', Service);
+        .controller('Services', Services);
 
-    Service.$inject = [];
+    Services.$inject = [];
 
-    function Service() {
+    function Services() {
 
         /*jshint validthis: true */
         var vm = this;
-
     }
 })();

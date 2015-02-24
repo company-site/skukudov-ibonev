@@ -44,12 +44,12 @@
     <!-- button switcher end -->
 
     <base href="/"/>
-    <title ng-bind="title"><?php // echo $title; ?></title>
+    <title data-ng-bind="title">Home</title>
     <link rel="icon" type="image/png" href="../images/fav.ico">
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 <div id="main-container">
-    <div ng-include="'/app/navigation/navigation.html'"></div>
+    <div data-ng-include="'/app/navigation/navigation.html'"></div>
     <header class="intro">
-        <div ng-view=""></div>
+        <div data-ng-view=""></div>
     </header>
