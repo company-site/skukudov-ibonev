@@ -1,4 +1,5 @@
-    </div> 
+    </div>
+    </div>
     <!-- inject:js -->
     <!-- Bootstrapping -->
     <script src="../app/app.module.js"></script>

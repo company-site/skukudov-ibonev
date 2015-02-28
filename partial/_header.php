@@ -49,6 +49,7 @@
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 <div id="main-container">
+    <div id="wrap">
     <div data-ng-include="'/app/navigation/navigation.html'"></div>
     <header class="intro">
         <div data-ng-view=""></div>
