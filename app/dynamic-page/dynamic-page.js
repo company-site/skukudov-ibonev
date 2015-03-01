@@ -13,5 +13,9 @@
         var vm = this;
 
         vm.welcomeText = 'Dynamic page';
+        
+        vm.submitForm = function () {
+            
+        }
     }
 })();
