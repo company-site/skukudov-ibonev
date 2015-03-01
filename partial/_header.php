@@ -44,7 +44,7 @@
     <!-- button switcher end -->
 
     <base href="/"/>
-    <title data-ng-bind="title">Home</title>
+    <title data-ng-bind="title">WebSail</title>
     <link rel="icon" type="image/png" href="../images/fav.ico">
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
