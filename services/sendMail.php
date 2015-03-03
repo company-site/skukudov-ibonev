@@ -10,7 +10,7 @@ if(isset($_REQUEST['contactForm'])) {
             . PHP_EOL . "Name: " . $contactForm['name'];
     
     if(mail('info@websail.net', 'Contact form mesage', $message)) {
-        $response['message'] = "Mail sent!";
+        $response['message'] = "Mail sent successfully!";
         http_response_code(200);
     } else {
         $response['message'] = 'Mail sending failed. Please try again!';

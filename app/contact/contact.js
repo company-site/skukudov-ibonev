@@ -24,10 +24,12 @@
             })
             .success(function(data, status) {
                 console.log(data, status);
-                toastr.success("Message sent successfully!");
+                toastr.success(data.message);
+                vm.contactForm = {};
             })
             .error(function(data, status) {
                 console.log(data, status);
+                toastr.error(data.message); 
             });
         }
     }
