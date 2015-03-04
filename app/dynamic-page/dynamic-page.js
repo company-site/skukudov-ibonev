@@ -13,5 +13,10 @@
         var vm = this;
 
         vm.welcomeText = 'Dynamic page';
+        vm.articleForm = {};
+        
+        vm.submitForm = function () {
+            vm.articleForm = {};
+        }
     }
 })();

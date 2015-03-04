@@ -30,7 +30,9 @@ DynamicPage = function () {
             dynamic.cleanValues();
             dynamic.appendElements();
             dynamic.storeArticle();
-            dynamic.cleanElements();
+            setTimeout(function() {
+                 dynamic.cleanElements();
+            }, 250);
             dynamic.toastr.success('Your article has been saved.');
         }
     };
