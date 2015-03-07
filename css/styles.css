@@ -107,3 +107,47 @@ body {
     margin-bottom: 15px;
 }
 
+.about-us-container .row.about-us-details {
+    background: #374852;
+    color: #fff;
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.about-us-container .about-heading {
+  border-bottom: solid 2px #FE0000;
+  font-size: 20px;
+  text-indent: 15px;
+}
+
+.about-us-container .row {
+    margin-top: 20px;
+}
+
+.about-us-container .row .person-info-container {
+    margin-top: 25px;
+    padding-bottom: 15px;
+}
+
+.about-us-container .row .person-info-container .social-icon {
+    margin-left: 15px;
+    display: inline-block;
+}
+
+.about-us-container .row .person-info-container .person-description {
+    margin: 20px 0;
+}
+
+.about-us-container .person-info-container .person-name {
+    font-weight: bold;
+    padding: 10px 0 0 0;
+}
+
+.about-us-container .top-image-large {
+    margin-top: 0px;
+    min-height: 600px;
+    background: url("../images/about-us-large.jpg") top center no-repeat;
+    background-size: cover;
+}
+
