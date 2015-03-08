@@ -107,6 +107,15 @@ body {
     margin-bottom: 15px;
 }
 
+.toggle-text {
+    font-size: 18px;
+    font-weight: 500;
+    padding-left: 30px;
+    height: 50px;
+    overflow: hidden;
+    list-style-position: inside;
+}
+
 .about-us-container .row.about-us-details {
     background: #374852;
     color: #fff;
