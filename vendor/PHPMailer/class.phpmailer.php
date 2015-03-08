@@ -3462,7 +3462,7 @@ class phpmailerException extends Exception
      */
     public function errorMessage()
     {
-        $errorMsg = '<strong>' . $this->getMessage() . "</strong><br />\n";
+        $errorMsg = '<strong>' . $this->getMessage() . "</strong>\n";
         return $errorMsg;
     }
 }

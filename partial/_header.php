@@ -49,7 +49,7 @@
 
     <base href="/"/>
     <title data-ng-bind="title">WebSail</title>
-    <link rel="icon" type="image/png" href="../images/fav.ico">
+    <link rel="icon" type="image/x-icon" href="../images/fav.ico">
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 <div id="main-container">
