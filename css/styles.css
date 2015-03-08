@@ -12,6 +12,10 @@ body {
     font-family: 'proxima-nova', 'Helvetica', 'Arial', sans-serif;
 }
 
+.h1, h1 {
+    font-size: 36px !important;
+}
+
 #main-container {
     min-height: 90%;
 }
@@ -38,7 +42,7 @@ ul.nav.navbar-nav > li > a:active {
     background: #fff;
     margin: 0;
     border-bottom: 2px solid #dce0d9;
-    padding: 1em 0 0;
+    padding: 0.2em 0 0 0;
     display: block;
 }
 
@@ -160,3 +164,32 @@ body {
     background-size: cover;
 }
 
+.home-container .home-image-large-container {
+    margin-top: 0px;
+    min-height: 530px;
+    background: url("../images/home/slide1-bg.jpg") top center no-repeat;
+    background-color: #fff;
+    background-size: contain;
+}
+
+.home-container .home-image-large-container.vision {
+    background: url("../images/home/slide1-bg.jpg") top center no-repeat;
+}
+.home-container .home-image-large-container.creative {
+    background: url("../images/home/slide2-bg.jpg") top center no-repeat;
+}
+.home-container .home-image-large-container.easy-use {
+    background: url("../images/home/slide3-bg.jpg") top center no-repeat;
+}
+
+.home-container .home-presentation  h2 {
+    margin-bottom: 35px;
+}
+
+.home-container .thumbnail.thumbnail-home {
+    border: none;
+}
+
+.home-container .carousel-control {
+    width: 10%;
+}
