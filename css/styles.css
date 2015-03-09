@@ -74,23 +74,23 @@ a:hover {
     }
     h2 {
         font-size: 16px;
-        font-size: 4.0vh;
+        font-size: 3.5vw;
     }
     h3 {
         font-size: 14px;
-        font-size: 3.0vh;
+        font-size: 3.3vw;
     }
     h4 {
-        font-size: 12px;
-        font-size: 2.5vh;
+        font-size: 13px;
+        font-size: 3vw;
     }
     p, a {
-        font-size: 12px;
-        font-size: 2.5vh;
+        font-size: 13px;
+        font-size: 3vw;
     }
     li {
-        font-size: 12px;
-        font-size: 2.3vh;
+        font-size: 13px;
+        font-size: 3vw;
     }
 }
 
@@ -184,13 +184,6 @@ body {
 .about-us-container .person-info-container .person-name {
     font-weight: bold;
     padding: 10px 0 0 0;
-}
-
-.about-us-container .top-image-large {
-    margin-top: 0px;
-    min-height: 600px;
-    background: url("../images/about-us-large.jpg") top center no-repeat;
-    background-size: cover;
 }
 
 .home-container .home-presentation  h2 {
