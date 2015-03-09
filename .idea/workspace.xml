@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fa5f2845-56de-412c-be05-8036d871ab28" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/about-us-large.jpg" afterPath="$PROJECT_DIR$/images/about-us-large.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/about.html" afterPath="$PROJECT_DIR$/app/about/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="skukudov-ibonev.iws" />
@@ -53,8 +51,8 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/about/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9052023" vertical-offset="0" max-vertical-offset="2133">
-              <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.5942196" vertical-offset="944" max-vertical-offset="2133">
+              <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -653,7 +651,13 @@
       <option name="project" value="LOCAL" />
       <updated>1425909761741</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="contact us fixes">
+      <created>1425910597870</created>
+      <option name="number" value="00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1425910597870</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -712,7 +716,8 @@
     <MESSAGE value="mobile partial" />
     <MESSAGE value="sticky footer" />
     <MESSAGE value="services final design" />
-    <option name="LAST_COMMIT_MESSAGE" value="services final design" />
+    <MESSAGE value="contact us fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="contact us fixes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1069,8 +1074,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/about/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9052023" vertical-offset="0" max-vertical-offset="2133">
-          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.5942196" vertical-offset="944" max-vertical-offset="2133">
+          <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
           <folding />
         </state>
       </provider>
