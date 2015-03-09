@@ -55,6 +55,4 @@
 <div id="main-container">
     <div id="wrap">
     <div data-ng-include="'/app/navigation/navigation.html'"></div>
-    <header class="intro">
-        <div data-ng-view=""></div>
-    </header>
+    <div data-ng-view=""></div>
