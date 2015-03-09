@@ -11,5 +11,7 @@
 
         /*jshint validthis: true */
         var vm = this;
+
+        vm.welcomeText = 'Services page';
     }
 })();

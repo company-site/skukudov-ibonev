@@ -18,7 +18,7 @@
         vm.submitForm = function () {
             console.log(vm.contactForm);
             $http({
-                url: '/services/sendMail.php',
+                url: '/mail/sendMail.php',
                 method: 'POST',
                 params: { contactForm: JSON.stringify(vm.contactForm) }
             })
