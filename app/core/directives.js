@@ -31,7 +31,8 @@ angular.module('app').directive('detectActiveTab', function ($location) {
 
             // now compare the two:
             // add/remove to the parent of the a tag (li in this case)
-            if (pathToCheck === tabLink) {
+            //console.log($location.path(), attrs.href);
+            if (pathToCheck === tabLink || $location.path() === attrs.href) {
               element.addClass("active");
             }
             else {

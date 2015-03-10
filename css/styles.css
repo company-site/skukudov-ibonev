@@ -99,7 +99,7 @@ a:hover {
     background: url('/images/mobile-banner.png') top center no-repeat;
 }
 
-.iframe-small {
+.iframe-small, .iframe-small body{
     width: 567px;
     height: 368px;
     padding-top: 49px;
@@ -206,7 +206,7 @@ body {
     margin: 30px 0;
 }
 
-.home-container .our-process {
+.home-container .bottom-border {
     border-bottom: dashed 2px #74747E;
 }
 
@@ -225,11 +225,10 @@ body {
     border-left: none;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 768px) {
     .home-container .our-process .process-step {
         border-left: solid 2px #74747E;
         margin-top: -12px;
-        margin-bottom: -12px;
     }
 }
 
