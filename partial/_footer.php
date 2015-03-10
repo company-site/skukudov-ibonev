@@ -28,6 +28,7 @@
     <script src="../app/core/factories/session.factory.js"></script>
 
     <!-- directives -->
+    <script src="../app/core/directives.js"></script>
     <script src="../app/core/directives/dragabble.js"></script>
 
     <!-- angular bind once -->
