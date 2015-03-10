@@ -100,11 +100,11 @@ a:hover {
 }
 
 .iframe-small {
-    width: 271px;
-    height: 531px;
-    padding-top: 54px;
+    width: 567px;
+    height: 368px;
+    padding-top: 49px;
+    padding-left: 57px;
     border: none;
-    overflow: scroll;
 }
 /* Sticky footer start */
 html,
