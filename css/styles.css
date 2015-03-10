@@ -205,3 +205,42 @@ body {
 .deviders {
     margin: 30px 0;
 }
+
+.home-container .our-process {
+    border-bottom: dashed 2px #74747E;
+}
+
+.home-container .thumbnail.thumbnail-process {
+    border: none;
+    padding:0px;
+    margin-bottom: 0px;
+}
+
+.home-container .thumbnail.thumbnail-process .caption {
+    margin-bottom: 0px;
+    padding: 0px 5px 15px 0px;
+}
+
+.home-container .our-process .process-step {
+    border-left: none;
+}
+
+@media (min-width: 992px) {
+    .home-container .our-process .process-step {
+        border-left: solid 2px #74747E;
+        margin-top: -12px;
+        margin-bottom: -12px;
+    }
+}
+
+.home-container .our-process .fa-dot-circle-o {
+    color: #74747E;
+    margin-bottom: -2px;
+}
+
+.home-container .our-process .fa-dot-circle-o.pull-left {
+    margin-left: -2px;
+}
+.home-container .our-process .fa-dot-circle-o.pull-right {
+    margin-right: -2px;
+}
