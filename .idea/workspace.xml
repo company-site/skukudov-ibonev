@@ -56,8 +56,8 @@
       <file leaf-file-name="navigation.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/navigation/navigation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.2535211" vertical-offset="2349" max-vertical-offset="3591">
-              <caret line="79" column="0" selection-start-line="79" selection-start-column="2" selection-end-line="89" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.3" vertical-offset="1023" max-vertical-offset="3591">
+              <caret line="47" column="28" selection-start-line="47" selection-start-column="31" selection-end-line="50" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -400,12 +400,6 @@
       <option name="number" value="Default" />
       <updated>1420229384856</updated>
     </task>
-    <task id="LOCAL-00001" summary="test">
-      <created>1420229405467</created>
-      <option name="number" value="00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1420229405467</updated>
-    </task>
     <task id="LOCAL-00002" summary="skeleton">
       <created>1420236605730</created>
       <option name="number" value="00002" />
@@ -694,7 +688,13 @@
       <option name="project" value="LOCAL" />
       <updated>1425982105514</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="remove switcher (one page and responsive design)">
+      <created>1425982185527</created>
+      <option name="number" value="00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1425982185528</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -758,7 +758,8 @@
     <MESSAGE value="ignored files" />
     <MESSAGE value="services changes" />
     <MESSAGE value="homepage tab" />
-    <option name="LAST_COMMIT_MESSAGE" value="homepage tab" />
+    <MESSAGE value="remove switcher (one page and responsive design)" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove switcher (one page and responsive design)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1131,8 +1132,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/navigation/navigation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.2535211" vertical-offset="2349" max-vertical-offset="3591">
-          <caret line="79" column="0" selection-start-line="79" selection-start-column="2" selection-end-line="89" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.3" vertical-offset="1023" max-vertical-offset="3591">
+          <caret line="47" column="28" selection-start-line="47" selection-start-column="31" selection-end-line="50" selection-end-column="29" />
           <folding />
         </state>
       </provider>
