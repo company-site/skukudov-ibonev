@@ -1,6 +1,6 @@
 <div ng-controller="About as vm" class="about-us-container">
     <!-- About Section -->
-    <img class="img-responsive" width="100%" src="../../images/about-us-large.jpg">
+    <img class="img-responsive" src="../../images/about-us-large.jpg" />
     <div class="about-us-details">
         <div class="container">
             <p>Why WebSail ?</p>
@@ -43,7 +43,7 @@
                 <p class="text-left text-uppercase about-heading"><strong>Our team</strong></p>
 
                 <div class="col-md-4 col-sm-6 col-xs-12 text-center person-info-container" ng-repeat="person in vm.team">
-                    <img src="../../images/people/{{person.picture}}" class="img-rounded" alt=""/>
+                    <img data-ng-src="../../images/people/{{person.picture}}" class="img-rounded" alt=""/>
 
                     <p class="text-uppercase person-name">{{person.name}}</p>
 
