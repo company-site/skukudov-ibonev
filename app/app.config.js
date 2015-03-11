@@ -5,9 +5,9 @@
         .module('app')
         .config(routeConfig);
 
-    routeConfig.$inject = ['$routeProvider', '$locationProvider'];
+    routeConfig.$inject = ['$routeProvider', '$locationProvider', 'uiGmapGoogleMapApiProvider'];
 
-    function routeConfig($routeProvider, $locationProvider) {    
+    function routeConfig($routeProvider, $locationProvider, uiGmapGoogleMapApiProvider) {    
             $routeProvider
             .when('/',{ templateUrl: 'app/home/home.html', title: 'Home'})
             .when('/about',{ templateUrl: 'app/about/about.html', title: 'About us'})
@@ -19,5 +19,11 @@
             .otherwise({ redirectTo: '/' });
             
         $locationProvider.html5Mode(true).hashPrefix('!');
+        
+        uiGmapGoogleMapApiProvider.configure({
+            //    key: 'your api key',
+            v: '3.17',
+            libraries: 'weather,geometry,visualization'
+        });
     }
 })();

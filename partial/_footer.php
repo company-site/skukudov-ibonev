@@ -31,8 +31,12 @@
     <script src="../app/core/directives.js"></script>
     <script src="../app/core/directives/dragabble.js"></script>
 
+    <!-- vendor -->
     <!-- angular bind once -->
     <script src="../vendor/js/once.js"></script>
+    <script src="../vendor/js/lodash.js"></script>
+    <script src="../vendor/js/angular-google-maps.min.js"></script>
+    
 <!-- Footer -->
 <footer class="container footer-container">
     <a href="https://www.facebook.com/websail.net" class="pull-right" target="_blank"><i class="fa fa-2x fa-facebook-square"></i></a>

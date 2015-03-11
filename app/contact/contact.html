@@ -29,27 +29,14 @@
                     </form>
                 </div>
                 <div class="col-xs-12">
-                    <div id="map-canvas" style="height: 500px;"></div>
+                    <div id="map-canvas">
+                        <ui-gmap-google-map center="vm.map.center" zoom="vm.map.zoom" options="vm.map.options">
+                            <ui-gmap-marker coords="vm.map.marker.coords" options="vm.map.marker.options" idkey="vm.map.marker.id">
+                            </ui-gmap-marker>         
+                        </ui-gmap-google-map>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-
-<script>
-    function initialize() {
-        var myLatlng = new google.maps.LatLng(45.430817,12.331516);
-        var mapOptions = {
-            zoom: 8,
-            center: myLatlng
-        };
-        var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
-
-        var marker = new google.maps.Marker({
-            position: myLatlng,
-            map: map,
-            title: 'Websail!'
-        });
-    }
-    google.maps.event.addDomListener(window, 'load', initialize);
-</script>

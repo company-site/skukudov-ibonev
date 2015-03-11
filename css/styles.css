@@ -248,3 +248,7 @@ body {
 #world_map {
     background: #fff url("../images/contacts/world_map.png") no-repeat left top;
 }
+
+.angular-google-map-container {
+    height: 500px;
+}
