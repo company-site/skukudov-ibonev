@@ -8,11 +8,10 @@
     Contact.$inject = ['$http'];
 
     function Contact($http) {
-
         /*jshint validthis: true */
         var vm = this;
 
-        vm.welcomeText = 'Contact page';
+        vm.welcomeText = 'For more information contact us';
         vm.contactForm = {};
         
         vm.submitForm = function () {

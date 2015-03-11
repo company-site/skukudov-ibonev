@@ -12,7 +12,7 @@
         /*jshint validthis: true */
         var vm = this;
 
-        vm.welcomeText = 'About page';
+        vm.welcomeText = 'About us';
         
         vm.team = [
             {name: 'Mihail Mihaylov', title: 'CEO / Chief Executive Officer', picture: 'mihail.png', description: 'Description', contacts: {facebook: 'fb', linkedin: 'linkedin', twitter: 'twitter', email: 'email'}},

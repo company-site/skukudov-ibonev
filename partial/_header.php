@@ -50,6 +50,7 @@
     <base href="/"/>
     <title data-ng-bind="title">WebSail</title>
     <link rel="icon" type="image/x-icon" href="../images/fav.ico">
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script>
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 <div id="main-container">

@@ -240,6 +240,11 @@ body {
 .home-container .our-process .fa-dot-circle-o.pull-left {
     margin-left: -2px;
 }
+
 .home-container .our-process .fa-dot-circle-o.pull-right {
     margin-right: -2px;
+}
+
+#world_map {
+    background: #fff url("../images/contacts/world_map.png") no-repeat left top;
 }
