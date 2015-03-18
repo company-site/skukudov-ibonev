@@ -3,11 +3,11 @@
 
     angular
         .module('app')
-        .controller('Services', Services);
+        .controller('Technologies', Technologies);
 
-    Services.$inject = ['$sce','$routeParams', '$rootScope'];
+    Technologies.$inject = ['$sce','$routeParams', '$rootScope'];
 
-    function Services($sce, $routeParams, $rootScope) {
+    function Technologies($sce, $routeParams, $rootScope) {
 
         /*jshint validthis: true */
         var vm = this;
@@ -20,6 +20,6 @@
             $rootScope.homeLink = "/?nofooter=true";
         }
 
-        vm.welcomeText = 'Services page';
+        vm.welcomeText = 'Technologies page';
     }
 })();
