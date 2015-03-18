@@ -1,4 +1,4 @@
-<div class="services-container" ng-controller="Services as vm">
+<div class="technologies-container" ng-controller="Technologies as vm">
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
         <ol class="carousel-indicators">
@@ -159,14 +159,12 @@
             <div class="col-xs-8">
                 <h2 id="responsive-design">Responsive Design</h2>
 
-                <p style="font-size: 18px; font-weight: 500; padding-left: 30px;">(RWD) is an approach to web design aimed at crafting sites to provide an optimal viewing experience—easy reading and navigation with a minimum of resizing, panning, and scrolling—across a wide range of devices (from desktop computer monitors to mobile phones).</p>
-                <button type="button" class="btn btn-primary hidden-xs" data-toggle="modal" data-target="#mobile-preview">Live demo</button>
                 <p style="padding-left: 30px;">
-                    RWD) is an approach to web design aimed at crafting sites to provide an optimal viewing
+                    (RWD) is an approach to web design aimed at crafting sites to provide an optimal viewing
                     experience—easy reading and navigation with a minimum of resizing, panning, and scrolling—across
                     a wide range of devices (from desktop computer monitors to mobile phones).
                 </p>
-                <a href="#" data-toggle="modal" data-target="#mobile-preview">Live demo</a>
+                <button type="button" class="btn btn-primary hidden-xs" data-toggle="modal" data-target="#mobile-preview">Live demo</button>
             </div>
         </div>
         <br/>
@@ -205,50 +203,6 @@
                 <button type="button" class="btn btn-primary read-more">Read more...</button>
             </div>
         </div>
-        <hr/>
-        <hr/>
-        <div class="row">
-            <div class="col-xs-12 col-md-4">
-                <div class="panel panel-default">
-                    <div class="panel-heading"><b>Start Up Package</b></div>
-                    <div class="panel-body">
-                        <ul class="list-group">
-                            <li class="list-group-item">Responsive Design</li>
-                            <li class="list-group-item">Seo Optimization</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xs-12 col-md-4">
-                <div class="panel panel-default">
-                    <div class="panel-heading"><b>Advanced Package</b></div>
-                    <div class="panel-body">
-                        <ul class="list-group">
-                            <li class="list-group-item">Responsive Design</li>
-                            <li class="list-group-item">Seo Optimization</li>
-                            <li class="list-group-item">CMS</li>
-                            <li class="list-group-item">Web stores</li>
-                            <li class="list-group-item">Blog</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xs-12 col-md-4">
-                <div class="panel panel-default">
-                    <div class="panel-heading"><b>Professional Package</b></div>
-                    <div class="panel-body">
-                        <ul class="list-group">
-                            <li class="list-group-item">Responsive Design</li>
-                            <li class="list-group-item">Seo Optimization</li>
-                            <li class="list-group-item">One Page Application</li>
-                            <li class="list-group-item">Zend</li>
-                            <li class="list-group-item">Symphony</li>
-                            <li class="list-group-item">Fully customizable by the client</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
     </div>
 </div>
 
@@ -272,21 +226,6 @@
 </div>
 
 <script>
-    var condition = 'hidden';
-    $(".read-more").click(function () {
-        var el = $(this).prev()
-        var curHeight = el.height();
-        var autoHeight = el.css('height', 'auto').height();
-        if (condition == 'hidden') {
-            condition = 'shown';
-        } else {
-            autoHeight = '50px';
-            condition = 'hidden';
-        }
-
-        el.height(curHeight).animate({height: autoHeight}, 1000);
-    });
-    $(document).ready(function() {
     $(document).ready(function () {
         $('.carousel').carousel({
             interval: 3000
@@ -300,7 +239,7 @@
             if (condition == 'hidden') {
                 condition = 'shown';
             } else {
-                autoHeight = '40px';
+                autoHeight = '50px';
                 condition = 'hidden';
             }
 
