@@ -5,7 +5,9 @@
         /*
          * Angular modules
          */
-        'ngAnimate', 'ngRoute', 'ngSanitize', 'once'
+        'ngAnimate', 'ngRoute', 'ngSanitize', 'once',
+        // 3rd party
+        'uiGmapgoogle-maps'
     ]);
     
 })();

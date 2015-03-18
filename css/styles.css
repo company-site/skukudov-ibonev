@@ -141,10 +141,8 @@ body {
 }
 
 .toggle-text {
-    font-size: 18px;
-    font-weight: 500;
     padding-left: 30px;
-    height: 50px;
+    height: 40px;
     overflow: hidden;
     list-style-position: inside;
 }
@@ -240,6 +238,15 @@ body {
 .home-container .our-process .fa-dot-circle-o.pull-left {
     margin-left: -2px;
 }
+
 .home-container .our-process .fa-dot-circle-o.pull-right {
     margin-right: -2px;
+}
+
+#world_map {
+    background: #fff url("../images/contacts/world_map.png") no-repeat left top;
+}
+
+.angular-google-map-container {
+    height: 500px;
 }
