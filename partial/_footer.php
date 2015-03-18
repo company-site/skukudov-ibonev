@@ -17,6 +17,8 @@
     <script src="../app/demonstrations/demonstrations.js"></script>
     <!-- technologies -->
     <script src="../app/technologies/technologies.js"></script>
+    <!-- services -->
+    <script src="../app/services/services.js"></script>
     <!-- navigation -->
     <script src="../app/navigation/navigation.js"></script>
     <!-- dynamic page -->

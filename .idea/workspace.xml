@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa5f2845-56de-412c-be05-8036d871ab28" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/services/services.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/services/services.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/fav.ico" afterPath="$PROJECT_DIR$/images/fav.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logo_version.png" afterPath="$PROJECT_DIR$/images/logo_version.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/_footer.php" afterPath="$PROJECT_DIR$/partial/_footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/navigation/navigation.html" afterPath="$PROJECT_DIR$/app/navigation/navigation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/technologies/technologies.html" afterPath="$PROJECT_DIR$/app/technologies/technologies.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -38,21 +45,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/app.config.js">
+      <file leaf-file-name="services.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/services/services.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="828">
-              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+            <state vertical-scroll-proportion="1.0909091" vertical-offset="1035" max-vertical-offset="3197">
+              <caret line="69" column="51" selection-start-line="69" selection-start-column="51" selection-end-line="69" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/partial/_footer.php">
+      <file leaf-file-name="services.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/services/services.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.71875" vertical-offset="657" max-vertical-offset="1196">
-              <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+            <state vertical-scroll-proportion="-6.2727275" vertical-offset="0" max-vertical-offset="506">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -61,9 +68,22 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/home/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.5" vertical-offset="693" max-vertical-offset="2277">
-              <caret line="35" column="71" selection-start-line="35" selection-start-column="71" selection-end-line="35" selection-end-column="71" />
+            <state vertical-scroll-proportion="-1.0615385" vertical-offset="667" max-vertical-offset="2277">
+              <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="technologies.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/technologies/technologies.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.0615385" vertical-offset="920" max-vertical-offset="4899">
+              <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#6;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,67 +91,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="5130" max-vertical-offset="5911">
-              <caret line="234" column="22" selection-start-line="234" selection-start-column="22" selection-end-line="234" selection-end-column="22" />
-              <folding>
-                <marker date="1426713548662" expanded="true" signature="2548:2690" placeholder="{...}" />
-                <marker date="1426713548662" expanded="true" signature="2765:2834" placeholder="{...}" />
-                <marker date="1426713548662" expanded="true" signature="2892:2957" placeholder="{...}" />
-                <marker date="1426713548662" expanded="true" signature="2984:3046" placeholder="{...}" />
-                <marker date="1426713548662" expanded="true" signature="3122:3166" placeholder="{...}" />
-                <marker date="1426713548662" expanded="true" signature="3229:3275" placeholder="{...}" />
-                <marker date="1426713548662" expanded="true" signature="3402:3411" placeholder="{...}" />
-                <marker date="1426713548662" expanded="true" signature="3579:3612" placeholder="{...}" />
-                <marker date="1426713548662" expanded="true" signature="3669:3695" placeholder="{...}" />
-                <marker date="1426713548662" expanded="true" signature="3751:3778" placeholder="{...}" />
-                <marker date="1426713548662" expanded="true" signature="3877:3904" placeholder="{...}" />
-                <marker date="1426713548662" expanded="true" signature="3960:4024" placeholder="{...}" />
-                <marker date="1426713548662" expanded="true" signature="4199:4218" placeholder="{...}" />
-                <marker date="1426713548662" expanded="true" signature="4285:4325" placeholder="{...}" />
-                <marker date="1426713548662" expanded="true" signature="4394:4422" placeholder="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="directives.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/core/directives.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="207" max-vertical-offset="1104">
-              <caret line="34" column="74" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="74" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="technologies.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/technologies/technologies.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55928856" vertical-offset="3535" max-vertical-offset="5842">
-              <caret line="166" column="140" selection-start-line="166" selection-start-column="140" selection-end-line="166" selection-end-column="140" />
-              <folding>
-                <element signature="n#style#0;n#p#0;n#div#1;n#div#7;n#div#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navigation.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/navigation/navigation.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.5538461" vertical-offset="1003" max-vertical-offset="3128">
-              <caret line="48" column="107" selection-start-line="48" selection-start-column="107" selection-end-line="48" selection-end-column="107" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/home/home.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.5151515" vertical-offset="189" max-vertical-offset="1012">
-              <caret line="19" column="307" selection-start-line="19" selection-start-column="307" selection-end-line="19" selection-end-column="307" />
+            <state vertical-scroll-proportion="-9.727273" vertical-offset="139" max-vertical-offset="6026">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -172,18 +133,18 @@
         <option value="$PROJECT_DIR$/mail/sendMail.php" />
         <option value="$PROJECT_DIR$/partial/_header.php" />
         <option value="$PROJECT_DIR$/app/app.js" />
-        <option value="$PROJECT_DIR$/app/services/services.js" />
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/app/core/directives.js" />
-        <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/app/home/home.html" />
-        <option value="$PROJECT_DIR$/app/services/services.html" />
         <option value="$PROJECT_DIR$/app/technologies/technologies.js" />
-        <option value="$PROJECT_DIR$/partial/_footer.php" />
-        <option value="$PROJECT_DIR$/app/navigation/navigation.html" />
         <option value="$PROJECT_DIR$/app/home/home.js" />
         <option value="$PROJECT_DIR$/app/app.config.js" />
+        <option value="$PROJECT_DIR$/app/navigation/navigation.html" />
+        <option value="$PROJECT_DIR$/app/services/services.js" />
+        <option value="$PROJECT_DIR$/partial/_footer.php" />
         <option value="$PROJECT_DIR$/app/technologies/technologies.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/app/services/services.html" />
       </list>
     </option>
   </component>
@@ -258,6 +219,132 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skukudov-ibonev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skukudov-ibonev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="technologies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skukudov-ibonev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skukudov-ibonev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skukudov-ibonev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skukudov-ibonev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skukudov-ibonev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skukudov-ibonev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dynamic-page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skukudov-ibonev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skukudov-ibonev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demonstrations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skukudov-ibonev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skukudov-ibonev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contact" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skukudov-ibonev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skukudov-ibonev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="about" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -274,6 +361,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$/app/services" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -335,12 +423,6 @@
       <created>1420229384856</created>
       <option name="number" value="Default" />
       <updated>1420229384856</updated>
-    </task>
-    <task id="LOCAL-00003" summary="skeleton">
-      <created>1420275450250</created>
-      <option name="number" value="00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1420275450250</updated>
     </task>
     <task id="LOCAL-00004" summary="skeleton">
       <created>1420275507769</created>
@@ -630,7 +712,13 @@
       <option name="project" value="LOCAL" />
       <updated>1426022156560</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Technologies">
+      <created>1426714136765</created>
+      <option name="number" value="00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1426714136765</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -696,51 +784,20 @@
     <MESSAGE value="anchors" />
     <MESSAGE value="horizontal scroller removal" />
     <MESSAGE value="carosel autoswitch" />
-    <option name="LAST_COMMIT_MESSAGE" value="carosel autoswitch" />
+    <MESSAGE value="Technologies" />
+    <option name="LAST_COMMIT_MESSAGE" value="Technologies" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4969" max-vertical-offset="5773">
-          <caret line="227" column="22" selection-start-line="227" selection-start-column="22" selection-end-line="227" selection-end-column="22" />
-          <folding>
-            <marker date="1426713548662" expanded="true" signature="2548:2690" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="2765:2834" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="2892:2957" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="2984:3046" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="3122:3166" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="3229:3275" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="3402:3411" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="3579:3612" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="3669:3695" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="3751:3778" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="3877:3904" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="3960:4024" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="4199:4218" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="4285:4325" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="4394:4422" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/core/directives.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="207" max-vertical-offset="1104">
-          <caret line="34" column="74" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/technologies/technologies.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5796">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#7;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#6;n#div#1;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -907,13 +964,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/dynamic-page/dynamic-page.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="621">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/app.module.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="322">
@@ -932,20 +982,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="584">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/contact/contact.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56392294" vertical-offset="138" max-vertical-offset="943">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/about/about.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55136985" vertical-offset="0" max-vertical-offset="584">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -1030,34 +1066,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/app/home/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="5130" max-vertical-offset="5911">
-          <caret line="234" column="22" selection-start-line="234" selection-start-column="22" selection-end-line="234" selection-end-column="22" />
-          <folding>
-            <marker date="1426713548662" expanded="true" signature="2548:2690" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="2765:2834" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="2892:2957" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="2984:3046" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="3122:3166" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="3229:3275" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="3402:3411" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="3579:3612" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="3669:3695" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="3751:3778" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="3877:3904" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="3960:4024" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="4199:4218" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="4285:4325" placeholder="{...}" />
-            <marker date="1426713548662" expanded="true" signature="4394:4422" placeholder="{...}" />
-          </folding>
+        <state vertical-scroll-proportion="-1.0615385" vertical-offset="667" max-vertical-offset="2277">
+          <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partial/_footer.php">
+    <entry file="file://$PROJECT_DIR$/app/home/home.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.71875" vertical-offset="657" max-vertical-offset="1196">
-          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+        <state vertical-scroll-proportion="-8.636364" vertical-offset="267" max-vertical-offset="1012">
+          <caret line="24" column="57" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/contact/contact.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="138" max-vertical-offset="1518">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dynamic-page/dynamic-page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="621">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/about/about.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.848485" vertical-offset="14" max-vertical-offset="690">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -1070,46 +1114,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/navigation/navigation.html">
+    <entry file="file://$PROJECT_DIR$/partial/_footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.5538461" vertical-offset="1003" max-vertical-offset="3128">
-          <caret line="48" column="107" selection-start-line="48" selection-start-column="107" selection-end-line="48" selection-end-column="107" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/home/home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.5151515" vertical-offset="189" max-vertical-offset="1012">
-          <caret line="19" column="307" selection-start-line="19" selection-start-column="307" selection-end-line="19" selection-end-column="307" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/home/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.5" vertical-offset="693" max-vertical-offset="2277">
-          <caret line="35" column="71" selection-start-line="35" selection-start-column="71" selection-end-line="35" selection-end-column="71" />
+        <state vertical-scroll-proportion="-0.029684601" vertical-offset="476" max-vertical-offset="1242">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/app.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="828">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.20140105" vertical-offset="207" max-vertical-offset="828">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/navigation/navigation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.8814229" vertical-offset="221" max-vertical-offset="3266">
+          <caret line="51" column="125" selection-start-line="51" selection-start-column="125" selection-end-line="51" selection-end-column="125" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.2727275" vertical-offset="0" max-vertical-offset="506">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.727273" vertical-offset="139" max-vertical-offset="6026">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/technologies/technologies.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55928856" vertical-offset="3535" max-vertical-offset="5842">
-          <caret line="166" column="140" selection-start-line="166" selection-start-column="140" selection-end-line="166" selection-end-column="140" />
+        <state vertical-scroll-proportion="-1.0615385" vertical-offset="920" max-vertical-offset="4899">
+          <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
           <folding>
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#7;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#6;n#div#1;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0909091" vertical-offset="1035" max-vertical-offset="3197">
+          <caret line="69" column="51" selection-start-line="69" selection-start-column="51" selection-end-line="69" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
