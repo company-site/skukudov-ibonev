@@ -15,7 +15,6 @@
         vm.contactForm = {};
         
         vm.submitForm = function () {
-            console.log(vm.contactForm);
             $http({
                 url: '/mail/sendMail.php',
                 method: 'POST',
@@ -30,7 +29,7 @@
                 console.log(data, status);
                 toastr.error(data.message); 
             });
-        }
+        };
         
         // set options passed to map directive in view
         vm.map = {
