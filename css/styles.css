@@ -27,7 +27,7 @@ body {
 
 @media (max-width: 480px) {
     #main-container {
-        min-height: 0px;
+        min-height: 0;
     }
 }
 
@@ -259,4 +259,20 @@ body {
 textarea.form-control {
   height: auto;
   min-height: 150px;
+}
+
+#services-banner {
+    background: #fff url("../images/services/Services_slider_(1).jpg") no-repeat right center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 355px;
+}
+
+.banner-text h1 {
+    color: white;
+    text-shadow: -1px 0 8px rgba(26, 26, 26, 0.91);
+    line-height: 48px !important;
+    margin-top: 120px;
 }
