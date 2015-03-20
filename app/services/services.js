@@ -5,9 +5,9 @@
         .module('app')
         .controller('Services', Services);
 
-    Services.$inject = ['$sce','$routeParams', '$rootScope'];
+    Services.$inject = ['$http'];
 
-    function Services() {
+    function Services($http) {
 
         /*jshint validthis: true */
         var vm = this;
@@ -28,6 +28,10 @@
             .error(function(data, status) {
                 console.log(data, status);
                 toastr.error(data.message);
+            })
+            .finally(function() {
+                // close contact modal
+                $('#contact').modal('hide');
             });
         };
 

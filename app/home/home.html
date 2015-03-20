@@ -31,15 +31,17 @@
     </div>
 
     <div class="container home-presentation">
-        <h1 class="text-center">We Build our products to represent our Values</h1>
+        <h1 class="text-center">Our passion is turning great business ideas into competitive websites and software</h1>
 
-        <h2 class="text-center">Here's the best part of our impressive services</h2>
+        <h2 class="text-center">Our strategic solutions</h2>
 
-        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 text-center" ng-repeat="service in vm.ourServices">
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 text-center" ng-repeat="service in vm.ourServices">
             <div class="thumbnail thumbnail-home">
                 <div class="row">
                 <div class="col-xs-8 col-xs-offset-2 col-sm-offset-0 col-sm-12">
-                    <img class="img-responsive center-block" ng-src="{{service.image}}" alt="{{service.altText}}">
+                    <a ng-href="{{service.url}}" role="button">
+                        <img class="img-responsive center-block" ng-src="{{service.image}}" alt="{{service.altText}}">
+                    </a>
                 </div>
                 <div class="col-xs-12">
                 <div class="caption">
@@ -47,7 +49,7 @@
 
                     <p class="text-justify">{{service.description}}</p>
 
-                    <p><a ng-href="{{service.url}}" role="button">Read more ... </a></p>
+                    <p><a class="btn btn-primary" ng-href="{{service.url}}" role="button">Read more</a></p>
                 </div>
                 </div>
                 </div>
@@ -55,12 +57,16 @@
         </div>
 
     </div>
-
+    <div class="container">
+        <h3 class="text-center">
+            Our mission is to support entrepreneurs and social innovators for rapid and sustainable business growth. We utilize the most powerful free programming frameworks and tools to lower the end price.
+        </h3>
+    </div>
     <div class="container our-process">
         <div class="row">
             <div class="col-xs-12">
                 <div class="clearfix bottom-border">
-                <h2 class="text-center"><strong>Our Process</strong></h2>
+                <h2 class="text-center"><strong>Path to success</strong></h2>
                 <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 text-center" ng-repeat="step in vm.processSteps track by $index">
                     <div class="thumbnail thumbnail-process">
                         <div class="row">

@@ -9,7 +9,9 @@ if (isset($_REQUEST['contactForm'])) {
 
     $message = $contactForm['message']
         . PHP_EOL . "Email " . $contactForm['email']
-        . PHP_EOL . "Name: " . $contactForm['name'];
+        . PHP_EOL . "Name: " . $contactForm['name']
+        . PHP_EOL . "Company: " . $contactForm['company']
+        . PHP_EOL . "Website: " . $contactForm['website'];
 
     $mail = new PHPMailer();
 

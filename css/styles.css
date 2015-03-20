@@ -253,5 +253,10 @@ body {
 }
 
 .angular-google-map-container {
-    height: 500px;
+    min-height: 215px;
+}
+
+textarea.form-control {
+  height: auto;
+  min-height: 150px;
 }

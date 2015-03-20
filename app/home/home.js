@@ -14,10 +14,9 @@
         vm.welcomeText = 'Company home';
         
         vm.ourServices = [
-            { id: 1, title: 'Responsive Design', description: 'Responsive web design is a web development approach that creates dynamic changes to the appearance of a website, depending on the screen size and orientation of the device being used to view it.', image: '../images/home/icon-1-red.png', altText: '', url: $sce.trustAsResourceUrl("/technologies#responsive-design")},
-            { id: 2, title: 'Digital Strategy', description: 'The "net" is in a state of informational overload. The useful information we seek might be sometimes in a pile of spam, viral marketing campaigns, and many more sources of unimportant information. We can help you deliver your content, your product to the right audience. Stand out in the crowd and keep evolving your business in the right direction.', image: './images/home/icon-2-red.png', altText: '', url: $sce.trustAsResourceUrl("/technologies#digital-strategy")},
-            { id: 3, title: 'Agile Development', description: 'The Agile movement proposes alternatives to traditional project management. Agile approaches are typically used in software development to help businesses respond to unpredictability.', image: './images/home/icon-3-red.png', altText: '', url: $sce.trustAsResourceUrl("/technologies#agile-development")},
-            { id: 4, title: 'One Page Applications', description: 'Single-Page Applications (SPAs) are Web apps that load a single HTML page and dynamically update that page as the user interacts with the app.', image: './images/home/icon-4-red.png', altText: '', url: $sce.trustAsResourceUrl("/technologies#one-page-app")}
+            { id: 1, title: 'Startups', description: '', image: '../images/home/startup-icon.png', altText: '', url: $sce.trustAsResourceUrl("/services#start-up")},
+            { id: 2, title: 'Web Development', description: '', image: './images/home/web-development-icon.png', altText: '', url: $sce.trustAsResourceUrl("/services#web-development")},
+            { id: 3, title: 'Web Design', description: '', image: './images/home/web-design-icon.png', altText: '', url: $sce.trustAsResourceUrl("/technologies#design")},
         ];
         
         vm.processSteps = [
