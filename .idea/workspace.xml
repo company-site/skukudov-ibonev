@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fa5f2845-56de-412c-be05-8036d871ab28" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/about.html" afterPath="$PROJECT_DIR$/app/about/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/about.js" afterPath="$PROJECT_DIR$/app/about/about.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="skukudov-ibonev.iws" />
@@ -32,8 +31,8 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/about/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.71308523" vertical-offset="1053" max-vertical-offset="2187">
-              <caret line="61" column="91" selection-start-line="61" selection-start-column="91" selection-end-line="61" selection-end-column="91" />
+            <state vertical-scroll-proportion="0.6242775" vertical-offset="621" max-vertical-offset="2565">
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -42,7 +41,7 @@
       <file leaf-file-name="about.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/about/about.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
+            <state vertical-scroll-proportion="0.0" vertical-offset="567" max-vertical-offset="810">
               <caret line="21" column="259" selection-start-line="21" selection-start-column="259" selection-end-line="21" selection-end-column="259" />
               <folding />
             </state>
@@ -62,7 +61,7 @@
       <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/contact/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.75" vertical-offset="405" max-vertical-offset="1323">
+            <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1323">
               <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
               <folding />
             </state>
@@ -72,7 +71,7 @@
       <file leaf-file-name="contact.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/contact/contact.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1755">
+            <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="1755">
               <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
@@ -161,8 +160,8 @@
         <option value="$PROJECT_DIR$/app/home/home.js" />
         <option value="$PROJECT_DIR$/app/services/services.html" />
         <option value="$PROJECT_DIR$/app/contact/contact.html" />
-        <option value="$PROJECT_DIR$/app/about/about.html" />
         <option value="$PROJECT_DIR$/app/about/about.js" />
+        <option value="$PROJECT_DIR$/app/about/about.html" />
       </list>
     </option>
   </component>
@@ -351,9 +350,6 @@
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -361,6 +357,9 @@
       <arguments />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <configuration default="false" name="Company" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Company">
@@ -384,12 +383,6 @@
       <created>1420229384856</created>
       <option name="number" value="Default" />
       <updated>1420229384856</updated>
-    </task>
-    <task id="LOCAL-00013" summary="dynamic page with local history">
-      <created>1422655136696</created>
-      <option name="number" value="00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1422655136696</updated>
     </task>
     <task id="LOCAL-00014" summary="dynamic page with local history">
       <created>1422655161941</created>
@@ -679,7 +672,13 @@
       <option name="project" value="LOCAL" />
       <updated>1427101710825</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="contact us - google +">
+      <created>1427107204284</created>
+      <option name="number" value="00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1427107204284</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -723,7 +722,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="dynamic" />
     <MESSAGE value="dynamic articles" />
     <MESSAGE value="toastr" />
     <MESSAGE value="dynamic page with local history" />
@@ -748,7 +746,8 @@
     <MESSAGE value="services new icons" />
     <MESSAGE value="services design" />
     <MESSAGE value="services design final" />
-    <option name="LAST_COMMIT_MESSAGE" value="services design final" />
+    <MESSAGE value="contact us - google +" />
+    <option name="LAST_COMMIT_MESSAGE" value="contact us - google +" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1086,7 +1085,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/contact/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.75" vertical-offset="405" max-vertical-offset="1323">
+        <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1323">
           <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
           <folding />
         </state>
@@ -1110,8 +1109,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/about/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71308523" vertical-offset="1053" max-vertical-offset="2187">
-          <caret line="61" column="91" selection-start-line="61" selection-start-column="91" selection-end-line="61" selection-end-column="91" />
+        <state vertical-scroll-proportion="0.6242775" vertical-offset="621" max-vertical-offset="2565">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding />
         </state>
       </provider>

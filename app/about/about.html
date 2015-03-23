@@ -1,29 +1,40 @@
 <div ng-controller="About as vm" class="about-us-container">
     <!-- About Section -->
-    <img class="img-responsive" src="../../images/about-us-large.jpg" />
-    <div class="about-us-details">
-        <div class="container">
-            <p>Why Softologic ?</p>
+    <img class="img-responsive" src="../../images/about-us-large.jpg"/>
 
-            <p>Identify goals: <br/>
-                We help you to make the Stack of Requirements instead of having hard and fast requirements, we
-                help to identify goals and rank them by priority.</p>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <p><b>Why Softologic ?</b></p>
 
-            <p>Development following the goals and time plan: <br/>
-                We start with a previously-finished configuration, and use the budget to modify the configuration
-                towards the goals.</p>
+                    <p>Identify goals: <br/>
+                        We help you to make the Stack of Requirements instead of having hard and fast requirements,
+                        we
+                        help to identify goals and rank them by priority.</p>
 
-            <p>Right understanding of vision and strategies: <br/>
-                Doing the groundwork to identify all the possible pitfalls of a project is probably about half the
-                actual work of a project—and in most cases, that's far more of an investment than the client wants
-                to make without an actual result.
+                    <p>Development following the goals and time plan: <br/>
+                        We start with a previously-finished configuration, and use the budget to modify the
+                        configuration
+                        towards the goals.</p>
 
-            <p>Drawing the path for achieving sustainable and global victory: <br/>
-                We create participatory atmosphere and invite our clients to join in collective problem
-                identification and solving, thereby increasing the relevance of solution.</p>
+                    <p>Right understanding of vision and strategies: <br/>
+                        Doing the groundwork to identify all the possible pitfalls of a project is probably about
+                        half the
+                        actual work of a project—and in most cases, that's far more of an investment than the client
+                        wants
+                        to make without an actual result.
 
-            <p>Trusted partnership and collaboration: <br/>
-                Information privacy, results-driven ...and uniqueness of your decision.</p>
+                    <p>Drawing the path for achieving sustainable and global victory: <br/>
+                        We create participatory atmosphere and invite our clients to join in collective problem
+                        identification and solving, thereby increasing the relevance of solution.</p>
+
+                    <p>Trusted partnership and collaboration: <br/>
+                        Information privacy, results-driven ...and uniqueness of your decision.</p>
+                </div>
+            </div>
+            </div>
         </div>
     </div>
     <div class="container">
@@ -42,7 +53,8 @@
             <div class="container">
                 <p class="text-left text-uppercase about-heading"><strong>Our team</strong></p>
 
-                <div class="col-md-4 col-sm-6 col-xs-12 text-center person-info-container" ng-repeat="person in vm.team">
+                <div class="col-md-4 col-sm-6 col-xs-12 text-center person-info-container"
+                     ng-repeat="person in vm.team">
                     <img data-ng-src="../../images/people/{{person.picture}}" class="img-rounded" alt=""/>
 
                     <p class="text-uppercase person-name">{{person.name}}</p>
@@ -55,9 +67,11 @@
                         <a class="social-icon" ng-if="person.contacts.facebook != ''"
                            href="{{person.contacts.facebook}}"><img src="../../images/social/facebook.png" alt=""/></a>
                         <a class="social-icon" ng-if="person.contacts.linkedin != ''"
-                           href="{{person.contacts.linkedin}}"><img src="../../images/social/linkin.png" alt=""/></a>
+                           href="{{person.contacts.linkedin}}"><img src="../../images/social/linkin.png"
+                                                                    alt=""/></a>
                         <a class="social-icon" ng-if="person.contacts.twitter != ''"
-                           href="{{person.contacts.twitter}}"><img src="../../images/social/twitter.png" alt=""/></a>
+                           href="{{person.contacts.twitter}}"><img src="../../images/social/twitter.png"
+                                                                   alt=""/></a>
                         <a class="social-icon" ng-if="person.contacts.google != ''"
                            href="{{person.contacts.google}}"><img src="../../images/social/twitter.png" alt=""/></a>
                         <a class="social-icon" ng-if="person.contacts.email != ''"
