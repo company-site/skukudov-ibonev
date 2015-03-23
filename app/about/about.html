@@ -1,89 +1,71 @@
 <div ng-controller="About as vm" class="about-us-container">
     <!-- About Section -->
     <img class="img-responsive" src="../../images/about-us-large.jpg"/>
-
     <div class="container">
-        <div class="row">
-            <div class="col-xs-12">
-            <div class="panel panel-default">
-                <div class="panel-body">
-                    <p><b>Why Softologic ?</b></p>
+        <p class="text-left text-uppercase about-heading"><strong>Why Softologic ?</strong></p>
+        <img class="img-responsive deviders" src="../../images/services/devider.png" alt="divider"/>
+        <p>Identify goals: <br/>
+            We help you to make the Stack of Requirements instead of having hard and fast requirements,
+            we
+            help to identify goals and rank them by priority.</p>
 
-                    <p>Identify goals: <br/>
-                        We help you to make the Stack of Requirements instead of having hard and fast requirements,
-                        we
-                        help to identify goals and rank them by priority.</p>
+        <p>Development following the goals and time plan: <br/>
+            We start with a previously-finished configuration, and use the budget to modify the
+            configuration
+            towards the goals.</p>
 
-                    <p>Development following the goals and time plan: <br/>
-                        We start with a previously-finished configuration, and use the budget to modify the
-                        configuration
-                        towards the goals.</p>
+        <p>Right understanding of vision and strategies: <br/>
+            Doing the groundwork to identify all the possible pitfalls of a project is probably about
+            half the
+            actual work of a project—and in most cases, that's far more of an investment than the client
+            wants
+            to make without an actual result.
 
-                    <p>Right understanding of vision and strategies: <br/>
-                        Doing the groundwork to identify all the possible pitfalls of a project is probably about
-                        half the
-                        actual work of a project—and in most cases, that's far more of an investment than the client
-                        wants
-                        to make without an actual result.
+        <p>Drawing the path for achieving sustainable and global victory: <br/>
+            We create participatory atmosphere and invite our clients to join in collective problem
+            identification and solving, thereby increasing the relevance of solution.</p>
 
-                    <p>Drawing the path for achieving sustainable and global victory: <br/>
-                        We create participatory atmosphere and invite our clients to join in collective problem
-                        identification and solving, thereby increasing the relevance of solution.</p>
+        <p>Trusted partnership and collaboration: <br/>
+            Information privacy, results-driven ...and uniqueness of your decision.</p>
 
-                    <p>Trusted partnership and collaboration: <br/>
-                        Information privacy, results-driven ...and uniqueness of your decision.</p>
-                </div>
-            </div>
-            </div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="container">
-                <p class="text-left text-uppercase about-heading"><strong>Who we are</strong></p>
 
-                <p>Our team is committed to deliver valuable suggestions to our customers on time and within the
-                    planned budget using our expertise, innovation strategies and collaboration models.</p>
+        <p class="text-left text-uppercase about-heading"><strong>Who we are</strong></p>
+        <img class="img-responsive deviders" src="../../images/services/devider.png" alt="divider"/>
+        <p>Our team is committed to deliver valuable suggestions to our customers on time and within the
+            planned budget using our expertise, innovation strategies and collaboration models.</p>
 
-                <p>We bring together our clients and experts into an agile development environment where the
-                    collaboration leads to partnership and trust.</p>
-            </div>
-        </div>
-        <div class="row">
-            <div class="container">
-                <p class="text-left text-uppercase about-heading"><strong>Our team</strong></p>
+        <p>We bring together our clients and experts into an agile development environment where the
+            collaboration leads to partnership and trust.</p>
 
-                <div class="col-md-4 col-sm-6 col-xs-12 text-center person-info-container"
-                     ng-repeat="person in vm.team">
-                    <img data-ng-src="../../images/people/{{person.picture}}" class="img-rounded" alt=""/>
+        <p class="text-left text-uppercase about-heading"><strong>Our team</strong></p>
+        <img class="img-responsive deviders" src="../../images/services/devider.png" alt="divider"/>
+        <div class="col-md-4 col-sm-6 col-xs-12 text-center person-info-container"
+             ng-repeat="person in vm.team">
+            <img data-ng-src="../../images/people/{{person.picture}}" class="img-rounded" alt=""/>
 
-                    <p class="text-uppercase person-name">{{person.name}}</p>
+            <p class="text-uppercase person-name">{{person.name}}</p>
 
-                    <p class="text-info">{{person.title}}</p>
+            <p class="text-info">{{person.title}}</p>
 
-                    <p class="person-description hide">{{person.description}}</p>
+            <p class="person-description hide">{{person.description}}</p>
 
-                    <p class="text-center">
-                        <a class="social-icon" ng-if="person.contacts.facebook != ''"
-                           href="{{person.contacts.facebook}}"><img src="../../images/social/facebook.png" alt=""/></a>
-                        <a class="social-icon" ng-if="person.contacts.linkedin != ''"
-                           href="{{person.contacts.linkedin}}"><img src="../../images/social/linkin.png"
-                                                                    alt=""/></a>
-                        <a class="social-icon" ng-if="person.contacts.twitter != ''"
-                           href="{{person.contacts.twitter}}"><img src="../../images/social/twitter.png"
-                                                                   alt=""/></a>
-                        <a class="social-icon" ng-if="person.contacts.google != ''"
-                           href="{{person.contacts.google}}"><img src="../../images/social/google.png" alt=""/></a>
-                        <a class="social-icon" ng-if="person.contacts.email != ''"
-                           href="mailto:{{person.contacts.email}}"><img src="../../images/social/email.png" alt=""/></a>
-                    </p>
-                </div>
-            </div>
+            <p class="text-center">
+                <a class="social-icon" ng-if="person.contacts.facebook != ''"
+                   href="{{person.contacts.facebook}}"><img src="../../images/social/facebook.png" alt=""/></a>
+                <a class="social-icon" ng-if="person.contacts.linkedin != ''"
+                   href="{{person.contacts.linkedin}}"><img src="../../images/social/linkin.png"
+                                                            alt=""/></a>
+                <a class="social-icon" ng-if="person.contacts.twitter != ''"
+                   href="{{person.contacts.twitter}}"><img src="../../images/social/twitter.png"
+                                                           alt=""/></a>
+                <a class="social-icon" ng-if="person.contacts.google != ''"
+                   href="{{person.contacts.google}}"><img src="../../images/social/google.png" alt=""/></a>
+                <a class="social-icon" ng-if="person.contacts.email != ''"
+                   href="mailto:{{person.contacts.email}}"><img src="../../images/social/email.png" alt=""/></a>
+            </p>
         </div>
         <div class="row hide">
-            <div class="container">
-                <p class="text-left text-uppercase about-heading"><strong>Our skills</strong></p>
-            </div>
+            <p class="text-left text-uppercase about-heading"><strong>Our skills</strong></p>
         </div>
     </div>
 </div>

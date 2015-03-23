@@ -1,5 +1,6 @@
 <div class="technologies-container" ng-controller="Technologies as vm">
     <div id="technologies-banner" class="top-banner"></div>
+    <img class="img-responsive" src="../../images/services/Services_slider_(3).jpg"/>
     <div class="container">
         <div class="text-center">
             <h1>WEB DEVELOPMENT</h1>
@@ -66,15 +67,8 @@
                 <h2 id="digital-strategy">Digital strategy</h2>
 
                 <p class="toggle-text">
-                    In the fields of strategic management, marketing strategy and business strategy,
-                    digital strategy is the process of specifying an organization's vision, goals, 
-                    opportunities and related activities in order to maximize the business benefits 
-                    of digital initiatives to the organization. These can range from an enterprise 
-                    focus, which considers the broader opportunities and risks that digital potentially 
-                    creates (e.g., changes in the publishing industry) and often includes customer intelligence, 
-                    collaboration, new product/market exploration, sales and service optimization, enterprise 
-                    technology architectures and processes, innovation and governance; to more marketing and 
-                    customer-focused efforts such as web sites, mobile, eCommerce, social, site and search engine optimization, and advertising.
+                    We help you to recognize and build a proper digital strategy for your business. Softologic team will give you hints about the process of specifying your vision, goals, opportunities and related activities in order to maximize the business benefits of digital initiatives to you or your the organization.
+                    In the fields of strategic management, marketing strategy and business strategy, digital strategy is the process of specifying an organization's vision, goals, opportunities and related activities in order to maximize the business benefits of digital initiatives to the organization. These can range from an enterprise focus, which considers the broader opportunities and risks that digital potentially creates (e.g., changes in the publishing industry) and often includes customer intelligence, collaboration, new product/market exploration, sales and service optimization, enterprise technology architectures and processes, innovation and governance; to more marketing and customer-focused efforts such as web sites, mobile, eCommerce, social, site and search engine optimization, and advertising.
                 </p>
                 <button type="button" class="btn btn-primary read-more">Read more...</button>
             </div>
@@ -94,9 +88,7 @@
                 <h2 id="responsive-design">Responsive Design</h2>
 
                 <p style="padding-left: 30px;">
-                    (RWD) is an approach to web design aimed at crafting sites to provide an optimal viewing
-                    experience—easy reading and navigation with a minimum of resizing, panning, and scrolling—across
-                    a wide range of devices (from desktop computer monitors to mobile phones).
+                    Optimal view experience no matter what your device is. Responsive Web Design  is an approach aimed at crafting sites to provide an optimal visualization and user experience, easy reading and navigation with a minimum of resizing, panning, and scrolling across a wide range of user devices.
                 </p>
                 <button type="button" class="btn btn-primary hidden-xs" data-toggle="modal" data-target="#mobile-preview">Live demo</button>
             </div>
@@ -115,7 +107,7 @@
             <div class="col-xs-8">
                 <h2 id="one-page-app">One Page Applications</h2>
 
-                <p class="toggle-text">Single-Page Applications (SPAs) are Web apps that load a single HTML page and dynamically update that page as the user interacts with the app.</p>
+                <p class="toggle-text">Single page apps are distinguished by their ability to redraw any part of the UI without requiring a server roundtrip to retrieve HTML. This is achieved by separating the data from the presentation of data by having a model layer that handles data and a view layer that reads from the models.</p>
                 <button type="button" class="btn btn-primary read-more">Read more...</button>
             </div>
         </div>
@@ -134,14 +126,7 @@
                 <h2 id="mobile-apps">Mobile Applications</h2>
 
                 <p class="toggle-text">
-                    Apps are usually available through application distribution platform, 
-                    which began appearing in 2008 and are typically operated by the owner of 
-                    the mobile operating system, such as the Apple App Store, Google Play, Windows Phone Store, 
-                    and BlackBerry App World.
-                    Mobile application development requires use of specialized integrated development environments. 
-                    Mobile apps are first tested within the development environment using emulators and later 
-                    subjected to field testing. Emulators provide an inexpensive 
-                    way to test applications on mobile phones to which developers may not have physical access.
+                    Apps are usually available through application distribution platform, which began appearing in 2008 and are typically operated by the owner of the mobile operating system, such as the Apple App Store, Google Play, Windows Phone Store, and BlackBerry App World. Mobile application development requires use of specialized integrated development environments. Mobile apps are first tested within the development environment using emulators and later subjected to field testing. Emulators provide an inexpensive way to test applications on mobile phones to which developers may not have physical access.
                 </p>
                 <button type="button" class="btn btn-primary read-more">Read more...</button>
             </div>
@@ -174,16 +159,15 @@
             interval: 3000
         });
 
-        var condition = 'hidden';
         $(".read-more").click(function () {
-            var el = $(this).prev()
+            var el = $(this).prev();
             var curHeight = el.height();
             var autoHeight = el.css('height', 'auto').height();
-            if (condition == 'hidden') {
-                condition = 'shown';
-            } else {
+            if ($(this).hasClass("on")) {
                 autoHeight = '40px';
-                condition = 'hidden';
+                $(this).removeClass("on");
+            } else {
+                $(this).addClass("on");
             }
 
             el.height(curHeight).animate({height: autoHeight}, 1000);
