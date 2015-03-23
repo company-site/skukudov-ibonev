@@ -274,7 +274,7 @@ textarea.form-control {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    height: 508px;
+    height: 530px;
     display: table;
     width: 100%;
 }
@@ -289,4 +289,38 @@ textarea.form-control {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
+}
+
+.home-slide-1 {
+    background: #fff url("../images/home/slide-1-bg.jpg") no-repeat right center;
+}
+.home-slide-2 {
+    background: #fff url("../images/home/slide-2-bg.jpg") no-repeat right center;
+}
+.home-slide-3 {
+    background: #fff url("../images/home/slide-3-bg.jpg") no-repeat right center;
+}
+
+.home-slide-1 h1.banner-text, .home-slide-2 h1.banner-text, .home-slide-3 h1.banner-text {
+    margin-top: 0px;
+    font-size: 56px;
+    vertical-align: middle;
+    height: 100%;
+    text-shadow: -1px 0 2px rgba(26, 26, 26, 0.91);
+    line-height: 56px !important;
+}
+
+.home-slide-1 h1.banner-text  {
+    padding: 150px 0 0 100px;
+    color: #676767;  
+}
+
+.home-slide-2 h1.banner-text {
+    padding: 200px 200px 0 0;
+    color: #AF444F;
+}
+
+.home-slide-3 h1.banner-text {
+    padding: 200px 250px 0 0;
+    color: #FFFFFF;
 }
