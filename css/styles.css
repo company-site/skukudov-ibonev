@@ -224,6 +224,10 @@ body {
     padding: 0px 5px 15px 0px;
 }
 
+.home-container .thumbnail.thumbnail-process .caption.extra-padding {
+    padding-bottom: 40px;
+}
+
 .home-container .our-process .process-step {
     border-left: none;
 }

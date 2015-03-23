@@ -20,10 +20,10 @@
         ];
         
         vm.processSteps = [
-            {id: 8, image: 'icon-8.png', title: 'Idea', altText: ''},
-            {id: 7, image: 'icon-7.png', title: 'Planning', altText: ''},
-            {id: 6, image: 'icon-6.png', title: 'Create', altText: ''},
-            {id: 5, image: 'icon-5.png', title: 'Success', altText: ''}
+            {id: 8, image: 'icon-8.png', title: 'Innovation ', altText: '', extraCss: ' extra-padding'},
+            {id: 7, image: 'icon-7.png', title: 'Client-centred approach', altText: '', extraCss: ''},
+            {id: 6, image: 'icon-6.png', title: 'Passion and ability', altText: '', extraCss: ''},
+            {id: 5, image: 'icon-5.png', title: 'Sustainable results', altText: '', extraCss: ''}
         ];
         
         vm.activeStepImage = function(step, index) {
