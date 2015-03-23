@@ -1,5 +1,5 @@
 <div class="contact-container" ng-controller="Contact as vm">
-    <img class="img-responsive" width="100%" src="../../images/contacts/contact_us.jpg">
+    <img class="img-responsive" width="100%" ng-src="{{vm.mainImage}}" />
      <!-- Contact Section -->
     <div class="container">
         <div id="world_map">
@@ -27,6 +27,9 @@
                     </div>                
                 </div>
                 <div class="col-xs-6">
+                    <contact-form></contact-form>
+                </div>
+<!--                <div class="col-xs-6">
                     <h3>Contact Form</h3>
                     <br />
                     <form ng-submit="vm.submitForm()">
@@ -37,7 +40,7 @@
                         <div class="form-group"><textarea class="form-control" data-ng-model="vm.contactForm.message" placeholder="How can we help?" required /></textarea></div>
                         <div class="form-group"><button type="submit" class="btn btn-success">Send</button></div>
                     </form>
-                </div>
+                </div>-->
             </div>
         </div>
     </div>

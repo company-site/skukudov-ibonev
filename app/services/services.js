@@ -5,35 +5,19 @@
         .module('app')
         .controller('Services', Services);
 
-    Services.$inject = ['$http'];
+    Services.$inject = ['$http', '$scope'];
 
-    function Services($http) {
+    function Services($http, $scope) {
 
         /*jshint validthis: true */
         var vm = this;
-        vm.contactForm = {};
-
-        vm.submitForm = function () {
-            console.log(vm.contactForm);
-            $http({
-                url: '/mail/sendMail.php',
-                method: 'POST',
-                params: { contactForm: JSON.stringify(vm.contactForm) }
-            })
-            .success(function(data, status) {
-                console.log(data, status);
-                toastr.success(data.message);
-                vm.contactForm = {};
-            })
-            .error(function(data, status) {
-                console.log(data, status);
-                toastr.error(data.message);
-            })
-            .finally(function() {
-                // close contact modal
-                $('#contact').modal('hide');
-            });
-        };
+        
+        $scope.$on('contactFormSuccess', function(event) {
+             $('#contact').modal('hide');
+             console.log(event);
+        });
+        // close contact modal
+       
 
         vm.welcomeText = 'Services page';
     }

@@ -67,7 +67,7 @@ a:hover {
 
 @media (min-width: 767px) {
     #navbar li a:hover, #navbar li a:active, #navbar li a.active {
-        border-bottom: 2px solid #2ACA15;
+        border-bottom: 2px solid #c1d72e;
         margin-bottom: -2px;
     }
 }
@@ -276,4 +276,22 @@ textarea.form-control {
 
 .services-container .page-header h2 {
     margin: 0;
+}
+
+.btn.btn-primary {
+    background: #3295F1;
+}
+/* not a class - an element, do not fix*/
+contact-form {
+    display: inline-block;
+    width: 100%;
+}
+
+contact-form .form-group > div.pull-left {
+    width: 90%;
+}
+
+contact-form .required-field {
+    font-size: 16px;
+    color: red;
 }

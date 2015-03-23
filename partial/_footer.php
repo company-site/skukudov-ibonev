@@ -32,6 +32,7 @@
     <!-- directives -->
     <script src="../app/core/directives.js"></script>
     <script src="../app/core/directives/dragabble.js"></script>
+    <script src="../app/core/directives/contactForm/contactForm.js"></script>
 
     <!-- vendor -->
     <!-- angular bind once -->

@@ -5,31 +5,14 @@
         .module('app')
         .controller('Contact', Contact);
 
-    Contact.$inject = ['$http', 'uiGmapGoogleMapApi'];
+    Contact.$inject = ['uiGmapGoogleMapApi'];
 
-    function Contact($http, uiGmapGoogleMapApi) {
+    function Contact(uiGmapGoogleMapApi) {
         /*jshint validthis: true */
         var vm = this;
 
         vm.welcomeText = 'For more information contact us';
-        vm.contactForm = {};
-        
-        vm.submitForm = function () {
-            $http({
-                url: '/mail/sendMail.php',
-                method: 'POST',
-                params: { contactForm: JSON.stringify(vm.contactForm) }
-            })
-            .success(function(data, status) {
-                console.log(data, status);
-                toastr.success(data.message);
-                vm.contactForm = {};
-            })
-            .error(function(data, status) {
-                console.log(data, status);
-                toastr.error(data.message); 
-            });
-        };
+        vm.mainImage = "../../images/contacts/contact_us.jpg";
         
         // set options passed to map directive in view
         vm.map = {
