@@ -17,7 +17,7 @@ if (isset($_REQUEST['contactForm'])) {
 
     $mail->From = $contactForm['email'];
     $mail->FromName = $contactForm['name'];
-    $mail->addAddress('info@websail.net');
+    $mail->addAddress('info@softologic.dk');
     $mail->Subject = 'Contact form message';
     $mail->Body = $contactForm['message'];
 

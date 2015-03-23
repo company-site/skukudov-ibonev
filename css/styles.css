@@ -155,7 +155,7 @@ body {
 .about-us-container .about-us-details {
     background: #374852;
     color: #fff;
-    margin-top: 0px;
+    margin-top: 0;
     padding-top: 20px;
     padding-bottom: 20px;
 }
