@@ -324,3 +324,7 @@ textarea.form-control {
     padding: 200px 250px 0 0;
     color: #FFFFFF;
 }
+
+a.service-url {
+    display: inline-block;
+}
