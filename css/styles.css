@@ -67,7 +67,7 @@ a:hover {
 
 @media (min-width: 767px) {
     #navbar li a:hover, #navbar li a:active, #navbar li a.active {
-        border-bottom: 2px solid #2ACA15;
+        border-bottom: 2px solid #c1d72e;
         margin-bottom: -2px;
     }
 }
@@ -155,7 +155,7 @@ body {
 .about-us-container .about-us-details {
     background: #374852;
     color: #fff;
-    margin-top: 0px;
+    margin-top: 0;
     padding-top: 20px;
     padding-bottom: 20px;
 }

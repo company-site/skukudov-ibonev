@@ -7,7 +7,7 @@
         .run(['$location', '$rootScope', '$anchorScroll', '$routeParams',
             function($location, $rootScope, $anchorScroll, $routeParams) {
                 $rootScope.$on('$routeChangeSuccess', function (event, current, previous) {
-                $rootScope.title = (typeof current.$$route !== "undefined") ? current.$$route.title : 'WebSail' ;
+                $rootScope.title = (typeof current.$$route !== "undefined") ? current.$$route.title : 'Softologic' ;
                 $location.hash($routeParams.scrollTo);
                 $anchorScroll();
             });

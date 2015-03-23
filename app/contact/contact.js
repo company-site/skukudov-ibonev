@@ -41,7 +41,7 @@
                 scrollwheel: false
             },
             marker: {
-                title: 'Websail',
+                title: 'Softologic',
                 id: 0,
                 coords: {
                   latitude: 57.04920,
