@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa5f2845-56de-412c-be05-8036d871ab28" name="Default" comment="services new icons">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/about.js" afterPath="$PROJECT_DIR$/app/about/about.js" />
+    <list default="true" id="fa5f2845-56de-412c-be05-8036d871ab28" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/_footer.php" afterPath="$PROJECT_DIR$/partial/_footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/services/services.html" afterPath="$PROJECT_DIR$/app/services/services.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="skukudov-ibonev.iws" />
@@ -38,11 +39,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/about/about.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5472973" vertical-offset="0" max-vertical-offset="888">
-              <caret line="18" column="258" selection-start-line="18" selection-start-column="258" selection-end-line="18" selection-end-column="258" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
+              <caret line="19" column="230" selection-start-line="19" selection-start-column="230" selection-end-line="19" selection-end-column="230" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/partial/_footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.117647" vertical-offset="638" max-vertical-offset="1458">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -60,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="services.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="services.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/services/services.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="4941">
-              <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+            <state vertical-scroll-proportion="0.5963415" vertical-offset="1428" max-vertical-offset="5211">
+              <caret line="71" column="36" selection-start-line="71" selection-start-column="36" selection-end-line="71" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -109,7 +120,6 @@
         <option value="$PROJECT_DIR$/vendor/css/grayscale.css" />
         <option value="$PROJECT_DIR$/vendor/PHPMailer/class.phpmailer.php" />
         <option value="$PROJECT_DIR$/services/sendMail.php" />
-        <option value="$PROJECT_DIR$/partial/_footer.php" />
         <option value="$PROJECT_DIR$/vendor/button.switcher/normalize.css" />
         <option value="$PROJECT_DIR$/app/about/about.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
@@ -120,9 +130,10 @@
         <option value="$PROJECT_DIR$/app/contact/contact.js" />
         <option value="$PROJECT_DIR$/partial/_header.php" />
         <option value="$PROJECT_DIR$/app/contact/contact.html" />
-        <option value="$PROJECT_DIR$/app/services/services.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/app/about/about.js" />
+        <option value="$PROJECT_DIR$/partial/_footer.php" />
+        <option value="$PROJECT_DIR$/app/services/services.html" />
       </list>
     </option>
   </component>
@@ -375,12 +386,6 @@
       <created>1420229384856</created>
       <option name="number" value="Default" />
       <updated>1420229384856</updated>
-    </task>
-    <task id="LOCAL-00007" summary="skeleton">
-      <created>1420291709332</created>
-      <option name="number" value="00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1420291709332</updated>
     </task>
     <task id="LOCAL-00008" summary="skeleton">
       <created>1420291929122</created>
@@ -670,7 +675,13 @@
       <option name="project" value="LOCAL" />
       <updated>1427097040357</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="services new icons">
+      <created>1427097131014</created>
+      <option name="number" value="00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1427097131014</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -737,9 +748,9 @@
     <MESSAGE value="remove switcher (one page and responsive design)" />
     <MESSAGE value="remove/hide dynamic pages" />
     <MESSAGE value="contacts us design" />
-    <MESSAGE value="services new icons" />
     <MESSAGE value="about us new images" />
-    <option name="LAST_COMMIT_MESSAGE" value="about us new images" />
+    <MESSAGE value="services new icons" />
+    <option name="LAST_COMMIT_MESSAGE" value="services new icons" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -963,13 +974,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partial/_footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71478873" vertical-offset="444" max-vertical-offset="1296">
-          <caret line="39" column="70" selection-start-line="39" selection-start-column="70" selection-end-line="39" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/button.switcher/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33256617" vertical-offset="1034" max-vertical-offset="6642">
@@ -1082,14 +1086,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/services/services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="4941">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3680" max-vertical-offset="7641">
@@ -1100,8 +1096,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/about/about.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5472973" vertical-offset="0" max-vertical-offset="888">
-          <caret line="18" column="258" selection-start-line="18" selection-start-column="258" selection-end-line="18" selection-end-column="258" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
+          <caret line="19" column="230" selection-start-line="19" selection-start-column="230" selection-end-line="19" selection-end-column="230" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/_footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.117647" vertical-offset="638" max-vertical-offset="1458">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5963415" vertical-offset="1428" max-vertical-offset="5211">
+          <caret line="71" column="36" selection-start-line="71" selection-start-column="36" selection-end-line="71" selection-end-column="36" />
           <folding />
         </state>
       </provider>

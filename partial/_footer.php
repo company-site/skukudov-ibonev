@@ -41,7 +41,7 @@
     
 <!-- Footer -->
 <footer class="container footer-container">
-    <a href="https://www.facebook.com/websail.net" class="pull-right" target="_blank"><i class="fa fa-2x fa-facebook-square"></i></a>
+    <a href="https://www.facebook.com/softologic.dk" class="pull-right" target="_blank"><i class="fa fa-2x fa-facebook-square"></i></a>
     <a href="#" class="pull-right" target="_blank"><i class="fa fa-2x fa-linkedin-square"></i></a>
     <a href="#" class="pull-right" target="_blank"><i class="fa fa-2x fa-google-plus-square"></i></a>
 </footer>
