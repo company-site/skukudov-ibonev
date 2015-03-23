@@ -267,12 +267,19 @@ textarea.form-control {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    height: 355px;
+    height: 508px;
+    display: table;
+    width: 100%;
 }
 
 .banner-text h1 {
     color: white;
     text-shadow: -1px 0 8px rgba(26, 26, 26, 0.91);
     line-height: 48px !important;
-    margin-top: 120px;
+}
+
+#services-banner .container-fluid {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
 }
