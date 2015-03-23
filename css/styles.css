@@ -263,6 +263,13 @@ textarea.form-control {
 
 #services-banner {
     background: #fff url("../images/services/Services_slider_(1).jpg") no-repeat right center;
+}
+
+#technologies-banner {
+    background: #fff url("../images/services/Services_slider_(4).jpg") no-repeat right center;
+}
+
+.top-banner {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -278,7 +285,7 @@ textarea.form-control {
     line-height: 48px !important;
 }
 
-#services-banner .container-fluid {
+.top-banner .container-fluid {
     display: table-cell;
     text-align: center;
     vertical-align: middle;

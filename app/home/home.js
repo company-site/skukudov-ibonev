@@ -16,7 +16,7 @@
         vm.ourServices = [
             { id: 1, title: 'Startups', description: '', image: '../images/home/startup-icon.png', altText: '', url: $sce.trustAsResourceUrl("/services#start-up")},
             { id: 2, title: 'Web Development', description: '', image: './images/home/web-development-icon.png', altText: '', url: $sce.trustAsResourceUrl("/services#web-development")},
-            { id: 3, title: 'Web Design', description: '', image: './images/home/web-design-icon.png', altText: '', url: $sce.trustAsResourceUrl("/technologies#design")},
+            { id: 3, title: 'Web Design', description: '', image: './images/home/web-design-icon.png', altText: '', url: $sce.trustAsResourceUrl("/services#design")}
         ];
         
         vm.processSteps = [
