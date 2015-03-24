@@ -281,6 +281,11 @@ textarea.form-control {
 .btn.btn-primary {
     background: #3295F1;
 }
+
+.btn.btn-primary:hover {
+    background-color: #3a77f1 !important;
+    border-color: #204d74;
+}
 /* not a class - an element, do not fix*/
 contact-form {
     display: inline-block;
