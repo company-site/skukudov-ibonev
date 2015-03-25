@@ -5,12 +5,10 @@
                 restrict: 'E',
                 controller: function($scope, $rootScope, $http){
                     $scope.form = {};
-                    var fields = ['name', 'email', 'website', 'company', 'message'];
+                    var fields = ['name', 'email', 'message'];
                     
                     $scope.submitForm = function (contactForm) {
-                        alert(contactForm.$vaild, contactForm);
                         if(contactForm.$vaild) {
-                            alert('valid');
                             $http({
                                 url: '/mail/sendMail.php',
                                 method: 'POST',
@@ -28,7 +26,6 @@
                             });
                         } else {
                             angular.forEach(fields, function(field) {
-                                alert(contactForm[field]);
                                 contactForm[field].$dirty = true;
                             });
                         }
