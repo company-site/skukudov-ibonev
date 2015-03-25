@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa5f2845-56de-412c-be05-8036d871ab28" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/about.html" afterPath="$PROJECT_DIR$/app/about/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/home/home.html" afterPath="$PROJECT_DIR$/app/home/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="skukudov-ibonev.iws" />
@@ -60,11 +57,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="about.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/about/about.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.35551664" vertical-offset="119" max-vertical-offset="690">
+              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/about/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="10.969231" vertical-offset="1794" max-vertical-offset="2507">
-              <caret line="47" column="24" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="24" />
+            <state vertical-scroll-proportion="-5.3076925" vertical-offset="621" max-vertical-offset="3036">
+              <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -73,60 +80,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="20.212122" vertical-offset="7222" max-vertical-offset="7935">
-              <caret line="285" column="0" selection-start-line="285" selection-start-column="0" selection-end-line="285" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="460">
-              <caret line="9" column="113" selection-start-line="9" selection-start-column="103" selection-end-line="9" selection-end-column="113" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/contact/contact.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="471" max-vertical-offset="1127">
-              <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
-              <folding>
-                <marker date="1427178080365" expanded="true" signature="242:273" placeholder="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sendMail.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mail/sendMail.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.625" vertical-offset="321" max-vertical-offset="1012">
-              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/home/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.77272725" vertical-offset="1219" max-vertical-offset="2139">
-              <caret line="70" column="26" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/home/home.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="211" max-vertical-offset="782">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state vertical-scroll-proportion="-5.5454545" vertical-offset="5935" max-vertical-offset="8027">
+              <caret line="266" column="0" selection-start-line="266" selection-start-column="0" selection-end-line="266" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -170,16 +125,16 @@
         <option value="$PROJECT_DIR$/partial/_footer.php" />
         <option value="$PROJECT_DIR$/app/contact/contact.html" />
         <option value="$PROJECT_DIR$/app/services/services.js" />
-        <option value="$PROJECT_DIR$/app/about/about.js" />
         <option value="$PROJECT_DIR$/app/services/services.html" />
         <option value="$PROJECT_DIR$/app/technologies/technologies.html" />
         <option value="$PROJECT_DIR$/app/app.js" />
         <option value="$PROJECT_DIR$/app/contact/contact.js" />
         <option value="$PROJECT_DIR$/mail/sendMail.php" />
         <option value="$PROJECT_DIR$/partial/_header.php" />
+        <option value="$PROJECT_DIR$/app/home/home.html" />
         <option value="$PROJECT_DIR$/app/about/about.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
-        <option value="$PROJECT_DIR$/app/home/home.html" />
+        <option value="$PROJECT_DIR$/app/about/about.js" />
       </list>
     </option>
   </component>
@@ -463,18 +418,6 @@
       <option name="number" value="Default" />
       <updated>1420229384856</updated>
     </task>
-    <task id="LOCAL-00018" summary="sidebar">
-      <created>1422813927923</created>
-      <option name="number" value="00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1422813927923</updated>
-    </task>
-    <task id="LOCAL-00019" summary="sidebar">
-      <created>1422813970191</created>
-      <option name="number" value="00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1422813970191</updated>
-    </task>
     <task id="LOCAL-00020" summary="resizers">
       <created>1423343134665</created>
       <option name="number" value="00020" />
@@ -757,7 +700,19 @@
       <option name="project" value="LOCAL" />
       <updated>1427314364930</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="about us">
+      <created>1427314965511</created>
+      <option name="number" value="00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1427314965512</updated>
+    </task>
+    <task id="LOCAL-00068" summary="about us final">
+      <created>1427318092347</created>
+      <option name="number" value="00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1427318092347</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -801,7 +756,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="toastr" />
     <MESSAGE value="dynamic page with local history" />
     <MESSAGE value="sidebar" />
     <MESSAGE value="resizers" />
@@ -826,7 +780,8 @@
     <MESSAGE value="primary button hover" />
     <MESSAGE value="home fixes" />
     <MESSAGE value="about us" />
-    <option name="LAST_COMMIT_MESSAGE" value="about us" />
+    <MESSAGE value="about us final" />
+    <option name="LAST_COMMIT_MESSAGE" value="about us final" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1102,14 +1057,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/about/about.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="50" max-vertical-offset="690">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/services/services.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.246154" vertical-offset="0" max-vertical-offset="4140">
@@ -1139,16 +1086,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="471" max-vertical-offset="1127">
           <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
           <folding>
-            <marker date="1427178080365" expanded="true" signature="242:273" placeholder="{...}" />
+            <marker date="1427178080365" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mail/sendMail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.625" vertical-offset="321" max-vertical-offset="1012">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1168,22 +1107,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="20.212122" vertical-offset="7222" max-vertical-offset="7935">
-          <caret line="285" column="0" selection-start-line="285" selection-start-column="0" selection-end-line="285" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/about/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="10.969231" vertical-offset="1794" max-vertical-offset="2507">
-          <caret line="47" column="24" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/home/home.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="175" max-vertical-offset="989">
@@ -1194,8 +1117,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/home/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77272725" vertical-offset="1219" max-vertical-offset="2139">
-          <caret line="70" column="26" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.6818182" vertical-offset="1219" max-vertical-offset="2139">
+          <caret line="68" column="34" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail/sendMail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.625" vertical-offset="321" max-vertical-offset="1012">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.5454545" vertical-offset="5935" max-vertical-offset="8027">
+          <caret line="266" column="0" selection-start-line="266" selection-start-column="0" selection-end-line="266" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/about/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.3076925" vertical-offset="621" max-vertical-offset="3036">
+          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/about/about.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35551664" vertical-offset="119" max-vertical-offset="690">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
           <folding />
         </state>
       </provider>
