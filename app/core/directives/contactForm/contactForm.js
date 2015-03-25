@@ -8,7 +8,7 @@
                     var fields = ['name', 'email', 'message'];
                     
                     $scope.submitForm = function (contactForm) {
-                        if(contactForm.$vaild) {
+                        if(contactForm.$valid) {
                             $http({
                                 url: '/mail/sendMail.php',
                                 method: 'POST',
@@ -19,6 +19,9 @@
                                 toastr.success(data.message);
                                 $scope.form = {};
                                 $rootScope.$broadcast('contactFormSuccess', "sent");
+                                angular.forEach(fields, function(field) {
+                                    contactForm[field].$dirty = false;
+                                });
                             })
                             .error(function(data, status) {
                                 console.log(data, status);
