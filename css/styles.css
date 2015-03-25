@@ -264,7 +264,7 @@ textarea.form-control {
     margin-top: 5px;
 }
 
-.services-container .page-header {
+.page-header {
     border: none;
     padding-bottom: 0;
     margin-bottom: 0;
@@ -336,4 +336,8 @@ contact-form .required-field {
 
 .work-values.work-value-4-background:hover {
     background: url('../images/home/icon-5-active.png') center center no-repeat;
+}
+
+.list-inside {
+    list-style-position: inside;
 }

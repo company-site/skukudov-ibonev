@@ -1,76 +1,99 @@
 <div ng-controller="About as vm" class="about-us-container">
     <!-- About Section -->
     <img class="img-responsive" src="../../images/about-us-large.jpg"/>
+
+    <div class="container">
+        <div class="text-center">
+            <div class="page-header">
+                <h1>Why Softologic<br/><br/>
+                    <small>Softologic is a strong base to give your startup company a digital boost.
+                        Original design and key custom website elements will allow you to introduce your company goals
+                        or
+                        present your recent successes in a professional business vision.
+                    </small>
+                </h1>
+            </div>
+        </div>
+    </div>
+
     <div class="container">
         <div class="row">
+            <div class="col-xs-12">
+                <ul class="list-inside">
+                    <li><b>Identify goals: </b></li>
+                </ul>
+                <p>We help you to make the Stack of Requirements instead of having hard and fast requirements,
+                    we help to identify goals and rank them by priority.</p>
+                <br/>
+                <ul class="list-inside">
+                    <li><b>Development following the goals and time plan: </b></li>
+                </ul>
+                <p>We start with a previously-finished configuration, and use the budget to modify the
+                    configuration
+                    towards the goals.</p>
+                <br/>
+                <ul class="list-inside">
+                    <li><b>Right understanding of vision and strategies: </b></li>
+                </ul>
+                <p>Doing the groundwork to identify all the possible pitfalls of a project is probably about
+                    half the
+                    actual work of a project—and in most cases, that's far more of an investment than the client
+                    wants
+                    to make without an actual result.</p>
+                <br/>
+                <ul class="list-inside">
+                    <li><b>Drawing the path for achieving sustainable and global victory: </b></li>
+                </ul>
+                <p>We create participatory atmosphere and invite our clients to join in collective problem
+                    identification and solving, thereby increasing the relevance of solution.</p>
+                <br/>
+                <ul class="list-inside">
+                    <li><b>Trusted partnership and collaboration: </b></li>
+                </ul>
+                <p>Information privacy, results-driven ...and uniqueness of your decision.</p>
+            </div>
             <div class="text-center about-heading clearfix">
                 <div class="col-xs-5">
                     <img class="img-responsive devider" src="../../images/services/devider-left.png" alt="divider">
                 </div>
                 <div class="col-xs-2">
-                    <h3>Why Softologic</h3>
+                    <h3>Mission and Vision</h3>
                 </div>
                 <div class="col-xs-5">
                     <img class="img-responsive devider" src="../../images/services/devider-right.png" alt="devider">
                 </div>
             </div>
+            <div class="col-xs-12">
+                <p>Our company is dedicated to support the young entrepreneurs and newly appearing startup
+                    companies.We deliver high quality end services and products to our clients on the most
+                    competitive price.
+                </p>
+            </div>
         </div>
-        <p>Identify goals: <br/>
-            We help you to make the Stack of Requirements instead of having hard and fast requirements,
-            we
-            help to identify goals and rank them by priority.</p>
-
-        <p>Development following the goals and time plan: <br/>
-            We start with a previously-finished configuration, and use the budget to modify the
-            configuration
-            towards the goals.</p>
-
-        <p>Right understanding of vision and strategies: <br/>
-            Doing the groundwork to identify all the possible pitfalls of a project is probably about
-            half the
-            actual work of a project—and in most cases, that's far more of an investment than the client
-            wants
-            to make without an actual result.
-
-        <p>Drawing the path for achieving sustainable and global victory: <br/>
-            We create participatory atmosphere and invite our clients to join in collective problem
-            identification and solving, thereby increasing the relevance of solution.</p>
-
-        <p>Trusted partnership and collaboration: <br/>
-            Information privacy, results-driven ...and uniqueness of your decision.</p>
-
         <div class="row">
             <div class="text-center about-heading clearfix">
                 <div class="col-xs-5">
                     <img class="img-responsive devider" src="../../images/services/devider-left.png" alt="divider">
                 </div>
                 <div class="col-xs-2">
-                    <h3>Who we are</h3>
+                    <h3>Our Team</h3>
                 </div>
                 <div class="col-xs-5">
                     <img class="img-responsive devider" src="../../images/services/devider-right.png" alt="devider">
                 </div>
             </div>
-        </div>
-        <p>Our team is committed to deliver valuable suggestions to our customers on time and within the
-            planned budget using our expertise, innovation strategies and collaboration models.</p>
 
-        <p>We bring together our clients and experts into an agile development environment where the
-            collaboration leads to partnership and trust.</p>
+            <div class="col-xs-12">
+                <div class="text-center">
+                    <p><b>Everything is build on a strong team.</b></p>
+                </div>
+                <p>OurTeam: Skilful and reliable software engineers are very important for delivering the end
+                    product in a way that both the business and the customers will benefit from it.</p>
 
-        <div class="row">
-            <div class="text-center about-heading clearfix">
-                <div class="col-xs-5">
-                    <img class="img-responsive devider" src="../../images/services/devider-left.png" alt="divider">
-                </div>
-                <div class="col-xs-2">
-                    <h3>Our team</h3>
-                </div>
-                <div class="col-xs-5">
-                    <img class="img-responsive devider" src="../../images/services/devider-right.png" alt="devider">
-                </div>
             </div>
         </div>
+        <br/>
+
         <div class="col-md-4 col-sm-6 col-xs-12 text-center person-info-container"
              ng-repeat="person in vm.team">
             <img data-ng-src="../../images/people/{{person.picture}}" class="img-rounded" alt=""/>
