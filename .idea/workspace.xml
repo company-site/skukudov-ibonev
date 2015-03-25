@@ -2,341 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa5f2845-56de-412c-be05-8036d871ab28" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/js/ui-bootstrap-tpls-0.12.1.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/vendor/fonts/FontAwesome.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/configs/company.properties" afterPath="$PROJECT_DIR$/nbproject/configs/company.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/img/downloads-bg.jpg" afterPath="$PROJECT_DIR$/vendor/img/downloads-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/blue-glass/inject-bottom.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/blue-glass/inject-bottom.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/dark-glass/inject-bottom.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/dark-glass/inject-bottom.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/red-glass/inject-bottom.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/red-glass/inject-bottom.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/css/blue-glass/inject-bottom.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/css/blue-glass/inject-bottom.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/inject-bottom.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/inject-bottom.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/css/red-glass/inject-bottom.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/css/red-glass/inject-bottom.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/blue-glass/inject-left.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/blue-glass/inject-left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/dark-glass/inject-left.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/dark-glass/inject-left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/red-glass/inject-left.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/red-glass/inject-left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/css/blue-glass/inject-left.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/css/blue-glass/inject-left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/inject-left.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/inject-left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/css/red-glass/inject-left.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/css/red-glass/inject-left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/blue-glass/inject-right.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/blue-glass/inject-right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/dark-glass/inject-right.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/dark-glass/inject-right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/red-glass/inject-right.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/red-glass/inject-right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/css/blue-glass/inject-right.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/css/blue-glass/inject-right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/inject-right.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/inject-right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/css/red-glass/inject-right.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/css/red-glass/inject-right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/blue-glass/inject-top.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/blue-glass/inject-top.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/dark-glass/inject-top.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/dark-glass/inject-top.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/red-glass/inject-top.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/red-glass/inject-top.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/css/blue-glass/inject-top.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/css/blue-glass/inject-top.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/inject-top.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/inject-top.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/css/red-glass/inject-top.png" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/css/red-glass/inject-top.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/img/intro-bg.jpg" afterPath="$PROJECT_DIR$/vendor/img/intro-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/img/map-marker.png" afterPath="$PROJECT_DIR$/vendor/img/map-marker.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/images/phpmailer.png" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/images/phpmailer.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/images/phpmailer_mini.png" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/images/phpmailer_mini.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/img/sail.jpg" afterPath="$PROJECT_DIR$/vendor/img/sail.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/toastr-icon.png" afterPath="$PROJECT_DIR$/vendor/toastr/toastr-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.0.nupkg" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.0.nupkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.1.nupkg" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.1.nupkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.2.nupkg" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.2.nupkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.3.nupkg" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.3.nupkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.0.nupkg" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.0.nupkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.1.nupkg" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.1.nupkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.2.nupkg" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.2.nupkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.3.nupkg" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.3.nupkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.1.nupkg" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.1.nupkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.2.nupkg" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.2.nupkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.nupkg" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.nupkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.5.nupkg" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.5.nupkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.0.nupkg" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.0.nupkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.1.nupkg" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.1.nupkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.2.nupkg" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.2.nupkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.0.nupkg" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.0.nupkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.1.nupkg" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.1.nupkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.0-rc1.nupkg" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.0-rc1.nupkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.1.nupkg" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.1.nupkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.2.nupkg" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.2.nupkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.3.nupkg" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.3.nupkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/wrapping.png" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/wrapping.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/.gitattributes" afterPath="$PROJECT_DIR$/vendor/toastr/.gitattributes" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/.gitignore" afterPath="$PROJECT_DIR$/vendor/PHPMailer/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/.gitignore" afterPath="$PROJECT_DIR$/vendor/toastr/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/.jscsrc" afterPath="$PROJECT_DIR$/vendor/toastr/.jscsrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/.jshintrc" afterPath="$PROJECT_DIR$/vendor/toastr/.jshintrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/.scrutinizer.yml" afterPath="$PROJECT_DIR$/vendor/PHPMailer/.scrutinizer.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/.travis.yml" afterPath="$PROJECT_DIR$/vendor/PHPMailer/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/.travis.yml" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/.travis.yml" afterPath="$PROJECT_DIR$/vendor/toastr/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/CHANGELOG.md" afterPath="$PROJECT_DIR$/vendor/toastr/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/docs/Callback_function_notes.txt" afterPath="$PROJECT_DIR$/vendor/PHPMailer/docs/Callback_function_notes.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/docs/DomainKeys_notes.txt" afterPath="$PROJECT_DIR$/vendor/PHPMailer/docs/DomainKeys_notes.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/extras/EasyPeasyICS.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/extras/EasyPeasyICS.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/Gruntfile.js" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/Gruntfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/LICENSE" afterPath="$PROJECT_DIR$/vendor/PHPMailer/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/docs/Note_for_SMTP_debugging.txt" afterPath="$PROJECT_DIR$/vendor/PHPMailer/docs/Note_for_SMTP_debugging.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/PHPMailerAutoload.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/PHPMailerAutoload.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/README.md" afterPath="$PROJECT_DIR$/vendor/PHPMailer/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/extras/README.md" afterPath="$PROJECT_DIR$/vendor/PHPMailer/extras/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/README.md" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/README.md" afterPath="$PROJECT_DIR$/vendor/toastr/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/VERSION" afterPath="$PROJECT_DIR$/vendor/PHPMailer/VERSION" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/scripts/XRegExp.js" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/scripts/XRegExp.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/_footer.php" afterPath="$PROJECT_DIR$/partial/_footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/_header.php" afterPath="$PROJECT_DIR$/partial/_header.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/people/IMGP0081.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/people/mrm.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/people/stanimir3.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/services/Services_slider_(3).jpg" afterPath="$PROJECT_DIR$/images/services/Services_slider_(3).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/people/vania.png" afterPath="$PROJECT_DIR$/images/people/vania.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/about.html" afterPath="$PROJECT_DIR$/app/about/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/about.js" afterPath="$PROJECT_DIR$/app/about/about.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aboutUs.php" afterPath="$PROJECT_DIR$/aboutUs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/js/angular-google-maps.min.js" afterPath="$PROJECT_DIR$/vendor/js/angular-google-maps.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.config.js" afterPath="$PROJECT_DIR$/app/app.config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.js" afterPath="$PROJECT_DIR$/app/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.module.js" afterPath="$PROJECT_DIR$/app/app.module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/css/bootstrap-switch.css" afterPath="$PROJECT_DIR$/vendor/css/bootstrap-switch.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/js/bootstrap-switch.js" afterPath="$PROJECT_DIR$/vendor/js/bootstrap-switch.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap-theme.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap-theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap-theme.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/test/bootstrap.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/test/bootstrap.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/changelog.md" afterPath="$PROJECT_DIR$/vendor/PHPMailer/changelog.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/class.phpmailer.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/class.phpmailer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/class.pop3.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/class.pop3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/class.smtp.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/class.smtp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/code_generator.phps" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/code_generator.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/component.json" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/component.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/composer.json" afterPath="$PROJECT_DIR$/vendor/PHPMailer/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/contact/contact.html" afterPath="$PROJECT_DIR$/app/contact/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/contact/contact.js" afterPath="$PROJECT_DIR$/app/contact/contact.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/core/directives/contactForm/contactForm.html" afterPath="$PROJECT_DIR$/app/core/directives/contactForm/contactForm.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/core/directives/contactForm/contactForm.js" afterPath="$PROJECT_DIR$/app/core/directives/contactForm/contactForm.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/contents.html" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/contents.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/core/core.module.js" afterPath="$PROJECT_DIR$/app/core/core.module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/out/coverage.html" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/out/coverage.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/demo.html" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/demo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/demo.html" afterPath="$PROJECT_DIR$/vendor/toastr/demo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/demonstrations/demonstrations.html" afterPath="$PROJECT_DIR$/app/demonstrations/demonstrations.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/demonstrations/demonstrations.js" afterPath="$PROJECT_DIR$/app/demonstrations/demonstrations.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/core/directives.js" afterPath="$PROJECT_DIR$/app/core/directives.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/core/directives/dragabble.js" afterPath="$PROJECT_DIR$/app/core/directives/dragabble.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/dynamic-page/dynamic-page.html" afterPath="$PROJECT_DIR$/app/dynamic-page/dynamic-page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/dynamic-page/dynamic-page.js" afterPath="$PROJECT_DIR$/app/dynamic-page/dynamic-page.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/dynamicPage.js" afterPath="$PROJECT_DIR$/js/dynamicPage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dynamicPage.php" afterPath="$PROJECT_DIR$/dynamicPage.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/technologies/empty.html" afterPath="$PROJECT_DIR$/app/technologies/empty.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/exceptions.phps" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/exceptions.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/docs/extending.html" afterPath="$PROJECT_DIR$/vendor/PHPMailer/docs/extending.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/docs/faq.html" afterPath="$PROJECT_DIR$/vendor/PHPMailer/docs/faq.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/vendor/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions.php" afterPath="$PROJECT_DIR$/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/gmail.phps" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/gmail.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/js/grayscale.js" afterPath="$PROJECT_DIR$/vendor/js/grayscale.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/gulpfile.js" afterPath="$PROJECT_DIR$/vendor/toastr/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/home/home.html" afterPath="$PROJECT_DIR$/app/home/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/home/home.js" afterPath="$PROJECT_DIR$/app/home/home.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/extras/htmlfilter.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/extras/htmlfilter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/index.html" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/jenkins-grunt.sh" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/jenkins-grunt.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/jquery-ui.css" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/jquery-ui.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/lib/jquery-ui.css" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/lib/jquery-ui.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/jquery-ui.js" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/jquery-ui.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/lib/jquery-ui.js" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/lib/jquery-ui.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/jquery-ui.min.js" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/jquery-ui.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/lib/jquery-ui.min.js" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/lib/jquery-ui.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/js/jquery.2.1.3.js" afterPath="$PROJECT_DIR$/vendor/js/jquery.2.1.3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/js/jquery.easing.min.js" afterPath="$PROJECT_DIR$/vendor/js/jquery.easing.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/jquery.js" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/lib/jquery.js" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/lib/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/jquery.min.js" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/lib/jquery.min.js" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/lib/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/test/jquery.sidebar.html" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/test/jquery.sidebar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/out/jquery.sidebar.js.html" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/out/jquery.sidebar.js.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/src/jquery.sidebar.js" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/src/jquery.sidebar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/test/jquery.sidebar.js" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/test/jquery.sidebar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/dist/jquery.sidebar.js" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/dist/jquery.sidebar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/src/jquery.sidebar.js" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/src/jquery.sidebar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/dist/jquery.sidebar.min.js" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/dist/jquery.sidebar.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/karma.conf.js" afterPath="$PROJECT_DIR$/vendor/toastr/karma.conf.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/js/lodash.js" afterPath="$PROJECT_DIR$/vendor/js/lodash.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/mail.phps" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/mail.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/mailing_list.phps" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/mailing_list.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/navigation/navigation.html" afterPath="$PROJECT_DIR$/app/navigation/navigation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/navigation/navigation.js" afterPath="$PROJECT_DIR$/app/navigation/navigation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/non-responsive.css" afterPath="$PROJECT_DIR$/css/non-responsive.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/button.switcher/normalize.css" afterPath="$PROJECT_DIR$/vendor/button.switcher/normalize.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/js/npm.js" afterPath="$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/js/npm.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/extras/ntlm_sasl_client.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/extras/ntlm_sasl_client.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/js/once.js" afterPath="$PROJECT_DIR$/vendor/js/once.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/out/out.temp" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/out/out.temp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/package.json" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/package.json" afterPath="$PROJECT_DIR$/vendor/toastr/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ar.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-az.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-az.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-be.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-be.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-bg.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-bg.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-br.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-br.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ca.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ca.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ch.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ch.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-cz.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-cz.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-de.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-de.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-dk.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-dk.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-el.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-el.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-eo.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-eo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-es.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-es.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-et.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-et.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-fa.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-fa.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-fi.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-fi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-fo.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-fo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-fr.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-fr.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-gl.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-gl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-he.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-he.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-hr.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-hr.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-hu.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-hu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-id.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-id.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-it.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-it.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ja.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ja.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ka.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ka.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-lt.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-lt.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-lv.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-lv.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ms.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ms.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-nl.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-nl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-no.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-no.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-pl.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-pl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-pt.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-pt.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ro.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ro.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ru.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ru.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-se.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-se.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-sk.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-sk.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-sl.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-sl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-sr.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-sr.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-tr.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-tr.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-uk.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-uk.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-vi.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-vi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-zh.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-zh.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-zh_cn.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-zh_cn.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/test/phpmailerLangTest.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/test/phpmailerLangTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/test/phpmailerTest.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/test/phpmailerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/docs/pop3_article.txt" afterPath="$PROJECT_DIR$/vendor/PHPMailer/docs/pop3_article.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/pop_before_smtp.phps" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/pop_before_smtp.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/button.switcher/prefixfree.min.js" afterPath="$PROJECT_DIR$/vendor/button.switcher/prefixfree.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/project.properties" afterPath="$PROJECT_DIR$/nbproject/project.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/project.xml" afterPath="$PROJECT_DIR$/nbproject/project.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/tests/unit/qunit-helper.js" afterPath="$PROJECT_DIR$/vendor/toastr/tests/unit/qunit-helper.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/qunit.css" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/qunit.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/lib/qunit.css" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/lib/qunit.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/tests/qunit/qunit.css" afterPath="$PROJECT_DIR$/vendor/toastr/tests/qunit/qunit.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/qunit.js" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/qunit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/lib/qunit.js" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/lib/qunit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/tests/qunit/qunit.js" afterPath="$PROJECT_DIR$/vendor/toastr/tests/qunit/qunit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/release checklist.md" afterPath="$PROJECT_DIR$/vendor/toastr/release checklist.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sendMail.php" afterPath="$PROJECT_DIR$/mail/sendMail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/send_file_upload.phps" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/send_file_upload.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/sendmail.phps" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/sendmail.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/services/services.html" afterPath="$PROJECT_DIR$/app/services/services.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/services/services.js" afterPath="$PROJECT_DIR$/app/services/services.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/core/factories/session.factory.js" afterPath="$PROJECT_DIR$/app/core/factories/session.factory.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/scripts/shAutoloader.js" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/scripts/shAutoloader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/scripts/shBrushPhp.js" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/scripts/shBrushPhp.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCore.css" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCore.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/scripts/shCore.js" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/scripts/shCore.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreDefault.css" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreDefault.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreDjango.css" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreDjango.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreEclipse.css" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreEclipse.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreEmacs.css" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreEmacs.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreFadeToGrey.css" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreFadeToGrey.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreMDUltra.css" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreMDUltra.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreMidnight.css" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreMidnight.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreRDark.css" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreRDark.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/scripts/shLegacy.js" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/scripts/shLegacy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeAppleScript.css" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeAppleScript.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeDefault.css" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeDefault.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeDjango.css" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeDjango.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeEclipse.css" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeEclipse.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeEmacs.css" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeEmacs.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeFadeToGrey.css" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeFadeToGrey.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeMDUltra.css" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeMDUltra.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeMidnight.css" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeMidnight.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeRDark.css" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeRDark.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeVisualStudio.css" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeVisualStudio.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/blue-glass/sidebar.css" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/blue-glass/sidebar.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/dark-glass/sidebar.css" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/dark-glass/sidebar.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/red-glass/sidebar.css" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/red-glass/sidebar.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/css/blue-glass/sidebar.css" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/css/blue-glass/sidebar.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/sidebar.css" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/sidebar.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/css/red-glass/sidebar.css" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/css/red-glass/sidebar.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/skukudov-ibonev.iml" afterPath="$PROJECT_DIR$/.idea/skukudov-ibonev.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/smtp.phps" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/smtp.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/smtp_check.phps" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/smtp_check.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/examples/smtp_no_auth.phps" afterPath="$PROJECT_DIR$/vendor/PHPMailer/examples/smtp_no_auth.phps" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/technologies/technologies.html" afterPath="$PROJECT_DIR$/app/technologies/technologies.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/technologies/technologies.js" afterPath="$PROJECT_DIR$/app/technologies/technologies.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/test/test_callback.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/test/test_callback.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/test/testbootstrap-dist.php" afterPath="$PROJECT_DIR$/vendor/PHPMailer/test/testbootstrap-dist.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/testem.json" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/testem.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/tests.tap" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/tests.tap" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/tests/toastr-tests.html" afterPath="$PROJECT_DIR$/vendor/toastr/tests/toastr-tests.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/tests/unit/toastr-tests.js" afterPath="$PROJECT_DIR$/vendor/toastr/tests/unit/toastr-tests.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.0.nuspec" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.0.nuspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.1.nuspec" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.1.nuspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.2.nuspec" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.2.nuspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.3.nuspec" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.3.nuspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.0.nuspec" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.0.nuspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.1.nuspec" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.1.nuspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.2.nuspec" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.2.nuspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.1.nuspec" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.1.nuspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.2.nuspec" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.2.nuspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.nuspec" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.nuspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.5.nuspec" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.5.nuspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.0.nuspec" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.0.nuspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.1.nuspec" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.1.nuspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.2.nuspec" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.2.nuspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.0.nuspec" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.0.nuspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.1.nuspec" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.1.nuspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.0-rc1.nuspec" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.0-rc1.nuspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.1.nuspec" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.1.nuspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.2.nuspec" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.2.nuspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.3.nuspec" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.3.nuspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/toastr.css" afterPath="$PROJECT_DIR$/vendor/toastr/toastr.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.css" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/build/toastr.js.map" afterPath="$PROJECT_DIR$/vendor/toastr/build/toastr.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/toastr.js" afterPath="$PROJECT_DIR$/vendor/toastr/toastr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/content/scripts/toastr.js" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/content/scripts/toastr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/toastr.less" afterPath="$PROJECT_DIR$/vendor/toastr/toastr.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.less" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/build/toastr.min.css" afterPath="$PROJECT_DIR$/vendor/toastr/build/toastr.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.min.css" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/content/scripts/toastr.min.js.map" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/content/scripts/toastr.min.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/build/toastr.min.js" afterPath="$PROJECT_DIR$/vendor/toastr/build/toastr.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/content/scripts/toastr.min.js" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/content/scripts/toastr.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/toastr.scss" afterPath="$PROJECT_DIR$/vendor/toastr/toastr.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.scss" afterPath="$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.sidebar/touch.html" afterPath="$PROJECT_DIR$/vendor/jquery.sidebar/touch.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/PHPMailer/travis.phpunit.xml.dist" afterPath="$PROJECT_DIR$/vendor/PHPMailer/travis.phpunit.xml.dist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/toastr/tests/unit/x.js" afterPath="$PROJECT_DIR$/vendor/toastr/tests/unit/x.js" />
     </list>
     <ignored path="skukudov-ibonev.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -391,21 +64,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/about/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.4153847" vertical-offset="0" max-vertical-offset="1771">
-              <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+            <state vertical-scroll-proportion="0.3320158" vertical-offset="62" max-vertical-offset="2507">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35445204" vertical-offset="0" max-vertical-offset="7935">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state vertical-scroll-proportion="-7.3333335" vertical-offset="3576" max-vertical-offset="7843">
+              <caret line="166" column="0" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -446,8 +119,8 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/home/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.123077" vertical-offset="1242" max-vertical-offset="2162">
-              <caret line="60" column="41" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="41" />
+            <state vertical-scroll-proportion="-3.5384614" vertical-offset="1173" max-vertical-offset="2162">
+              <caret line="61" column="58" selection-start-line="61" selection-start-column="58" selection-end-line="61" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -493,14 +166,14 @@
         <option value="$PROJECT_DIR$/app/services/services.js" />
         <option value="$PROJECT_DIR$/app/about/about.js" />
         <option value="$PROJECT_DIR$/app/services/services.html" />
-        <option value="$PROJECT_DIR$/app/home/home.html" />
         <option value="$PROJECT_DIR$/app/technologies/technologies.html" />
-        <option value="$PROJECT_DIR$/app/about/about.html" />
         <option value="$PROJECT_DIR$/app/app.js" />
         <option value="$PROJECT_DIR$/app/contact/contact.js" />
         <option value="$PROJECT_DIR$/mail/sendMail.php" />
         <option value="$PROJECT_DIR$/partial/_header.php" />
+        <option value="$PROJECT_DIR$/app/home/home.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/app/about/about.html" />
       </list>
     </option>
   </component>
@@ -805,12 +478,6 @@
       <option name="number" value="Default" />
       <updated>1420229384856</updated>
     </task>
-    <task id="LOCAL-00016" summary="dynamic page with local history">
-      <created>1422738931946</created>
-      <option name="number" value="00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1422738931946</updated>
-    </task>
     <task id="LOCAL-00017" summary="sidebar">
       <created>1422744639850</created>
       <option name="number" value="00017" />
@@ -1099,7 +766,13 @@
       <option name="project" value="LOCAL" />
       <updated>1427178485850</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="home fixes">
+      <created>1427311794646</created>
+      <option name="number" value="00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1427311794646</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1143,7 +816,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="dynamic" />
     <MESSAGE value="dynamic articles" />
     <MESSAGE value="toastr" />
     <MESSAGE value="dynamic page with local history" />
@@ -1168,7 +840,8 @@
     <MESSAGE value="about us contacts" />
     <MESSAGE value="refinements" />
     <MESSAGE value="primary button hover" />
-    <option name="LAST_COMMIT_MESSAGE" value="primary button hover" />
+    <MESSAGE value="home fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="home fixes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1424,6 +1097,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="69" max-vertical-offset="943">
           <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1439,6 +1113,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.625" vertical-offset="161" max-vertical-offset="1127">
           <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1470,14 +1145,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.8769231" vertical-offset="1166" max-vertical-offset="4163">
           <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="60" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/about/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4153847" vertical-offset="0" max-vertical-offset="1771">
-          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
           <folding />
         </state>
       </provider>
@@ -1516,14 +1183,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/home/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.123077" vertical-offset="1242" max-vertical-offset="2162">
-          <caret line="60" column="41" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/js/ui-bootstrap-tpls-0.12.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="571">
@@ -1532,10 +1191,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.5384614" vertical-offset="1173" max-vertical-offset="2162">
+          <caret line="61" column="58" selection-start-line="61" selection-start-column="58" selection-end-line="61" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35445204" vertical-offset="0" max-vertical-offset="7935">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state vertical-scroll-proportion="-7.3333335" vertical-offset="3576" max-vertical-offset="7843">
+          <caret line="166" column="0" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/about/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3320158" vertical-offset="62" max-vertical-offset="2507">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="23" />
           <folding />
         </state>
       </provider>

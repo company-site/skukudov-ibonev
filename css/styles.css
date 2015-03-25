@@ -72,7 +72,7 @@ a:hover {
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
     h1 {
         font-size: 18px;
         font-size: 5.9vw;
@@ -162,11 +162,7 @@ body {
 
 .about-us-container .about-heading {
   font-size: 20px;
-  margin-top: 40px;
-}
-
-.about-us-container .row {
-    margin-top: 20px;
+  margin: 20px 0;
 }
 
 .about-us-container .row .person-info-container {
