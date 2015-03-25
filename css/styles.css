@@ -299,7 +299,7 @@ contact-form .required-field {
 
 .work-values {
     background-position-y: 0px;
-    background-size: 100% auto !important;
+    background-size: auto !important;
     min-height: 100px;
 }
 .work-values:hover {
