@@ -7,10 +7,10 @@
                     $scope.form = {};
                     var fields = ['name', 'email', 'website', 'company', 'message'];
                     
-                    $scope.submitForm = function (form) {
-                        console.log(form.$vaild, form);
-                        if(form.$vaild) {
-                            console.log('valid');
+                    $scope.submitForm = function (contactForm) {
+                        alert(contactForm.$vaild, contactForm);
+                        if(contactForm.$vaild) {
+                            alert('valid');
                             $http({
                                 url: '/mail/sendMail.php',
                                 method: 'POST',
@@ -19,7 +19,7 @@
                             .success(function(data, status) {
                                 console.log(data, status);
                                 toastr.success(data.message);
-                                $scope.contactForm = {};
+                                $scope.form = {};
                                 $rootScope.$broadcast('contactFormSuccess', "sent");
                             })
                             .error(function(data, status) {
@@ -28,8 +28,8 @@
                             });
                         } else {
                             angular.forEach(fields, function(field) {
-                                console.log(form[field]);
-                                form[field].$dirty = true;
+                                alert(contactForm[field]);
+                                contactForm[field].$dirty = true;
                             });
                         }
                         
