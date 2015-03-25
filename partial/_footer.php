@@ -39,6 +39,7 @@
     <script src="../vendor/js/once.js"></script>
     <script src="../vendor/js/lodash.js"></script>
     <script src="../vendor/js/angular-google-maps.min.js"></script>
+    <script src="../vendor/js/ui-bootstrap-tpls-0.12.1.min.js"></script>
     
 <!-- Footer -->
 <footer class="container footer-container">

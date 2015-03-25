@@ -300,3 +300,40 @@ contact-form .required-field {
     font-size: 16px;
     color: red;
 }
+
+.work-value-1-background {
+    background: url('../images/home/icon-8.png') top center no-repeat;
+    background-size: cover;
+    min-height: 200px;
+}
+
+.work-value-1-background:hover {
+    background: url('../images/home/icon-8-active.png') top center no-repeat;
+}
+
+.work-value-2-background {
+    background: url('../images/home/icon-7.png') top center no-repeat;
+    min-height: 200px;
+}
+
+.work-value-2-background:hover {
+    background: url('../images/home/icon-7-active.png') top center no-repeat;
+}
+
+.work-value-3-background {
+    background: url('../images/home/icon-6.png') top center no-repeat;
+    min-height: 200px;
+}
+
+.work-value-3-background:hover {
+    background: url('../images/home/icon-6-active.png') top center no-repeat;
+}
+
+.work-value-4-background {
+    background: url('../images/home/icon-5.png') top center no-repeat;
+    min-height: 200px;
+}
+
+.work-value-4-background:hover {
+    background: url('../images/home/icon-5-active.png') top center no-repeat;
+}

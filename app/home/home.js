@@ -20,10 +20,10 @@
         ];
         
         vm.processSteps = [
-            {id: 8, image: 'icon-8.png', title: 'Innovation ', altText: '', extraCss: ' extra-padding'},
-            {id: 7, image: 'icon-7.png', title: 'Client-centred approach', altText: '', extraCss: ''},
-            {id: 6, image: 'icon-6.png', title: 'Passion and ability', altText: '', extraCss: ''},
-            {id: 5, image: 'icon-5.png', title: 'Sustainable results', altText: '', extraCss: ''}
+            {id: 8, image: 'icon-8.png', title: 'Innovation ', description: 'We permanently innovate in the latest web development and design technologies to improve and strengthen the value of our solutions and respectively turn them in values for our customers.', altText: '', popoverCss: 'work-value-1-background', captionCss: ' extra-padding'},
+            {id: 7, image: 'icon-7.png', title: 'Client-centred approach', description: 'We create participatory atmosphere and invite our clients to join in collective problem identification and solving, thereby increasing the relevance of the end solution.', altText: '', popoverCss: 'work-value-2-background', captionCss: ''},
+            {id: 6, image: 'icon-6.png', title: 'Passion and ability', description: 'We believe in highly responsive attitude towards the immediate needs of our clients and especially towards their future hopes and dreams as global business and ICT expands. ', altText: '', popoverCss: 'work-value-3-background', captionCss: ''},
+            {id: 5, image: 'icon-5.png', title: 'Sustainable results', description: 'Our team is committed to deliver sustainable solutions to our customers on time and within the planned budget using our expertise, innovation strategies and collaboration models.', altText: '', popoverCss: 'work-value-4-background', captionCss: ''}
         ];
         
         vm.activeStepImage = function(step, index) {
@@ -33,6 +33,6 @@
         vm.defaultStepImage = function(step, index) {
             //set image src to the active icon
             vm.processSteps[index].image = 'icon-' + step.id + '.png';
-        };
+        };     
     }
 })();

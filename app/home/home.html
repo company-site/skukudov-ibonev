@@ -59,10 +59,11 @@
                     <div class="thumbnail thumbnail-process">
                         <div class="row">
                             <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-                                <img class="img-responsive center-block" ng-mouseenter="vm.activeStepImage(step, $index)" ng-mouseleave="vm.defaultStepImage(step, $index)" ng-src="/images/home/{{step.image}}" alt="{{step.altText}}">
+                                <!--<div class="{{step.popoverCss}}" data-popover-trigger="mouseenter" title="{{step.title}}" data-popover-title="{{step.title}}" data-popover="{{step.description}}"></div>-->
+                                <img popover-trigger="mouseenter" title="{{step.title}}" popover-title="{{step.title}}" popover="{{step.description}}" class="img-responsive center-block" ng-mouseenter="vm.activeStepImage(step, $index)" ng-mouseleave="vm.defaultStepImage(step, $index)" ng-src="/images/home/{{step.image}}" alt="{{step.altText}}">
                             </div>
                             <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8 col-sm-offset-4 process-step">
-                                <div class="caption {{step.extraCss}}">
+                                <div class="caption {{step.captionCss}}">
                                     <h3>{{step.title}}</h3>
                                 </div>
                             </div>
@@ -81,7 +82,7 @@
     $(document).ready(function() {
         $('.carousel').carousel({
             interval: 3000
-        })
+        });
     });
 </script>
 

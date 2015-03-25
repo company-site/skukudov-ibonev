@@ -7,7 +7,7 @@
          */
         'ngAnimate', 'ngRoute', 'ngSanitize', 'once',
         // 3rd party
-        'uiGmapgoogle-maps'
+        'uiGmapgoogle-maps', 'ui.bootstrap'
     ]);
     
 })();
