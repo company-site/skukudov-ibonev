@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa5f2845-56de-412c-be05-8036d871ab28" name="Default" comment="services design">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/packages/blue_down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/packages/blue_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/packages/green_down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/packages/green_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/packages/orange_down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/packages/orange_up.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/services/Services_slider_(3).jpg" afterPath="$PROJECT_DIR$/images/services/Services_slider_(3).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/about-us-large.jpg" afterPath="$PROJECT_DIR$/images/about-us-large.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/people/vania.png" afterPath="$PROJECT_DIR$/images/people/vania.png" />
+    <list default="true" id="fa5f2845-56de-412c-be05-8036d871ab28" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/services/services.html" afterPath="$PROJECT_DIR$/app/services/services.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -38,51 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/partial/_header.php">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/about/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.78125" vertical-offset="887" max-vertical-offset="1449">
-              <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="services.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/services/services.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="3.3422618" vertical-offset="418" max-vertical-offset="2185">
-              <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.606061" vertical-offset="8695" max-vertical-offset="9315">
-              <caret line="399" column="0" selection-start-line="386" selection-start-column="0" selection-end-line="399" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/contact/contact.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1127">
-              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contactForm.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/core/directives/contactForm/contactForm.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="23" max-vertical-offset="1058">
-              <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+            <state vertical-scroll-proportion="-9.027778" vertical-offset="2699" max-vertical-offset="3564">
+              <caret line="112" column="72" selection-start-line="112" selection-start-column="72" selection-end-line="112" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -91,18 +42,70 @@
       <file leaf-file-name="about.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/about/about.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="690">
-              <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="567" max-vertical-offset="810">
+              <caret line="21" column="254" selection-start-line="21" selection-start-column="254" selection-end-line="21" selection-end-column="254" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/about/about.html">
+      <file leaf-file-name="_footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/partial/_footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.3076925" vertical-offset="621" max-vertical-offset="3036">
-              <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="692" max-vertical-offset="1512">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/contact/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1404">
+              <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/contact/contact.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="1323">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <marker date="1427377907942" expanded="true" signature="242:273" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/services/services.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.1666665" vertical-offset="1605" max-vertical-offset="3429">
+              <caret line="65" column="102" selection-start-line="65" selection-start-column="102" selection-end-line="65" selection-end-column="102" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2853855" vertical-offset="10201" max-vertical-offset="11988">
+              <caret line="387" column="21" selection-start-line="387" selection-start-column="21" selection-end-line="387" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="technologies.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/technologies/technologies.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="351" max-vertical-offset="4887">
+              <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -123,40 +126,35 @@
         <option value="$PROJECT_DIR$/javascript/dynamicPage.js" />
         <option value="$PROJECT_DIR$/dynamicPage.php" />
         <option value="$PROJECT_DIR$/js/dynamicPage.js" />
-        <option value="$PROJECT_DIR$/vendor/button.switcher/normalize.css" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/sidebar.css" />
         <option value="$PROJECT_DIR$/app/dynamic-page/dynamic-page.html" />
         <option value="$PROJECT_DIR$/app/navigation/navigation.js" />
         <option value="$PROJECT_DIR$/partial/_mobileLinks.php" />
-        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/partial/_mobileView.php" />
         <option value="$PROJECT_DIR$/app/home/home.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/app/home/empty.html" />
         <option value="$PROJECT_DIR$/vendor/css/grayscale.css" />
-        <option value="$PROJECT_DIR$/services/sendMail.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/vendor/PHPMailer/class.phpmailer.php" />
-        <option value="$PROJECT_DIR$/mail/sendMail.php" />
-        <option value="$PROJECT_DIR$/app/app.js" />
-        <option value="$PROJECT_DIR$/.htaccess" />
-        <option value="$PROJECT_DIR$/app/core/directives.js" />
+        <option value="$PROJECT_DIR$/services/sendMail.php" />
+        <option value="$PROJECT_DIR$/vendor/button.switcher/normalize.css" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/home/home.html" />
-        <option value="$PROJECT_DIR$/app/technologies/technologies.js" />
-        <option value="$PROJECT_DIR$/app/home/home.js" />
-        <option value="$PROJECT_DIR$/app/app.config.js" />
-        <option value="$PROJECT_DIR$/app/navigation/navigation.html" />
-        <option value="$PROJECT_DIR$/partial/_footer.php" />
-        <option value="$PROJECT_DIR$/partial/_header.php" />
-        <option value="$PROJECT_DIR$/app/contact/contact.html" />
         <option value="$PROJECT_DIR$/app/services/services.js" />
-        <option value="$PROJECT_DIR$/app/technologies/technologies.html" />
-        <option value="$PROJECT_DIR$/app/about/about.html" />
-        <option value="$PROJECT_DIR$/app/about/about.js" />
+        <option value="$PROJECT_DIR$/app/navigation/navigation.html" />
+        <option value="$PROJECT_DIR$/app/app.config.js" />
         <option value="$PROJECT_DIR$/app/contact/contact.js" />
-        <option value="$PROJECT_DIR$/app/core/directives/contactForm/contactForm.js" />
-        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/partial/_header.php" />
+        <option value="$PROJECT_DIR$/partial/_footer.php" />
+        <option value="$PROJECT_DIR$/app/technologies/technologies.html" />
+        <option value="$PROJECT_DIR$/app/home/home.js" />
+        <option value="$PROJECT_DIR$/app/contact/contact.html" />
+        <option value="$PROJECT_DIR$/app/about/about.js" />
+        <option value="$PROJECT_DIR$/app/about/about.html" />
         <option value="$PROJECT_DIR$/app/services/services.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
       </list>
     </option>
   </component>
@@ -172,8 +170,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
     <option name="y" value="24" />
-    <option name="width" value="1301" />
-    <option name="height" value="744" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -186,7 +184,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -197,57 +195,7 @@
       <autoscrollFromSource ProjectPane="true" />
       <sortByType />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skukudov-ibonev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skukudov-ibonev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skukudov-ibonev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skukudov-ibonev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skukudov-ibonev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skukudov-ibonev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skukudov-ibonev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -258,13 +206,14 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$/app/services" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/services" />
       <recent name="$PROJECT_DIR$/vendor" />
       <recent name="$PROJECT_DIR$/partial" />
     </key>
@@ -284,7 +233,327 @@
             <option name="mySupportsDeletion" value="false" />
             <option name="myCanBeAbsent" value="false" />
             <option name="myId" value="UPDATED" />
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/core/directives/contactForm/contactForm.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/.gitignore</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/.htaccess</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/.name</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/encodings.xml</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/jsLibraryMappings.xml</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/misc.xml</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/modules.xml</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/scopes/scope_settings.xml</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/skukudov-ibonev.iml</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/vcs.xml</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/aboutUs.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/about/about.html</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/about/about.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/app.config.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/app.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/app.module.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/contact/contact.html</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/contact/contact.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/core/core.module.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/core/directives.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/core/directives/dragabble.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/core/factories/session.factory.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/demonstrations/demonstrations.html</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/demonstrations/demonstrations.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/dynamic-page/dynamic-page.html</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/dynamic-page/dynamic-page.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/home/home.html</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/home/home.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/navigation/navigation.html</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/navigation/navigation.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/services/services.html</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/services/services.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/technologies/empty.html</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/technologies/technologies.html</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/technologies/technologies.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/css/non-responsive.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/css/styles.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/dynamicPage.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/functions.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/about-us-large.jpg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/people/vania.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/services/Services_slider_(3).jpg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/services/Services_slider_(4).jpg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/index.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/js/dynamicPage.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/mail/sendMail.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/nbproject/configs/company.properties</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/nbproject/project.properties</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/nbproject/project.xml</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/partial/_footer.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/partial/_header.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/.gitignore</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/.scrutinizer.yml</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/.travis.yml</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/LICENSE</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/PHPMailerAutoload.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/README.md</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/VERSION</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/changelog.md</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/class.phpmailer.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/class.pop3.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/class.smtp.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/composer.json</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/docs/Callback_function_notes.txt</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/docs/DomainKeys_notes.txt</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/docs/Note_for_SMTP_debugging.txt</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/docs/extending.html</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/docs/faq.html</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/docs/pop3_article.txt</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/code_generator.phps</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/contents.html</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/exceptions.phps</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/gmail.phps</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/images/phpmailer.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/images/phpmailer_mini.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/index.html</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/mail.phps</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/mailing_list.phps</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/pop_before_smtp.phps</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/scripts/XRegExp.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/scripts/shAutoloader.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/scripts/shBrushPhp.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/scripts/shCore.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/scripts/shLegacy.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/send_file_upload.phps</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/sendmail.phps</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/smtp.phps</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/smtp_check.phps</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/smtp_no_auth.phps</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCore.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreDefault.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreDjango.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreEclipse.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreEmacs.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreFadeToGrey.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreMDUltra.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreMidnight.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreRDark.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeAppleScript.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeDefault.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeDjango.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeEclipse.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeEmacs.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeFadeToGrey.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeMDUltra.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeMidnight.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeRDark.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeVisualStudio.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/wrapping.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/extras/EasyPeasyICS.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/extras/README.md</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/extras/htmlfilter.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/extras/ntlm_sasl_client.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ar.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-az.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-be.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-bg.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-br.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ca.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ch.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-cz.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-de.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-dk.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-el.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-eo.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-es.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-et.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-fa.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-fi.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-fo.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-fr.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-gl.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-he.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-hr.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-hu.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-id.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-it.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ja.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ka.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-lt.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-lv.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ms.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-nl.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-no.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-pl.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-pt.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ro.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ru.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-se.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-sk.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-sl.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-sr.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-tr.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-uk.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-vi.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-zh.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-zh_cn.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/test/bootstrap.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/test/phpmailerLangTest.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/test/phpmailerTest.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/test/test_callback.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/test/testbootstrap-dist.php</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/travis.phpunit.xml.dist</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/button.switcher/normalize.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/button.switcher/prefixfree.min.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/css/bootstrap-switch.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/css/font-awesome.min.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/fonts/FontAwesome.otf</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.eot</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.svg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.ttf</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.woff</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/img/downloads-bg.jpg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/img/intro-bg.jpg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/img/map-marker.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/img/sail.jpg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/.travis.yml</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/Gruntfile.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/README.md</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/component.json</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/blue-glass/inject-bottom.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/blue-glass/inject-left.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/blue-glass/inject-right.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/blue-glass/inject-top.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/blue-glass/sidebar.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/dark-glass/inject-bottom.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/dark-glass/inject-left.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/dark-glass/inject-right.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/dark-glass/inject-top.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/dark-glass/sidebar.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/red-glass/inject-bottom.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/red-glass/inject-left.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/red-glass/inject-right.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/red-glass/inject-top.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/red-glass/sidebar.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/jquery-ui.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/jquery-ui.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/jquery-ui.min.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/jquery.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/jquery.min.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/qunit.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/qunit.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/src/jquery.sidebar.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/test/jquery.sidebar.html</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/test/jquery.sidebar.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/out/coverage.html</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/out/jquery.sidebar.js.html</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/out/out.temp</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/blue-glass/inject-bottom.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/blue-glass/inject-left.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/blue-glass/inject-right.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/blue-glass/inject-top.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/blue-glass/sidebar.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/inject-bottom.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/inject-left.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/inject-right.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/inject-top.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/sidebar.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/red-glass/inject-bottom.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/red-glass/inject-left.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/red-glass/inject-right.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/red-glass/inject-top.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/red-glass/sidebar.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/demo.html</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/dist/jquery.sidebar.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/dist/jquery.sidebar.min.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/jenkins-grunt.sh</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/lib/jquery-ui.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/lib/jquery-ui.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/lib/jquery-ui.min.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/lib/jquery.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/lib/jquery.min.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/lib/qunit.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/lib/qunit.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/package.json</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/src/jquery.sidebar.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/testem.json</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/tests.tap</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/touch.html</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/js/angular-google-maps.min.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/js/bootstrap-switch.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/js/grayscale.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/js/jquery.easing.min.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/js/lodash.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/js/once.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/.gitattributes</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/.gitignore</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/.jscsrc</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/.jshintrc</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/.travis.yml</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/CHANGELOG.md</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/README.md</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/build/toastr.js.map</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/build/toastr.min.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/build/toastr.min.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/demo.html</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/gulpfile.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/karma.conf.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.less</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.min.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.scss</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/content/scripts/toastr.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/content/scripts/toastr.min.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/content/scripts/toastr.min.js.map</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.0.nupkg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.0.nuspec</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.1.nupkg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.1.nuspec</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.2.nupkg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.2.nuspec</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.3.nupkg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.3.nuspec</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.0.nupkg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.0.nuspec</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.1.nupkg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.1.nuspec</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.2.nupkg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.2.nuspec</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.3.nupkg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.1.nupkg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.1.nuspec</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.2.nupkg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.2.nuspec</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.nupkg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.nuspec</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.5.nupkg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.5.nuspec</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.0.nupkg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.0.nuspec</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.1.nupkg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.1.nuspec</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.2.nupkg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.2.nuspec</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.0.nupkg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.0.nuspec</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.1.nupkg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.1.nuspec</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.0-rc1.nupkg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.0-rc1.nuspec</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.1.nupkg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.1.nuspec</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.2.nupkg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.2.nuspec</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.3.nupkg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.3.nuspec</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/package.json</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/release checklist.md</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/tests/qunit/qunit.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/tests/qunit/qunit.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/tests/toastr-tests.html</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/tests/unit/qunit-helper.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/tests/unit/toastr-tests.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/tests/unit/x.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/toastr-icon.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/toastr.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/toastr.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/toastr.less</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/toastr.scss</PATH>
           </FILE-GROUP>
           <FILE-GROUP>
             <option name="myUpdateName" value="Created" />
@@ -292,6 +561,37 @@
             <option name="mySupportsDeletion" value="false" />
             <option name="myCanBeAbsent" value="false" />
             <option name="myId" value="CREATED" />
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/core/directives/contactForm/contactForm.html</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/core/directives/contactForm/contactForm.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/home/slide-1-bg.jpg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/home/slide-2-bg.jpg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/home/slide-3-bg.jpg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/home/slide1-bg-text.jpg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/home/slide2-bg-text.jpg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/home/slide3-bg-text.jpg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/packages/blue_down.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/packages/blue_up.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/packages/green_down.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/packages/green_up.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/packages/orange_down.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/packages/orange_up.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/services/services_image.jpg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap-theme.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap-theme.css.map</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap-theme.min.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap.css.map</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap.min.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.eot</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.svg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.ttf</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.woff</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.woff2</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/js/bootstrap.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/js/bootstrap.min.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/js/npm.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/js/jquery.2.1.3.js</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/js/ui-bootstrap-tpls-0.12.1.min.js</PATH>
           </FILE-GROUP>
           <FILE-GROUP>
             <option name="myUpdateName" value="Deleted" />
@@ -299,6 +599,10 @@
             <option name="mySupportsDeletion" value="false" />
             <option name="myCanBeAbsent" value="true" />
             <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/home/slide1-bg.jpg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/home/slide2-bg.jpg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/home/slide3-bg.jpg</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/services/Services_slider_(1).jpg</PATH>
           </FILE-GROUP>
           <FILE-GROUP>
             <option name="myUpdateName" value="Restored" />
@@ -402,9 +706,6 @@
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -412,6 +713,9 @@
       <arguments />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <configuration default="false" name="Company" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Company">
@@ -435,30 +739,6 @@
       <created>1420229384856</created>
       <option name="number" value="Default" />
       <updated>1420229384856</updated>
-    </task>
-    <task id="LOCAL-00012" summary="toastr">
-      <created>1422648173554</created>
-      <option name="number" value="00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1422648173554</updated>
-    </task>
-    <task id="LOCAL-00013" summary="dynamic page with local history">
-      <created>1422655136696</created>
-      <option name="number" value="00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1422655136696</updated>
-    </task>
-    <task id="LOCAL-00014" summary="dynamic page with local history">
-      <created>1422655161941</created>
-      <option name="number" value="00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1422655161941</updated>
-    </task>
-    <task id="LOCAL-00015" summary="dynamic page with local history">
-      <created>1422656360018</created>
-      <option name="number" value="00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1422656360018</updated>
     </task>
     <task id="LOCAL-00016" summary="dynamic page with local history">
       <created>1422738931946</created>
@@ -616,143 +896,167 @@
       <option name="project" value="LOCAL" />
       <updated>1425113257345</updated>
     </task>
-    <task id="LOCAL-00042" summary="Mailer">
-      <created>1425371278226</created>
+    <task id="LOCAL-00042" summary="services final design">
+      <created>1425909741327</created>
       <option name="number" value="00042" />
       <option name="project" value="LOCAL" />
-      <updated>1425371278226</updated>
+      <updated>1425909741327</updated>
     </task>
-    <task id="LOCAL-00043" summary="services design">
-      <created>1425677326439</created>
+    <task id="LOCAL-00043" summary="services final design">
+      <created>1425909761741</created>
       <option name="number" value="00043" />
       <option name="project" value="LOCAL" />
-      <updated>1425677326439</updated>
+      <updated>1425909761741</updated>
     </task>
-    <task id="LOCAL-00044" summary="services design">
-      <created>1425843106027</created>
+    <task id="LOCAL-00044" summary="contact us fixes">
+      <created>1425910597870</created>
       <option name="number" value="00044" />
       <option name="project" value="LOCAL" />
-      <updated>1425843106027</updated>
+      <updated>1425910597870</updated>
     </task>
-    <task id="LOCAL-00045" summary="about us design">
-      <created>1425843723919</created>
+    <task id="LOCAL-00045" summary="Fix and check responsiveness on about us page!">
+      <created>1425910936790</created>
       <option name="number" value="00045" />
       <option name="project" value="LOCAL" />
-      <updated>1425843723920</updated>
+      <updated>1425910936790</updated>
     </task>
-    <task id="LOCAL-00046" summary="fixes">
-      <created>1425847484032</created>
+    <task id="LOCAL-00046" summary="Fix and check responsiveness on about us page!">
+      <created>1425911382012</created>
       <option name="number" value="00046" />
       <option name="project" value="LOCAL" />
-      <updated>1425847484032</updated>
+      <updated>1425911382012</updated>
     </task>
-    <task id="LOCAL-00047" summary="fixes">
-      <created>1425847497250</created>
+    <task id="LOCAL-00047" summary="ignored files">
+      <created>1425976807291</created>
       <option name="number" value="00047" />
       <option name="project" value="LOCAL" />
-      <updated>1425847497250</updated>
+      <updated>1425976807291</updated>
     </task>
-    <task id="LOCAL-00048" summary="about us pic">
-      <created>1425933682258</created>
+    <task id="LOCAL-00048" summary="services changes">
+      <created>1425981833340</created>
       <option name="number" value="00048" />
       <option name="project" value="LOCAL" />
-      <updated>1425933682259</updated>
+      <updated>1425981833340</updated>
     </task>
-    <task id="LOCAL-00049" summary="anchors">
-      <created>1426017789154</created>
+    <task id="LOCAL-00049" summary="homepage tab">
+      <created>1425982105514</created>
       <option name="number" value="00049" />
       <option name="project" value="LOCAL" />
-      <updated>1426017789154</updated>
+      <updated>1425982105514</updated>
     </task>
-    <task id="LOCAL-00050" summary="horizontal scroller removal">
-      <created>1426021288874</created>
+    <task id="LOCAL-00050" summary="remove switcher (one page and responsive design)">
+      <created>1425982185527</created>
       <option name="number" value="00050" />
       <option name="project" value="LOCAL" />
-      <updated>1426021288876</updated>
+      <updated>1425982185528</updated>
     </task>
-    <task id="LOCAL-00051" summary="carosel autoswitch">
-      <created>1426022156560</created>
+    <task id="LOCAL-00051" summary="remove/hide dynamic pages">
+      <created>1425982227859</created>
       <option name="number" value="00051" />
       <option name="project" value="LOCAL" />
-      <updated>1426022156560</updated>
+      <updated>1425982227859</updated>
     </task>
-    <task id="LOCAL-00052" summary="Technologies">
-      <created>1426714136765</created>
+    <task id="LOCAL-00052" summary="contacts us design">
+      <created>1426078145881</created>
       <option name="number" value="00052" />
       <option name="project" value="LOCAL" />
-      <updated>1426714136765</updated>
+      <updated>1426078145887</updated>
     </task>
-    <task id="LOCAL-00053" summary="services&#10;">
-      <created>1426717676196</created>
+    <task id="LOCAL-00053" summary="contacts us design">
+      <created>1426078397744</created>
       <option name="number" value="00053" />
       <option name="project" value="LOCAL" />
-      <updated>1426717676197</updated>
+      <updated>1426078397744</updated>
     </task>
-    <task id="LOCAL-00054" summary="services&#10;">
-      <created>1426717798105</created>
+    <task id="LOCAL-00054" summary="services new icons">
+      <created>1426673109776</created>
       <option name="number" value="00054" />
       <option name="project" value="LOCAL" />
-      <updated>1426717798106</updated>
+      <updated>1426673109778</updated>
     </task>
-    <task id="LOCAL-00055" summary="services&#10;">
-      <created>1426717994084</created>
+    <task id="LOCAL-00055" summary="about us new images">
+      <created>1427097040356</created>
       <option name="number" value="00055" />
       <option name="project" value="LOCAL" />
-      <updated>1426717994084</updated>
+      <updated>1427097040357</updated>
     </task>
-    <task id="LOCAL-00056" summary="services&#10;">
-      <created>1426792741925</created>
+    <task id="LOCAL-00056" summary="services new icons">
+      <created>1427097131014</created>
       <option name="number" value="00056" />
       <option name="project" value="LOCAL" />
-      <updated>1426792741927</updated>
+      <updated>1427097131014</updated>
     </task>
-    <task id="LOCAL-00057" summary="services&#10;">
-      <created>1426794248117</created>
+    <task id="LOCAL-00057" summary="services design">
+      <created>1427099142125</created>
       <option name="number" value="00057" />
       <option name="project" value="LOCAL" />
-      <updated>1426794248117</updated>
+      <updated>1427099142125</updated>
     </task>
-    <task id="LOCAL-00058" summary="services&#10;">
-      <created>1426795112020</created>
+    <task id="LOCAL-00058" summary="services design final">
+      <created>1427099685451</created>
       <option name="number" value="00058" />
       <option name="project" value="LOCAL" />
-      <updated>1426795112020</updated>
+      <updated>1427099685451</updated>
     </task>
-    <task id="LOCAL-00059" summary="services&#10;">
-      <created>1426893446211</created>
+    <task id="LOCAL-00059" summary="services design final">
+      <created>1427100353726</created>
       <option name="number" value="00059" />
       <option name="project" value="LOCAL" />
-      <updated>1426893446212</updated>
+      <updated>1427100353726</updated>
     </task>
-    <task id="LOCAL-00060" summary="about us contacts">
-      <created>1426894706795</created>
+    <task id="LOCAL-00060" summary="services design final">
+      <created>1427100649059</created>
       <option name="number" value="00060" />
       <option name="project" value="LOCAL" />
-      <updated>1426894706795</updated>
+      <updated>1427100649059</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="services design final">
+      <created>1427101710824</created>
+      <option name="number" value="00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1427101710825</updated>
+    </task>
+    <task id="LOCAL-00062" summary="contact us - google +">
+      <created>1427107204284</created>
+      <option name="number" value="00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1427107204284</updated>
+    </task>
+    <task id="LOCAL-00063" summary="about us">
+      <created>1427108063673</created>
+      <option name="number" value="00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1427108063673</updated>
+    </task>
+    <task id="LOCAL-00064" summary="google icon">
+      <created>1427125170572</created>
+      <option name="number" value="00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1427125170572</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3008779" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30071864" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -774,11 +1078,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="test" />
-    <MESSAGE value="skeleton" />
-    <MESSAGE value="dynamic" />
-    <MESSAGE value="dynamic articles" />
-    <MESSAGE value="toastr" />
     <MESSAGE value="dynamic page with local history" />
     <MESSAGE value="sidebar" />
     <MESSAGE value="resizers" />
@@ -788,24 +1087,57 @@
     <MESSAGE value="services content" />
     <MESSAGE value="mobile partial" />
     <MESSAGE value="sticky footer" />
-    <MESSAGE value="Mailer" />
+    <MESSAGE value="services final design" />
+    <MESSAGE value="contact us fixes" />
+    <MESSAGE value="Fix and check responsiveness on about us page!" />
+    <MESSAGE value="ignored files" />
+    <MESSAGE value="services changes" />
+    <MESSAGE value="homepage tab" />
+    <MESSAGE value="remove switcher (one page and responsive design)" />
+    <MESSAGE value="remove/hide dynamic pages" />
+    <MESSAGE value="contacts us design" />
+    <MESSAGE value="about us new images" />
+    <MESSAGE value="services new icons" />
     <MESSAGE value="services design" />
-    <MESSAGE value="about us design" />
-    <MESSAGE value="fixes" />
-    <MESSAGE value="about us pic" />
-    <MESSAGE value="anchors" />
-    <MESSAGE value="horizontal scroller removal" />
-    <MESSAGE value="carosel autoswitch" />
-    <MESSAGE value="Technologies" />
-    <MESSAGE value="services&#10;" />
-    <MESSAGE value="about us contacts" />
-    <option name="LAST_COMMIT_MESSAGE" value="about us contacts" />
+    <MESSAGE value="services design final" />
+    <MESSAGE value="contact us - google +" />
+    <MESSAGE value="about us" />
+    <MESSAGE value="google icon" />
+    <option name="LAST_COMMIT_MESSAGE" value="google icon" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/dynamicPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="947" max-vertical-offset="1932">
+          <caret line="56" column="20" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="243" max-vertical-offset="1127">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="69" max-vertical-offset="1219">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamicPage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="299" max-vertical-offset="966">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/dynamicPage.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1518">
@@ -862,13 +1194,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/button.switcher/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4112" max-vertical-offset="5773">
-          <caret line="191" column="13" selection-start-line="191" selection-start-column="13" selection-end-line="191" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/jquery.sidebar/src/jquery.sidebar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.3252788" vertical-offset="3510" max-vertical-offset="5152">
@@ -880,13 +1205,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.28196147" vertical-offset="0" max-vertical-offset="23023">
           <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/dynamicPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7565674" vertical-offset="2259" max-vertical-offset="3059">
-          <caret line="117" column="9" selection-start-line="117" selection-start-column="9" selection-end-line="117" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -904,6 +1222,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/dynamic-page/dynamic-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1196">
+          <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/demonstrations/demonstrations.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.71875" vertical-offset="0" max-vertical-offset="644">
@@ -911,17 +1236,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/dynamicPage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.030821918" vertical-offset="0" max-vertical-offset="876">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="989" max-vertical-offset="1196">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/navigation/navigation.js">
+    <entry file="file://$PROJECT_DIR$/aboutUs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48801368" vertical-offset="198" max-vertical-offset="782">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="92" max-vertical-offset="299">
+          <caret line="4" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -939,238 +1285,198 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/dynamic-page/dynamic-page.html">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1725">
-          <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="322">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/core/factories/session.factory.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="644">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/core/core.module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="584">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamicPage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.8348794" vertical-offset="0" max-vertical-offset="1196">
-          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutUs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29166666" vertical-offset="0" max-vertical-offset="552">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/PHPMailer/PHPMailerAutoload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="161" max-vertical-offset="299">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/PHPMailer/class.phpmailer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5846155" vertical-offset="12735" max-vertical-offset="79534">
-          <caret line="577" column="43" selection-start-line="577" selection-start-column="33" selection-end-line="577" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.041666668" vertical-offset="0" max-vertical-offset="552">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-          <caret line="9" column="6" selection-start-line="3" selection-start-column="1" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/core/directives.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="207" max-vertical-offset="1104">
-          <caret line="34" column="74" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="74" />
+        <state vertical-scroll-proportion="0.3320158" vertical-offset="26535" max-vertical-offset="79534">
+          <caret line="1177" column="94" selection-start-line="1177" selection-start-column="89" selection-end-line="1177" selection-end-column="94" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/dynamic-page/dynamic-page.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="621">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="729">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.config.js">
+    <entry file="file://$PROJECT_DIR$/js/dynamicPage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20140105" vertical-offset="207" max-vertical-offset="828">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="2302" max-vertical-offset="3213">
+          <caret line="99" column="33" selection-start-line="99" selection-start-column="33" selection-end-line="99" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/button.switcher/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33256617" vertical-offset="1034" max-vertical-offset="6642">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.029966705" vertical-offset="0" max-vertical-offset="901">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/mobile-banner.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26970032" vertical-offset="0" max-vertical-offset="901">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/navigation/navigation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43063262" vertical-offset="179" max-vertical-offset="1080">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/navigation/navigation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.8814229" vertical-offset="221" max-vertical-offset="3266">
-          <caret line="51" column="125" selection-start-line="51" selection-start-column="125" selection-end-line="51" selection-end-column="125" />
+        <state vertical-scroll-proportion="0.47887325" vertical-offset="1104" max-vertical-offset="3672">
+          <caret line="56" column="25" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/services/services.js">
+    <entry file="file://$PROJECT_DIR$/app/app.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="69" max-vertical-offset="943">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/technologies/technologies.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/contact/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.625" vertical-offset="161" max-vertical-offset="1127">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="460">
-          <caret line="9" column="113" selection-start-line="9" selection-start-column="103" selection-end-line="9" selection-end-column="113" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partial/_header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.78125" vertical-offset="887" max-vertical-offset="1449">
-          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/js/ui-bootstrap-tpls-0.12.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="571">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/home/home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="175" max-vertical-offset="989">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/home/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6818182" vertical-offset="1219" max-vertical-offset="2139">
-          <caret line="68" column="34" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
-          <folding />
+        <state vertical-scroll-proportion="0.35960045" vertical-offset="0" max-vertical-offset="901">
+          <caret line="12" column="82" selection-start-line="12" selection-start-column="82" selection-end-line="12" selection-end-column="82" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mail/sendMail.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.625" vertical-offset="321" max-vertical-offset="1012">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-          <folding />
+        <state vertical-scroll-proportion="0.34335262" vertical-offset="162" max-vertical-offset="1134">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/about/about.html">
+    <entry file="file://$PROJECT_DIR$/app/core/directives.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.3076925" vertical-offset="621" max-vertical-offset="3036">
-          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="486" max-vertical-offset="1404">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/about/about.js">
+    <entry file="file://$PROJECT_DIR$/partial/_header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="690">
-          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+        <state vertical-scroll-proportion="0.66705203" vertical-offset="827" max-vertical-offset="1728">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/_footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="692" max-vertical-offset="1512">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/packages/green_up.png">
+    <entry file="file://$PROJECT_DIR$/images/services/Services_slider_(3).jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/packages/green_down.png">
+    <entry file="file://$PROJECT_DIR$/images/services/Services_slider_(4).jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/technologies/technologies.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.590909" vertical-offset="0" max-vertical-offset="4163">
-          <caret line="57" column="35" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="351" max-vertical-offset="4887">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="348" max-vertical-offset="2511">
+          <caret line="23" column="97" selection-start-line="23" selection-start-column="97" selection-end-line="23" selection-end-column="97" />
+          <folding>
+            <marker date="1427377907950" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1427377907950" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/contact/contact.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1127">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1755">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1427377907942" expanded="true" signature="242:273" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/contact/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1323">
+          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/core/directives/contactForm/contactForm.js">
+    <entry file="file://$PROJECT_DIR$/app/home/home.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="23" max-vertical-offset="989">
-          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="918">
+          <caret line="9" column="25" selection-start-line="18" selection-start-column="156" selection-end-line="18" selection-end-column="162" />
+          <folding>
+            <marker date="1427377907950" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1427377907950" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1427377907950" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/about/about.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="567" max-vertical-offset="810">
+          <caret line="21" column="254" selection-start-line="21" selection-start-column="254" selection-end-line="21" selection-end-column="254" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/app/about/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.606061" vertical-offset="8695" max-vertical-offset="9315">
-          <caret line="399" column="0" selection-start-line="386" selection-start-column="0" selection-end-line="399" selection-end-column="0" />
+        <state vertical-scroll-proportion="-9.027778" vertical-offset="2699" max-vertical-offset="3564">
+          <caret line="112" column="72" selection-start-line="112" selection-start-column="72" selection-end-line="112" selection-end-column="72" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/services/services.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.3422618" vertical-offset="418" max-vertical-offset="2185">
-          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        <state vertical-scroll-proportion="-4.1666665" vertical-offset="1605" max-vertical-offset="3429">
+          <caret line="65" column="102" selection-start-line="65" selection-start-column="102" selection-end-line="65" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2853855" vertical-offset="10201" max-vertical-offset="11988">
+          <caret line="387" column="21" selection-start-line="387" selection-start-column="21" selection-end-line="387" selection-end-column="21" />
           <folding />
         </state>
       </provider>
