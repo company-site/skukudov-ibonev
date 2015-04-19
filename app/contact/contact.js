@@ -30,7 +30,7 @@
                   latitude: 57.04920,
                   longitude: 9.94393
                 },
-                options: { draggable: false },
+                options: { draggable: false }
             }
         };
         
