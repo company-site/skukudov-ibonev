@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa5f2845-56de-412c-be05-8036d871ab28" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/about.html" afterPath="$PROJECT_DIR$/app/about/about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/contact/contact.html" afterPath="$PROJECT_DIR$/app/contact/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/services/services.html" afterPath="$PROJECT_DIR$/app/services/services.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/technologies/technologies.html" afterPath="$PROJECT_DIR$/app/technologies/technologies.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="skukudov-ibonev.iws" />
@@ -34,7 +31,7 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/about/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.5" vertical-offset="0" max-vertical-offset="3564">
+            <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="3564">
               <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
               <folding />
             </state>
@@ -64,8 +61,8 @@
       <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/contact/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.03169014" vertical-offset="0" max-vertical-offset="1404">
-              <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.33292684" vertical-offset="132" max-vertical-offset="1350">
+              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -86,7 +83,7 @@
       <file leaf-file-name="services.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/services/services.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.5" vertical-offset="0" max-vertical-offset="3429">
+            <state vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="3429">
               <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
               <folding />
             </state>
@@ -96,7 +93,7 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.125" vertical-offset="10201" max-vertical-offset="11988">
+            <state vertical-scroll-proportion="0.0" vertical-offset="10201" max-vertical-offset="11988">
               <caret line="391" column="20" selection-start-line="391" selection-start-column="20" selection-end-line="391" selection-end-column="20" />
               <folding />
             </state>
@@ -106,7 +103,7 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/home/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.25" vertical-offset="0" max-vertical-offset="2511">
+            <state vertical-scroll-proportion="0.0" vertical-offset="621" max-vertical-offset="2511">
               <caret line="23" column="97" selection-start-line="23" selection-start-column="97" selection-end-line="23" selection-end-column="97" />
               <folding />
             </state>
@@ -116,7 +113,7 @@
       <file leaf-file-name="technologies.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/technologies/technologies.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.75" vertical-offset="0" max-vertical-offset="4860">
+            <state vertical-scroll-proportion="0.0" vertical-offset="27" max-vertical-offset="4860">
               <caret line="1" column="59" selection-start-line="1" selection-start-column="59" selection-end-line="1" selection-end-column="59" />
               <folding />
             </state>
@@ -181,9 +178,9 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.5" />
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="24" />
+    <option name="y" value="-4" />
     <option name="width" value="1855" />
-    <option name="height" value="1056" />
+    <option name="height" value="1084" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -230,473 +227,6 @@
       <recent name="$PROJECT_DIR$/partial" />
     </key>
   </component>
-  <component name="RestoreUpdateTree">
-    <UpdateInfo date="Moments ago" ActionInfo="_Update">
-      <UpdatedFiles>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated from server" />
-          <option name="myStatusName" value="Changed on server" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CHANGED_ON_SERVER" />
-          <FILE-GROUP>
-            <option name="myUpdateName" value="Updated" />
-            <option name="myStatusName" value="Changed" />
-            <option name="mySupportsDeletion" value="false" />
-            <option name="myCanBeAbsent" value="false" />
-            <option name="myId" value="UPDATED" />
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/.gitignore</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/.htaccess</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/.name</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/encodings.xml</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/jsLibraryMappings.xml</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/misc.xml</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/modules.xml</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/scopes/scope_settings.xml</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/skukudov-ibonev.iml</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/vcs.xml</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/aboutUs.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/about/about.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/about/about.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/app.config.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/app.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/app.module.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/contact/contact.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/contact/contact.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/core/core.module.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/core/directives.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/core/directives/dragabble.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/core/factories/session.factory.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/demonstrations/demonstrations.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/demonstrations/demonstrations.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/dynamic-page/dynamic-page.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/dynamic-page/dynamic-page.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/home/home.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/home/home.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/navigation/navigation.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/navigation/navigation.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/services/services.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/services/services.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/technologies/empty.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/technologies/technologies.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/technologies/technologies.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/css/non-responsive.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/css/styles.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/dynamicPage.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/functions.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/about-us-large.jpg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/people/vania.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/services/Services_slider_(3).jpg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/services/Services_slider_(4).jpg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/index.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/js/dynamicPage.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/mail/sendMail.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/nbproject/configs/company.properties</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/nbproject/project.properties</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/nbproject/project.xml</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/partial/_footer.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/partial/_header.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/.gitignore</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/.scrutinizer.yml</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/.travis.yml</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/LICENSE</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/PHPMailerAutoload.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/README.md</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/VERSION</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/changelog.md</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/class.phpmailer.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/class.pop3.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/class.smtp.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/composer.json</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/docs/Callback_function_notes.txt</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/docs/DomainKeys_notes.txt</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/docs/Note_for_SMTP_debugging.txt</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/docs/extending.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/docs/faq.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/docs/pop3_article.txt</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/code_generator.phps</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/contents.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/exceptions.phps</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/gmail.phps</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/images/phpmailer.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/images/phpmailer_mini.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/index.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/mail.phps</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/mailing_list.phps</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/pop_before_smtp.phps</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/scripts/XRegExp.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/scripts/shAutoloader.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/scripts/shBrushPhp.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/scripts/shCore.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/scripts/shLegacy.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/send_file_upload.phps</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/sendmail.phps</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/smtp.phps</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/smtp_check.phps</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/smtp_no_auth.phps</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCore.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreDefault.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreDjango.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreEclipse.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreEmacs.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreFadeToGrey.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreMDUltra.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreMidnight.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shCoreRDark.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeAppleScript.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeDefault.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeDjango.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeEclipse.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeEmacs.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeFadeToGrey.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeMDUltra.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeMidnight.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeRDark.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/shThemeVisualStudio.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/examples/styles/wrapping.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/extras/EasyPeasyICS.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/extras/README.md</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/extras/htmlfilter.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/extras/ntlm_sasl_client.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ar.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-az.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-be.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-bg.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-br.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ca.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ch.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-cz.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-de.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-dk.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-el.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-eo.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-es.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-et.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-fa.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-fi.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-fo.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-fr.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-gl.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-he.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-hr.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-hu.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-id.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-it.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ja.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ka.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-lt.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-lv.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ms.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-nl.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-no.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-pl.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-pt.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ro.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-ru.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-se.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-sk.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-sl.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-sr.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-tr.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-uk.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-vi.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-zh.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/language/phpmailer.lang-zh_cn.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/test/bootstrap.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/test/phpmailerLangTest.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/test/phpmailerTest.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/test/test_callback.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/test/testbootstrap-dist.php</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/PHPMailer/travis.phpunit.xml.dist</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/button.switcher/normalize.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/button.switcher/prefixfree.min.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/css/bootstrap-switch.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/css/font-awesome.min.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/fonts/FontAwesome.otf</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.eot</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.svg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.ttf</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/fonts/fontawesome-webfont.woff</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/img/downloads-bg.jpg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/img/intro-bg.jpg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/img/map-marker.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/img/sail.jpg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/.travis.yml</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/Gruntfile.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/README.md</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/component.json</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/blue-glass/inject-bottom.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/blue-glass/inject-left.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/blue-glass/inject-right.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/blue-glass/inject-top.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/blue-glass/sidebar.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/dark-glass/inject-bottom.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/dark-glass/inject-left.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/dark-glass/inject-right.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/dark-glass/inject-top.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/dark-glass/sidebar.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/red-glass/inject-bottom.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/red-glass/inject-left.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/red-glass/inject-right.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/red-glass/inject-top.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/css/red-glass/sidebar.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/jquery-ui.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/jquery-ui.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/jquery-ui.min.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/jquery.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/jquery.min.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/qunit.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/lib/qunit.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/src/jquery.sidebar.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/test/jquery.sidebar.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/in/test/jquery.sidebar.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/out/coverage.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/out/jquery.sidebar.js.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/cov/out/out.temp</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/blue-glass/inject-bottom.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/blue-glass/inject-left.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/blue-glass/inject-right.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/blue-glass/inject-top.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/blue-glass/sidebar.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/inject-bottom.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/inject-left.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/inject-right.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/inject-top.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/dark-glass/sidebar.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/red-glass/inject-bottom.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/red-glass/inject-left.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/red-glass/inject-right.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/red-glass/inject-top.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/css/red-glass/sidebar.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/demo.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/dist/jquery.sidebar.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/dist/jquery.sidebar.min.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/jenkins-grunt.sh</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/lib/jquery-ui.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/lib/jquery-ui.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/lib/jquery-ui.min.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/lib/jquery.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/lib/jquery.min.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/lib/qunit.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/lib/qunit.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/package.json</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/src/jquery.sidebar.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/testem.json</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/tests.tap</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/jquery.sidebar/touch.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/js/angular-google-maps.min.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/js/bootstrap-switch.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/js/grayscale.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/js/jquery.easing.min.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/js/lodash.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/js/once.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/.gitattributes</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/.gitignore</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/.jscsrc</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/.jshintrc</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/.travis.yml</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/CHANGELOG.md</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/README.md</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/build/toastr.js.map</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/build/toastr.min.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/build/toastr.min.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/demo.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/gulpfile.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/karma.conf.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.less</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.min.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/content/content/toastr.scss</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/content/scripts/toastr.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/content/scripts/toastr.min.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/content/scripts/toastr.min.js.map</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.0.nupkg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.0.nuspec</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.1.nupkg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.1.nuspec</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.2.nupkg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.2.nuspec</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.3.nupkg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.0.3.nuspec</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.0.nupkg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.0.nuspec</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.1.nupkg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.1.nuspec</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.2.nupkg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.2.nuspec</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.3.nupkg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.1.nupkg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.1.nuspec</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.2.nupkg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.2.nuspec</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.nupkg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.4.nuspec</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.5.nupkg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.1.5.nuspec</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.0.nupkg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.0.nuspec</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.1.nupkg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.1.nuspec</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.2.nupkg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.2.2.nuspec</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.0.nupkg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.0.nuspec</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.1.nupkg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.1.3.1.nuspec</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.0-rc1.nupkg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.0-rc1.nuspec</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.1.nupkg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.1.nuspec</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.2.nupkg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.2.nuspec</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.3.nupkg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/nuget/toastr.2.0.3.nuspec</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/package.json</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/release checklist.md</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/tests/qunit/qunit.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/tests/qunit/qunit.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/tests/toastr-tests.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/tests/unit/qunit-helper.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/tests/unit/toastr-tests.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/tests/unit/x.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/toastr-icon.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/toastr.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/toastr.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/toastr.less</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/toastr/toastr.scss</PATH>
-          </FILE-GROUP>
-          <FILE-GROUP>
-            <option name="myUpdateName" value="Created" />
-            <option name="myStatusName" value="Created" />
-            <option name="mySupportsDeletion" value="false" />
-            <option name="myCanBeAbsent" value="false" />
-            <option name="myId" value="CREATED" />
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/core/directives/contactForm/contactForm.html</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/app/core/directives/contactForm/contactForm.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/home/slide-1-bg.jpg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/home/slide-2-bg.jpg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/home/slide-3-bg.jpg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/home/slide1-bg-text.jpg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/home/slide2-bg-text.jpg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/home/slide3-bg-text.jpg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/packages/blue_down.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/packages/blue_up.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/packages/green_down.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/packages/green_up.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/packages/orange_down.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/packages/orange_up.png</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/services/services_image.jpg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap-theme.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap-theme.css.map</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap-theme.min.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap.css.map</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/css/bootstrap.min.css</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.eot</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.svg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.ttf</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.woff</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.woff2</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/js/bootstrap.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/js/bootstrap.min.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bootstrap-3.3.4-dist/js/npm.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/js/jquery.2.1.3.js</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/js/ui-bootstrap-tpls-0.12.1.min.js</PATH>
-          </FILE-GROUP>
-          <FILE-GROUP>
-            <option name="myUpdateName" value="Deleted" />
-            <option name="myStatusName" value="Deleted" />
-            <option name="mySupportsDeletion" value="false" />
-            <option name="myCanBeAbsent" value="true" />
-            <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/home/slide1-bg.jpg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/home/slide2-bg.jpg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/home/slide3-bg.jpg</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/images/services/Services_slider_(1).jpg</PATH>
-          </FILE-GROUP>
-          <FILE-GROUP>
-            <option name="myUpdateName" value="Restored" />
-            <option name="myStatusName" value="Will be restored" />
-            <option name="mySupportsDeletion" value="false" />
-            <option name="myCanBeAbsent" value="false" />
-            <option name="myId" value="RESTORED" />
-          </FILE-GROUP>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Modified" />
-          <option name="myStatusName" value="Modified" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MODIFIED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Skipped" />
-          <option name="myStatusName" value="Skipped" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="SKIPPED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Merged with conflicts" />
-          <option name="myStatusName" value="Will be merged with conflicts" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MERGED_WITH_CONFLICTS" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Merged with tree conflicts" />
-          <option name="myStatusName" value="Merged with tree conflicts" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Merged with property conflicts" />
-          <option name="myStatusName" value="Will be merged with property conflicts" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Merged" />
-          <option name="myStatusName" value="Will be merged" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MERGED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Not in repository" />
-          <option name="myStatusName" value="Not in repository" />
-          <option name="mySupportsDeletion" value="true" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UNKNOWN" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Locally added" />
-          <option name="myStatusName" value="Locally added" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="LOCALLY_ADDED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Locally removed" />
-          <option name="myStatusName" value="Locally removed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="LOCALLY_REMOVED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Switched" />
-          <option name="myStatusName" value="Switched" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="SWITCHED" />
-        </FILE-GROUP>
-      </UpdatedFiles>
-    </UpdateInfo>
-  </component>
   <component name="RunManager" selected="PHP Web Application.Company">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
@@ -718,6 +248,9 @@
       <BehatRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -725,9 +258,6 @@
       <arguments />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <configuration default="false" name="Company" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Company">
@@ -751,12 +281,6 @@
       <created>1420229384856</created>
       <option name="number" value="Default" />
       <updated>1420229384856</updated>
-    </task>
-    <task id="LOCAL-00018" summary="sidebar">
-      <created>1422813927923</created>
-      <option name="number" value="00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1422813927923</updated>
     </task>
     <task id="LOCAL-00019" summary="sidebar">
       <created>1422813970191</created>
@@ -1046,14 +570,19 @@
       <option name="project" value="LOCAL" />
       <updated>1427380109018</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="retina display fix">
+      <created>1427380471192</created>
+      <option name="number" value="00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1427380471192</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1069,6 +598,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1090,7 +620,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="dynamic page with local history" />
     <MESSAGE value="sidebar" />
     <MESSAGE value="resizers" />
     <MESSAGE value="styles" />
@@ -1115,7 +644,8 @@
     <MESSAGE value="about us" />
     <MESSAGE value="google icon" />
     <MESSAGE value="services final design" />
-    <option name="LAST_COMMIT_MESSAGE" value="services final design" />
+    <MESSAGE value="retina display fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="retina display fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1426,11 +956,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="918">
           <caret line="9" column="25" selection-start-line="18" selection-start-column="156" selection-end-line="18" selection-end-column="162" />
-          <folding>
-            <marker date="1427377907950" expanded="true" signature="-1:-1" placeholder="[...]" />
-            <marker date="1427377907950" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1427377907950" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1444,7 +969,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.125" vertical-offset="10201" max-vertical-offset="11988">
+        <state vertical-scroll-proportion="0.0" vertical-offset="10201" max-vertical-offset="11988">
           <caret line="391" column="20" selection-start-line="391" selection-start-column="20" selection-end-line="391" selection-end-column="20" />
           <folding />
         </state>
@@ -1452,7 +977,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/home/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.25" vertical-offset="0" max-vertical-offset="2511">
+        <state vertical-scroll-proportion="0.0" vertical-offset="621" max-vertical-offset="2511">
           <caret line="23" column="97" selection-start-line="23" selection-start-column="97" selection-end-line="23" selection-end-column="97" />
           <folding />
         </state>
@@ -1460,7 +985,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/services/services.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.5" vertical-offset="0" max-vertical-offset="3429">
+        <state vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="3429">
           <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
           <folding />
         </state>
@@ -1468,7 +993,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/technologies/technologies.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.75" vertical-offset="0" max-vertical-offset="4860">
+        <state vertical-scroll-proportion="0.0" vertical-offset="27" max-vertical-offset="4860">
           <caret line="1" column="59" selection-start-line="1" selection-start-column="59" selection-end-line="1" selection-end-column="59" />
           <folding />
         </state>
@@ -1476,7 +1001,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/about/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.5" vertical-offset="0" max-vertical-offset="3564">
+        <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="3564">
           <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
           <folding />
         </state>
@@ -1484,8 +1009,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/contact/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03169014" vertical-offset="0" max-vertical-offset="1404">
-          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.33292684" vertical-offset="132" max-vertical-offset="1350">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
           <folding />
         </state>
       </provider>
