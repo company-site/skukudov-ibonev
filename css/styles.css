@@ -311,6 +311,12 @@ contact-form .required-field {
     min-height: 100px;
 }
 
+@media (max-width: 460px) {
+    .work-values {
+        background-size: 100% !important;
+    }
+}
+
 .work-values:hover {
     cursor: pointer;
 }

@@ -30,14 +30,12 @@
                   latitude: 57.04920,
                   longitude: 9.94393
                 },
-                options: { draggable: false },
+                options: { draggable: false }
             }
         };
         
         // uiGmapGoogleMapApi is a promise.
         // The "then" callback function provides the google.maps object.
-        uiGmapGoogleMapApi.then(function(maps) {                      
-            console.log(maps);
-        });
+        uiGmapGoogleMapApi.then(function(maps) {});
     }
 })();
