@@ -1,102 +1,112 @@
 <!-- Navigation -->
-<nav class="navbar navbar-custom" id="navbar" role="navigation">
+<nav class="navbar navbar-custom navbar-fixed-top" id="navbar" role="navigation">
     <div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
-                <i class="fa fa-bars"></i>
-            </button>
-            <a data-ng-href="{{$root.homeLink}}">
-                <img src="../../images/logo_version.png" alt="logo">
-            </a>
-        </div>
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse"
+                            data-target=".navbar-main-collapse">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <a data-ng-href="{{$root.homeLink}}" id="logo">
+                        <img src="../../images/logo_version.png" alt="logo">
+                    </a>
+                </div>
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div id="mainNav" class="collapse navbar-collapse navbar-main-collapse navbar-right"
-             ng-controller="Navigation as vm">
-            <div ng-if="vm.isOnepage == true">
-                <ul class="nav navbar-nav">
-                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-                    <!--<li class="hidden">-->
-                        <!--<a href="/"></a>-->
-                    <!--</li>-->
-                    <li>
-                        <a class="page-scroll" detect-active-tab="1" href="/">Home</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" detect-active-tab="1" href="/services">Services</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" detect-active-tab="1" href="/technologies">Technologies</a>
-                    </li>
-                    <!--<li>-->
-                        <!--<a class="page-scroll" detect-active-tab="1" href="/dynamic-page">Dynamic page</a>-->
-                    <!--</li>-->
-                    <li>
-                        <a class="page-scroll" detect-active-tab="1" href="/about">About us</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" detect-active-tab="1" href="/contact-us">Contact</a>
-                    </li>
-                </ul>
-            </div>
-            <div ng-if="vm.isOnepage != true">
-                <ul class="nav navbar-nav">
-                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-                    <li class="hidden">
-                        <a href="/"></a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" detect-active-tab="1" ng-click="vm.changePage('/')" href="/">Home</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" detect-active-tab="1" ng-click="vm.changePage('/services')" href="/services">Services</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" detect-active-tab="1" ng-click="vm.changePage('/technologies')" href="/technologies">Technologies</a>
-                    </li>
-                    <!--<li>-->
-                        <!--<a class="page-scroll" detect-active-tab="1" ng-click="vm.changePage('/dynamic-page')" href="/dynamic-page">Dynamic-->
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div id="mainNav" class="collapse navbar-collapse navbar-main-collapse navbar-right"
+                     ng-controller="Navigation as vm">
+                    <div ng-if="vm.isOnepage == true">
+                        <ul class="nav navbar-nav">
+                            <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                            <!--<li class="hidden">-->
+                            <!--<a href="/"></a>-->
+                            <!--</li>-->
+                            <li>
+                                <a class="page-scroll" detect-active-tab="1" href="/">Home</a>
+                            </li>
+                            <li>
+                                <a class="page-scroll" detect-active-tab="1" href="/services">Services</a>
+                            </li>
+                            <li>
+                                <a class="page-scroll" detect-active-tab="1" href="/technologies">Technologies</a>
+                            </li>
+                            <!--<li>-->
+                            <!--<a class="page-scroll" detect-active-tab="1" href="/dynamic-page">Dynamic page</a>-->
+                            <!--</li>-->
+                            <li>
+                                <a class="page-scroll" detect-active-tab="1" href="/about">About us</a>
+                            </li>
+                            <li>
+                                <a class="page-scroll" detect-active-tab="1" href="/contact-us">Contact</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div ng-if="vm.isOnepage != true">
+                        <ul class="nav navbar-nav">
+                            <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                            <li class="hidden">
+                                <a href="/"></a>
+                            </li>
+                            <li>
+                                <a class="page-scroll" detect-active-tab="1" ng-click="vm.changePage('/')"
+                                   href="/">Home</a>
+                            </li>
+                            <li>
+                                <a class="page-scroll" detect-active-tab="1" ng-click="vm.changePage('/services')"
+                                   href="/services">Services</a>
+                            </li>
+                            <li>
+                                <a class="page-scroll" detect-active-tab="1" ng-click="vm.changePage('/technologies')"
+                                   href="/technologies">Technologies</a>
+                            </li>
+                            <!--<li>-->
+                            <!--<a class="page-scroll" detect-active-tab="1" ng-click="vm.changePage('/dynamic-page')" href="/dynamic-page">Dynamic-->
                             <!--page</a>-->
-                    <!--</li>-->
-                    <li>
-                        <a class="page-scroll" detect-active-tab="1" ng-click="vm.changePage('/about')" href="/about">About</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" detect-active-tab="1" ng-click="vm.changePage('/contact-us')" href="/contact-us">Contact</a>
-                    </li>
-                </ul>
+                            <!--</li>-->
+                            <li>
+                                <a class="page-scroll" detect-active-tab="1" ng-click="vm.changePage('/about')"
+                                   href="/about">About</a>
+                            </li>
+                            <li>
+                                <a class="page-scroll" detect-active-tab="1" ng-click="vm.changePage('/contact-us')"
+                                   href="/contact-us">Contact</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- /.navbar-collapse -->
             </div>
         </div>
-        <!-- /.navbar-collapse -->
     </div>
     <!-- /.container -->
 </nav>
 <!--<div class="hidden-xs">-->
-    <!--<ul id="sidebar">-->
-        <!--<li>-->
-            <!--<small>Responsive Design</small>-->
-            <!--<a href="#" id="responsiveDesign" ng-click="vm.toggle()" ng-class="{'toggle-on': vm.isResponsive =='true'}"-->
-               <!--class="toggle"></a></li>-->
-        <!--<br/>-->
-        <!--<li>-->
-            <!--<small>One Page Application</small>-->
-            <!--<a href="#" id="onePage" ng-click="vm.toggle()" ng-class="{'toggle-on': vm.onePage =='true'}"-->
-               <!--class="toggle"></a></li>-->
-    <!--</ul>-->
+<!--<ul id="sidebar">-->
+<!--<li>-->
+<!--<small>Responsive Design</small>-->
+<!--<a href="#" id="responsiveDesign" ng-click="vm.toggle()" ng-class="{'toggle-on': vm.isResponsive =='true'}"-->
+<!--class="toggle"></a></li>-->
+<!--<br/>-->
+<!--<li>-->
+<!--<small>One Page Application</small>-->
+<!--<a href="#" id="onePage" ng-click="vm.toggle()" ng-class="{'toggle-on': vm.onePage =='true'}"-->
+<!--class="toggle"></a></li>-->
+<!--</ul>-->
 <!--</div>-->
 <script type="text/javascript">
     // $screen-xs-max
-//    if ($(window).width() > 767) {
-//        $("ul#sidebar").sidebar({open: "click"});
-//    }
-//
-//    $(window).resize(function () {
-//        if ($(window).width() > 767) {
-//            $(".sidebar-container.left,.sidebar-container.top,.sidebar-container.right,.sidebar-container.bottom").show();
-//        } else {
-//            $(".sidebar-container.left,.sidebar-container.top,.sidebar-container.right,.sidebar-container.bottom").hide();
-//        }
-//    });
+    //    if ($(window).width() > 767) {
+    //        $("ul#sidebar").sidebar({open: "click"});
+    //    }
+    //
+    //    $(window).resize(function () {
+    //        if ($(window).width() > 767) {
+    //            $(".sidebar-container.left,.sidebar-container.top,.sidebar-container.right,.sidebar-container.bottom").show();
+    //        } else {
+    //            $(".sidebar-container.left,.sidebar-container.top,.sidebar-container.right,.sidebar-container.bottom").hide();
+    //        }
+    //    });
 
     if (sessionStorage.getItem('responsiveDesign') == 'true') {
         $('#responsiveDesign').addClass('toggle-on');
@@ -133,5 +143,13 @@
             $(toggle).removeClass('toggle-moving');
             window.location.reload();
         }, 200)
+    });
+
+    $(window).scroll(function () {
+        if ($(document).scrollTop() > 50) {
+            $('nav').addClass('shrink');
+        } else {
+            $('nav').removeClass('shrink');
+        }
     });
 </script>

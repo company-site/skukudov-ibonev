@@ -60,6 +60,21 @@ ul.nav.navbar-nav > li > a:active {
     border-bottom: 1px solid transparent;
     position: relative;
     left: 1px;
+    transition: all 0.4s ease;
+}
+
+nav.navbar.shrink {
+    height: 50px;
+}
+
+nav.shrink a {
+    padding-top: 7px !important;
+    padding-bottom: 7px !important;
+    transition: all 0.4s ease;
+}
+
+#logo {
+    padding: 0 !important;
 }
 
 a:hover {
