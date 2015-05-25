@@ -25,5 +25,16 @@
             {id: 6, image: 'icon-6.png', title: 'Passion and ability', description: 'We believe in highly responsive attitude towards the immediate needs of our clients and especially towards their future hopes and dreams as global business and ICT expands. ', altText: '', popoverCss: 'work-value-3-background', captionCss: ''},
             {id: 5, image: 'icon-5.png', title: 'Sustainable results', description: 'Our team is committed to deliver sustainable solutions to our customers on time and within the planned budget using our expertise, innovation strategies and collaboration models.', altText: '', popoverCss: 'work-value-4-background', captionCss: ''}
         ];
+        
+        $(document).ready(function() {
+            setTimeout(function() {
+                $(".main-heading").addClass("css-typing");
+                $(".main-heading").removeClass("hide");
+            }, 1000);
+            setTimeout(function() {
+                $(".sub-heading").addClass("css-typing");
+                $(".sub-heading").removeClass("hide");
+            }, 6000);
+        });
     }
 })();

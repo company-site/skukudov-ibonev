@@ -1,12 +1,12 @@
 <div class="home-container" data-ng-controller="Home as vm">
-    <div id="carousel-home" class="carousel slide" data-ride="carousel">
-        <!-- Indicators -->
+<!--    <div id="carousel-home" class="carousel slide" data-ride="carousel">
+         Indicators 
         <ol class="carousel-indicators">
             <li data-target="#carousel-home" data-slide-to="0" class="active"></li>
             <li data-target="#carousel-home" data-slide-to="1"></li>
             <li data-target="#carousel-home" data-slide-to="2"></li>
         </ol>
-        <!-- Wrapper for slides -->
+         Wrapper for slides 
         <div class="carousel-inner" role="listbox">
             <div class="item active">
                 <img class="img-responsive" width="100%" src="/images/home/slide1-bg-text.jpg" alt="slider">
@@ -18,12 +18,19 @@
                 <img class="img-responsive" width="100%" src="/images/home/slide3-bg-text.jpg" alt="slider">
             </div>
         </div>
+    </div>-->
+
+    <div class="video-container">
+        <video autoplay loop poster="../../images/home/typing-video.jpg" class="typing-video">
+            <source src="../../images/home/typing_video.mp4" type="video/mp4" />
+        </video>
+        <h1 class="text-left main-heading hide">Softologic is a digital product development studio</h1>
+        <h2 class="text-left sub-heading hide">Our passion is turning great business ideas into competitive websites and software</h2>
     </div>
-
     <div class="container home-presentation">
-        <h1 class="text-center">Our passion is turning great business ideas into competitive websites and software</h1>
+        <!--<h1 class="text-center"></h1>-->
 
-        <h2 class="text-center">Strategic solutions</h2>
+        <h3 class="text-center">Strategic solutions</h2>
 
         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 text-center" ng-repeat="service in vm.ourServices">
             <div class="thumbnail thumbnail-home">

@@ -485,3 +485,98 @@ contact-form .required-field {
 .services-container .design-btn:hover {
     background-color: #347ab8 !important;
 }
+
+
+.video-container {
+    position: relative;
+}
+
+.css-typing {
+    width: 90%;
+    white-space:nowrap;
+    overflow:hidden;
+    -webkit-animation: type 5s steps(50, end);
+    animation: type 5s steps(50, end);
+}
+
+@keyframes type{
+    from { width: 0; }
+}
+
+@-webkit-keyframes type{
+    from { width: 0; }
+}
+
+.main-heading, .sub-heading {
+    position: absolute;
+    color: #fff;
+    background: rgba(0,0,0,0.5);
+    padding: 10px;
+    margin-top: 30px;
+    top: 100px;
+    left: 40px;
+}
+
+.sub-heading {
+    top: 190px;
+    left: 20px;
+}
+
+
+.typing-video {
+    width: 100%;
+    z-index: -100;
+    background: url('../images/home/typing-video.jpg') no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+@media (max-width: 1156px) {
+    .main-heading {
+        font-size: 28px;
+    }
+    
+    .sub-heading {
+        font-size: 26px;
+    }
+}
+
+@media (max-width: 998px) {
+    .main-heading {
+        font-size: 26px;
+    }
+    
+    .sub-heading {
+        font-size: 24px;
+    }
+}
+
+
+@media (max-width: 921px) {
+    .main-heading {
+        font-size: 24px;
+    }
+    
+    .sub-heading {
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 846px) {
+    .main-heading {
+        font-size: 20px;
+    }
+    
+    .sub-heading {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 768px) {
+    .main-heading, .sub-heading {
+        left: 0;
+        width: 100%;
+        -webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
+        transition: width 2s;
+    }
+}
