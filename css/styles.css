@@ -378,88 +378,110 @@ contact-form .required-field {
     list-style-position: inside;
 }
 
-.services-container .panel-body, .services-container .panel-footer {
-    padding: 0 !important;
-    background-color: #D5D5D5 !important;
-    color: white;
-    border: none !important;
-}
-
-.services-container .panel .h1, .services-container .panel .h3 {
-    padding: 0;
+.services-container .services .h1, .services-container .services .h3 {
     margin: 0;
     color: white;
 }
 
-.services-container .panel .h2 {
-    padding: 0 0 5px 0;
+@media (min-width: 768px) {
+    .services-container .services .h1, .services-container .services .h3 {
+        font-size: 60px;
+    }
+}
+
+.services .heading {
+    padding-right: 60px;
+    padding-left: 60px;
+    border-radius: 15px 15px 0 0;
+    border-bottom: 1px solid #5C5C5C;
+}
+
+.services-container .jumbotron a {
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 200;
+}
+
+.services-container .jumbotron {
     margin: 0;
-    color: white;
+    border-bottom-right-radius: 0;
 }
 
-.services-container .panel-heading {
-    border-bottom: 2px solid #5C5C5C;
+@media (max-width: 767px) {
+    .services-container .jumbotron {
+        border-bottom-left-radius: 0;
+    }
 }
 
-.services-container .package-footer a {
-    padding-top: 20px !important;
-}
-
-.package p {
-    padding-top: 30px !important;
-}
-
-.services-container .panel-body .content {
-    margin: 35px 0 35px 15px;
-    color: black;
-    min-height: 492px;
-}
-
-.services-container .panel-body .content .fa {
+.services-container .jumbotron .glyphicon-chevron-right {
     font-size: 22px;
+    text-shadow: 0 0 5px #999999;
     color: white;
     vertical-align: middle;
     padding-right: 20px;
 }
 
-.start-up .package {
-    background: url('../images/packages/green_up.png') center center no-repeat;
-    height: 107px;
+.services-container .services-btn {
+    padding: 10px 16px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    color: white;
+    font-size: 38px;
+    border: none;
 }
 
-.start-up .package-footer {
-    background: url('../images/packages/green_down.png') center center no-repeat;
-    height: 65px;
+.services-container .services-btn:focus {
+    outline: 0;
 }
 
-.services-container .start-up .panel-heading {
+.services .start-up {
     background-color: #95b42b;
 }
 
-.web-development .package {
-    background: url('../images/packages/orange_up.png') center center no-repeat;
-    height: 107px;
+.services-container .jumbotron.start-up-container {
+    border-bottom: 20px solid #95b42b;
 }
 
-.web-development .package-footer {
-    background: url('../images/packages/orange_down.png') center center no-repeat;
-    height: 65px;
+.services-container .start-up-btn {
+    background-color: #95b42b;
 }
 
-.services-container .web-development .panel-heading {
+.services-container .start-up-btn:hover {
+    background-color: #95b42b !important;
+}
+
+.services .web-development {
     background-color: #e8b92f;
 }
 
-.design .package {
-    background: url('../images/packages/blue_up.png') center center no-repeat;
-    height: 107px;
+.services-container .jumbotron.web-development-container {
+    border-bottom: 20px solid #e8b92f;
 }
 
-.design .package-footer {
-    background: url('../images/packages/blue_down.png') center center no-repeat;
-    height: 65px;
+.services-container .web-development-btn {
+    background-color: #e8b92f;
 }
 
-.services-container .design .panel-heading {
+.services-container .web-development-btn:hover {
+    background-color: #e8b92f !important;
+}
+
+.services-container .start-up-btn:hover {
+    background-color: #95b42b !important;
+}
+
+.services .design {
     background-color: #347ab8;
+}
+
+.services-container .jumbotron.design-container {
+    border-bottom: 20px solid #347ab8;
+}
+
+.services-container .design-btn {
+    background-color: #347ab8;
+}
+
+.services-container .design-btn:hover {
+    background-color: #347ab8 !important;
 }
