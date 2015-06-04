@@ -48,7 +48,7 @@
 
     <base href="/"/>
     <title data-ng-bind="title">Softologic</title>
-    <link rel="icon" type="image/x-icon" href="../images/fav.ico?v=3">
+    <link rel="icon" type="image/x-icon" href="../images/fav.ico?v=4">
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 <div id="main-container">

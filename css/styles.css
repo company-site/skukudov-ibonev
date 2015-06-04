@@ -385,7 +385,7 @@ contact-form .required-field {
 
 @media (min-width: 768px) {
     .services-container .services .h1, .services-container .services .h3 {
-        font-size: 60px;
+        font-size: 36px;
     }
 }
 
@@ -426,7 +426,7 @@ contact-form .required-field {
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
     color: white;
-    font-size: 38px;
+    font-size: 36px;
     border: none;
 }
 
