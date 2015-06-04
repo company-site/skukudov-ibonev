@@ -510,11 +510,6 @@ contact-form .required-field {
     background-color: #347ab8 !important;
 }
 
-
-.video-container {
-    position: relative;
-}
-
 .css-typing {
     width: 90%;
     white-space:nowrap;
@@ -523,11 +518,11 @@ contact-form .required-field {
     animation: type 5s steps(50, end);
 }
 
-@keyframes type{
+@keyframes type {
     from { width: 0; }
 }
 
-@-webkit-keyframes type{
+@-webkit-keyframes type {
     from { width: 0; }
 }
 
@@ -544,15 +539,6 @@ contact-form .required-field {
 .sub-heading {
     top: 190px;
     left: 20px;
-}
-
-
-.typing-video {
-    width: 100%;
-    z-index: -100;
-    background: url('../images/home/typing-video.jpg') no-repeat;
-    background-size: cover;
-    overflow: hidden;
 }
 
 @media (max-width: 1156px) {
