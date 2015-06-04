@@ -58,7 +58,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
-                <p>© 2015 SoftOlogic. All rights reserved. </p>
+                <p>© 2015 SoftoLogic. All rights reserved. </p>
             </div>
         </div>
     </div>
