@@ -19,10 +19,10 @@ angular.module('app').directive('detectActiveTab', function ($location) {
             // This var grabs the tab-level off the attribute, or defaults to 1
             var pathLevel = attrs.detectActiveTab || 1,
             // This var finds what the path is at the level specified
-                pathToCheck = $location.path().split('/')[pathLevel] || 
+                pathToCheck = $location.path().split('/')[pathLevel] ||
                   "current $location.path doesn't reach this level",
             // This var finds grabs the same level of the href attribute
-                tabLink = attrs.href.split('/')[pathLevel] || 
+                tabLink = attrs.href.split('/')[pathLevel] ||
                   "href doesn't include this level";
             // Above, we use the logical 'or' operator to provide a default value
             // in cases where 'undefined' would otherwise be returned.

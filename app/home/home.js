@@ -26,6 +26,13 @@
             {id: 5, image: 'icon-5.png', title: 'Sustainable results', description: 'Our team is committed to deliver sustainable solutions to our customers on time and within the planned budget using our expertise, innovation strategies and collaboration models.', altText: '', popoverCss: 'work-value-4-background', captionCss: ''}
         ];
         
+        // TODO - use ng-repeat to show services
+        vm.services = [
+            {containerId: 'web-services', name: 'STARTUP / from 500 &euro; /', serviceItems: {}},
+            {containerId: 'web-services', name: 'STARTUP / from 500 &euro; /', serviceItems: {}},
+            {containerId: 'web-services', name: 'STARTUP / from 500 &euro; /', serviceItems: {}}
+        ];
+        
         $(document).ready(function() {
             setTimeout(function() {
                 $(".main-heading").addClass("css-typing");

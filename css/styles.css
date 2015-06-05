@@ -526,6 +526,10 @@ contact-form .required-field {
     from { width: 0; }
 }
 
+.services-container {
+    margin-top: 30px;
+}
+
 .main-heading, .sub-heading {
     position: absolute;
     color: #fff;
